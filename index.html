@@ -1,0 +1,985 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LoL Player List</title>
+    <style>
+        /* Basic Global Styles */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #0a0a0a; /* Dark background */
+            color: #e0e0e0;      /* Light text */
+            padding: 20px;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        h1 {
+            color: #00bfff; /* Bright blue for heading */
+            margin-bottom: 30px;
+        }
+
+        /* Controls Section */
+        .controls {
+            margin-bottom: 20px;
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        #searchBar, #roleFilter {
+            padding: 10px 15px;
+            border: 1px solid #333;
+            border-radius: 8px;
+            background-color: #1c1c1c;
+            color: #e0e0e0;
+            font-size: 1rem;
+            min-width: 180px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        }
+
+        #searchBar::placeholder {
+            color: #888;
+        }
+
+        #roleFilter option {
+            background-color: #1c1c1c;
+            color: #e0e0e0;
+        }
+
+        /* Player Grid Container */
+        .player-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr); /* 3 columns for 3 cards per row */
+            gap: 32px 32px;
+            width: 100%;
+            max-width: 1600px;
+            justify-content: center;
+            align-items: start;
+        }
+
+        /* Individual Player Card */
+        .player-card {
+            min-width: 340px;   /* Slightly smaller for 3 per row */
+            max-width: 420px;
+            width: 100%;
+            background: #232323;
+            border-radius: 14px;
+            border: 2px solid #6ec6ff;
+            padding: 18px 20px 14px 20px;
+            height: 240px; /* Fixed height for uniformity */
+            margin: 0;
+            box-shadow: 0 2px 10px #000a;
+            display: flex;
+            flex-direction: column;
+            align-items: stretch;
+            overflow:hidden
+        }
+
+        .player-card.silver { border-color: #bfc6d1; }
+
+        .player-card:hover {
+            border-color: #00bfff44;
+        }
+
+        /* Player Info Section within Card */
+        .player-info-header {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            gap: 14px;
+            margin-bottom: 10px;
+            flex-wrap: nowrap;
+        }
+
+        .player-icon img {
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            border: 2px solid #888;
+            object-fit: cover;
+        }
+
+        .player-main-info {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            min-width: 0;
+        }
+
+        .player-name {
+            font-size: 1.15em;
+            font-weight: bold;
+            color: #fff;
+            margin-bottom: 2px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            flex-wrap: wrap;
+            white-space: nowrap; /* Prevents name from wrapping */
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .role-icons-display {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            margin-left: 6px;
+        }
+
+        .role-icon {
+            width: 22px;
+            height: 22px;
+            object-fit: contain;
+            vertical-align: center;
+        }
+
+        .player-level-rank {
+            font-size: 1em;
+            color: #ccc;
+            margin-bottom: 0;
+            margin-top: 2px;
+        }
+
+        .player-rank {
+            color: #b0cfff;
+            font-size: 0.97em;
+            font-weight: 500;
+        }
+
+        .opgg-link {
+            color: #00bfff;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1em;
+            margin-left: auto;
+            white-space: nowrap;
+            align-self: flex-start;
+        }
+
+        /* Champion Masteries Section */
+        .champion-masteries {
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+            justify-content: center;
+            width: 100%;
+            margin-top: 10px;
+            padding-top: 10px;
+            border-top: 1px solid #333; /* Separator line */
+        }
+
+        .champ-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-size: 0.85rem;
+            text-align: center;
+        }
+
+        .champ-item img {
+            width: 55px;
+            height: 55px;
+            border-radius: 8px; /* Slightly rounded champ icons */
+            object-fit: cover;
+            border: 1px solid #555;
+        }
+
+        .champ-item div {
+            margin-top: 5px;
+            color: #ccc;
+        }
+
+        /* Highest Mastery Display */
+        .highest-mastery {
+            font-size: 0.92em;
+            color: #b0b0b0;
+            margin-top: 8px;
+            padding-top: 4px;
+            border-top: 1px dashed #333;
+            width: 100%;
+            text-align: left;
+        }
+        .highest-mastery strong {
+            color: #fff;
+        }
+
+        /* Loading Spinner & Messages */
+        .loading-state {
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        .loading-spinner {
+            border: 5px solid rgba(255, 255, 255, 0.2);
+            border-radius: 50%;
+            border-top: 5px solid #00bfff;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px auto;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .message {
+            font-size: 1.1rem;
+            color: #aaa;
+        }
+        .error-message {
+            color: #ff6b6b; /* Red for errors */
+            font-size: 1.1rem;
+        }
+
+        /* Compact champion mastery row */
+        .champion-masteries-row {
+            display: flex;
+            gap: 6px;
+            margin-top: 6px;
+            margin-bottom: 0;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+        }
+
+        .champ-row-icon {
+            width: 44px;
+            height: 44px;
+            border-radius: 8px;
+            object-fit: cover;
+            border: 1px solid #555;
+            background: #222;
+        }
+
+        .champ-label {
+            margin-top: 4px;
+            color: #ccc;
+            font-size: 0.92em;
+            font-weight: 400;
+            max-width: 60px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .player-rank {
+            color: #ccc;         /* Use a neutral light gray */
+            font-size: 0.97em;
+            margin-top: 2px;
+            display: block;
+            font-weight: 500;
+        }
+
+        /* Prevent overflow for long names */
+        .player-name-and-roles strong {
+            max-width: none;
+            overflow: visible;
+            text-overflow: unset;
+            white-space: normal;
+            display: inline;
+            vertical-align: middle;
+        }
+
+        .player-level-rank-and-mastery {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 2px;
+            margin-bottom: 0;
+            width: 100%;
+        }
+
+        /* Example Player Card Styles */
+        .player-card {
+            background: #232323;
+            border-radius: 14px;
+            border: 2px solid #6ec6ff;
+            padding: 18px 20px 14px 20px;
+            min-width: 340px;
+            width: 100%;
+            min-height: 220px;
+            margin: 0;
+            box-shadow: 0 2px 10px #000a;
+            display: flex;
+            flex-direction: column;
+            align-items: stretch;
+        }
+        .player-card.silver { border-color: #bfc6d1; }
+        .player-header {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            gap: 14px;
+            margin-bottom: 10px;
+        }
+        .profile-icon {
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            border: 2px solid #888;
+            object-fit: cover;
+        }
+        .player-info {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+        .player-name {
+            font-size: 1.15em;
+            font-weight: bold;
+            color: #fff;
+            margin-bottom: 2px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            flex-wrap: wrap;
+        }
+        .lanes {
+            display: flex;
+            gap: 6px;
+        }
+        .lane-icon {
+            width: 22px;
+            height: 22px;
+            object-fit: contain;
+        }
+        .opgg-link {
+            color: #00bfff;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1em;
+            margin-left: auto;
+            white-space: nowrap;
+        }
+        .player-details {
+            display: flex;
+            gap: 12px;
+            justify-content: flex-start;
+            align-items: center;
+            margin-bottom: 8px;
+            margin-left: 62px; /* aligns with text after icon */
+            width: 100%;
+        }
+        .player-level {
+            color: #ccc;
+            font-size: 1em;
+        }
+        .player-rank {
+            color: #b0cfff;
+            font-size: 0.97em;
+            font-weight: 500;
+        }
+        .champs {
+            display: flex;
+            gap: 8px;
+            justify-content: center;
+            margin-top: 6px;
+            width: 100%;
+        }
+        .champ-icon {
+            width: 36px;
+            height: 36px;
+            border-radius: 6px;
+            border: 1px solid #444;
+            background: #222;
+            object-fit: cover;
+        }
+    </style>
+</head>
+<body>
+    <h1>Sanctum League Players (NA)</h1>
+
+    <div class="controls">
+        <input type="text" id="searchBar" placeholder="Search by name or tag">
+        <select id="roleFilter">
+            <option value="">Filter by role</option>
+            <option value="top">Top</option>
+            <option value="jungle">Jungle</option>
+            <option value="mid">Mid</option>
+            <option value="adc">ADC</option>
+            <option value="support">Support</option>
+            <option value="fill">Fill</option>
+        </select>
+    </div>
+
+    <div id="playerList" class="player-grid">
+        <div class="loading-state">
+            <div class="loading-spinner"></div>
+            <p class="message">Loading players...</p>
+        </div>
+    </div>
+
+    <script>
+    // --- CONFIGURATION ---
+    // !!! IMPORTANT: Replace "YOUR_RIOT_API_KEY_HERE" with your actual, current Riot Games Development API Key.
+    // !!! Development API keys expire every 24 hours. You MUST regenerate and update this key regularly.
+    
+
+    // !!! IMPORTANT: Replace this with the CSV URL you get from publishing your Google Sheet (which contains your Google Form responses) to the web.
+    // Make sure your Google Sheet has 'Timestamp', 'In-Game Name', 'Preferred Role(s)' as headers in the first row.
+    // If a player has multiple roles, list them comma-separated (e.g., "mid,support")
+
+    // Riot API Regions (do not change unless targeting different regions)
+    const REGION_ROUTING = "americas"; // For Riot Account V1 (name#tag to PUUID)
+    const REGION_PLATFORM = "na1";     // For LoL-specific endpoints (summoner, rank, mastery)
+
+    // Data Dragon Base URL (for game assets like champion images, profile icons)
+    const DDRAGON_BASE_URL = "https://ddragon.leagueoflegends.com/cdn";
+
+    // Add this helper function:
+    function delay(ms) {
+        return new Promise(resolve => setTimeout(resolve, ms));
+    }
+
+    // --- NEW CODE STARTS HERE --- (around line 82)
+    // --- CACHING FUNCTIONS ---
+    const CACHE_EXPIRATION_HOURS = 1; // Data is considered stale after 1 hour. You can adjust this.
+
+    function getCachedData(key) {
+        const cachedItem = localStorage.getItem(key);
+        if (cachedItem) {
+            const { data, timestamp } = JSON.parse(cachedItem);
+            const now = new Date().getTime();
+            // Convert CACHE_EXPIRATION_HOURS to milliseconds
+            const expirationTime = timestamp + CACHE_EXPIRATION_HOURS * 60 * 60 * 1000; 
+
+            if (now < expirationTime) {
+                console.log(`Cache hit for ${key}`);
+                return data; // Data is fresh
+            } else {
+                console.log(`Cache expired for ${key}`);
+                localStorage.removeItem(key); // Remove stale data
+            }
+        }
+        console.log(`Cache miss for ${key}`);
+        return null; // No fresh data in cache
+    }
+
+    function setCachedData(key, data) {
+        const itemToStore = {
+            data: data,
+            timestamp: new Date().getTime()
+        };
+        localStorage.setItem(key, JSON.stringify(itemToStore));
+        console.log(`Data cached for ${key}`);
+    }
+    // --- NEW CODE ENDS HERE --- (around line 105)
+
+
+    // --- INTERNAL CACHE --- (Original line 83/84)
+    let championData = {}; 
+    let latestDDragonVersion = "";   // Stores the latest Data Dragon version string
+    let PLAYERS = [];            
+
+        // --- ROLE ICONS (Image URLs) ---
+        // These are image URLs for each role icon.
+        const ROLE_ICONS = {
+            top: `https://i.ibb.co/YTK79V84/Top-icon.webp`,
+            jungle: `https://i.ibb.co/qYNwGKq1/Jungle-icon.webp`,
+            mid: `https://i.ibb.co/nMgdwswj/Middle-icon.webp`,
+            adc: `https://i.ibb.co/j909V51k/Bottom-icon.webp`,
+            support: `https://i.ibb.co/wZGnMXHd/Support-icon.webp`,
+            fill: `https://i.ibb.co/Fq7dxXcJ/Specialist-icon.webp`
+        };
+
+
+        // --- API HELPER FUNCTIONS ---
+
+        
+
+        /**
+         * Fetches the latest Data Dragon version from Riot's API.
+         * Caches the result to prevent repeated calls.
+         * @returns {Promise<string>} The latest Data Dragon version, or a fallback if fetching fails.
+         */
+        async function getLatestDDragonVersion() {
+            if (latestDDragonVersion) {
+                return latestDDragonVersion; // Use cached version
+            }
+            try {
+                const response = await fetch("https://ddragon.leagueoflegends.com/api/versions.json");
+                if (!response.ok) {
+                    throw new Error(`Failed to fetch DDragon versions: ${response.status} ${response.status.text}`);
+                }
+                const versions = await response.json();
+                latestDDragonVersion = versions[0]; // The first element is usually the latest
+                return latestDDragonVersion;
+            } catch (error) {
+                console.error("Error getting Data Dragon version:", error);
+                return "14.11.1"; // Fallback to a recent known version if API fails
+            }
+        }
+
+        /**
+         * Loads and caches champion data from Data Dragon.
+         * @returns {Promise<Object>} A map of champion data keyed by champion ID.
+         */
+        async function loadChampionData() {
+            if (Object.keys(championData).length > 0) {
+                return championData; // Use cached data
+            }
+            const version = await getLatestDDragonVersion();
+            const url = `${DDRAGON_BASE_URL}/${version}/data/en_US/champion.json`;
+            try {
+                const response = await fetch(url);
+                if (!response.ok) {
+                    throw new Error(`Failed to load champion data: ${response.status} ${response.statusText}`);
+                }
+                const data = await response.json();
+                const champMapById = {};
+                if (data && data.data) {
+                    Object.values(data.data).forEach(champ => {
+                        champMapById[champ.key] = champ;
+                    });
+                }
+                championData = champMapById; 
+                return championData;
+            } catch (error) {
+                console.error("Error loading champion data:", error);
+                return {}; // Return empty object on failure
+            }
+        }
+
+        /**
+         * Generic helper to make authenticated requests to Riot's API.
+         * @param {string} url The full API endpoint URL (without API key).
+         * @returns {Promise<Object|null>} The JSON response, or null if the request fails.
+         */
+         /**
+      * Generic helper to make authenticated requests to Riot's API.
+      * @param {string} url The full API endpoint URL (without API key).
+      * @returns {Promise<Object|null>} The JSON response, or null if the request fails.
+      */
+     async function fetchRiotApi(url) { // <--- ADD THIS LINE HERE
+         try {
+                    const response = await fetch(`${url}?api_key=${API_KEY}`);
+                                 if (!response.ok) {
+                 // Log specific error details for debugging
+                 console.error(`Riot API Request Failed: ${response.status} ${response.statusText} for URL: ${url}`);
+                 if (response.status === 403) {
+                     console.error("HINT: 403 Forbidden usually means your API_KEY is invalid or expired. Please regenerate it on the Riot Developer Portal.");
+                 } else if (response.status === 404) {
+                     console.error("HINT: 404 Not Found often means the Riot ID (name#tag) is incorrect or doesn't exist.");
+                 }
+                 return null;
+             }
+             return await response.json();
+         } catch (error) {
+             console.error(`Network or parsing error for ${url}:`, error);
+             return null;
+         }
+     } // <--- ENSURE THIS CLOSING BRACE IS HERE
+
+        /**
+         * Fetches all necessary League of Legends data for a single player.
+         * @param {Object} player - Player object with name, tag, and role.
+         * @returns {Promise<Object|null>} Comprehensive player data or null if any step fails.
+         */
+        async function getPlayerFullDetails(player) {
+    // This key will be unique for each player
+    const cacheKey = `player_${player.name}#${player.tag}`; 
+
+    // 1. Get PUUID from Riot ID (gameName and tagLine)
+    const account = await fetchRiotApi(
+        `https://${REGION_ROUTING}.api.riotgames.com/riot/account/v1/accounts/by-riot-id/${encodeURIComponent(player.name)}/${encodeURIComponent(player.tag)}`
+    );
+    if (!account) {
+        console.warn(`Could not find Riot Account for ${player.name}#${player.tag}.`);
+        return null;
+    }
+    // 2. If not in cache or stale, proceed to fetch from API
+    console.log(`Fetching player details from API for <span class="math-inline">\{player\.name\}\#</span>{player.tag}`); // Added for debugging
+
+
+    try {
+        // Get PUUID from Riot ID (gameName and tagLine)
+        const account = await fetchRiotApi(
+    `https://${REGION_ROUTING}.api.riotgames.com/riot/account/v1/accounts/by-riot-id/${encodeURIComponent(player.name)}/${encodeURIComponent(player.tag)}`
+);
+        if (!account) {
+            console.warn(`Could not find Riot Account for <span class="math-inline">\{player\.name\}\#</span>{player.tag}.`);
+            return null;
+        }
+
+        // Get Summoner details using PUUID
+        const summoner = await fetchRiotApi(
+            `https://${REGION_PLATFORM}.api.riotgames.com/lol/summoner/v4/summoners/by-puuid/${account.puuid}`
+        );
+        if (!summoner) {
+            console.warn(`Could not find Summoner data for <span class="math-inline">\{player\.name\}\#</span>{player.tag}.`);
+            return null;
+        }
+
+        // Fetch Rank and ALL Champion Masteries by PUUID
+        const [ranks, allMasteries] = await Promise.all([
+            fetchRiotApi(`https://${REGION_PLATFORM}.api.riotgames.com/lol/league/v4/entries/by-summoner/${summoner.id}`),
+            fetchRiotApi(`https://${REGION_PLATFORM}.api.riotgames.com/lol/champion-mastery/v4/champion-masteries/by-puuid/${account.puuid}`)
+        ]);
+
+        // Process Rank Data (find solo queue rank)
+        const soloRank = (ranks || []).find(r => r.queueType === "RANKED_SOLO_5x5") || { tier: "Unranked", rank: "", leaguePoints: 0 };
+
+        // Process Champion Masteries (sort and get top 5 for display, and highest overall)
+        // The /by-puuid endpoint returns masteries sorted by points in descending order by default.
+        const sortedMasteries = allMasteries || []; // Ensure it's an array even if null
+
+        const topChamps = sortedMasteries
+            .slice(0, 5) // Get the top 5 champions for display
+            .map(masteryEntry => {
+                const champ = championData[masteryEntry.championId];
+                return champ ? {
+                    name: champ.name,
+                    img: `${DDRAGON_BASE_URL}/${latestDDragonVersion}/img/champion/${champ.image.full}`,
+                    points: masteryEntry.championPoints
+                } : null;
+            })
+            .filter(Boolean); // Remove any null entries
+
+        let highestMasteryChamp = null;
+        if (sortedMasteries.length > 0) {
+            // The first champion in the sorted list is the highest
+            const highest = sortedMasteries[0];
+            const champ = championData[highest.championId];
+            if (champ) {
+                highestMasteryChamp = {
+                    name: champ.name,
+                    points: highest.championPoints
+                };
+            }
+        }
+
+        const fullPlayerData = {
+            ...player, // Include original player info
+            summoner,
+            soloRank,
+            topChamps, // Now contains up to 5 top champions
+            highestMasteryChamp // The single highest mastery champion
+        };
+
+        // 3. Store the newly fetched data in cache
+        setCachedData(cacheKey, fullPlayerData);
+
+        return fullPlayerData;
+
+    } catch (error) {
+        console.error(`Error fetching details for <span class="math-inline">\{player\.name\}\#</span>{player.tag}:`, error);
+        return null;
+    }
+}
+
+        // --- UI RENDERING FUNCTIONS ---
+
+        /**
+         * Creates an HTML card element for a given player's data.
+         * @param {Object} playerData - The comprehensive data for a player.
+         * @returns {HTMLElement} The constructed player card div.
+         */
+        function createPlayerCard(playerData) {
+    const profileIconUrl = `${DDRAGON_BASE_URL}/${latestDDragonVersion}/img/profileicon/${playerData.profileIconId}.png`;
+
+    // Role icons
+    const roles = Array.isArray(playerData.role)
+        ? playerData.role.map(r => r.trim().toLowerCase())
+        : (playerData.role || "").split(',').map(r => r.trim().toLowerCase()).filter(Boolean);
+
+    const roleIconsHtml = roles.map(role => {
+        const iconUrl = ROLE_ICONS[role] || 'https://placehold.co/20x20/888888/FFFFFF?text=?';
+        return `<img src="${iconUrl}" alt="${role} icon" class="role-icon">`;
+    }).join('');
+
+    // Mastery champions
+    const champsHtml = (playerData.topChamps || []).map(champ => `
+        <div class="champ-item">
+            <img src="${champ.img}" alt="${champ.name}" class="champ-row-icon" title="${champ.name}: ${champ.points.toLocaleString()} pts">
+            <div class="champ-label">${champ.name}</div>
+        </div>
+    `).join('');
+
+    return htmlToElement(`
+        <div class="player-card">
+            <div class="player-info-header">
+                <div class="player-icon">
+                    <img src="${profileIconUrl}" alt="Profile Icon">
+                </div>
+                <div class="player-main-info">
+                    <div class="player-name">
+                        ${playerData.name}#${playerData.tag}
+                        <span class="role-icons-display">${roleIconsHtml}</span>
+                    </div>
+                    <div class="player-level-rank">
+                        Level ${playerData.summonerLevel || "?"}<br>
+                        <span class="player-rank">
+                            Rank: ${playerData.soloRank && playerData.soloRank.tier !== "Unranked"
+                                ? `${playerData.soloRank.tier} ${playerData.soloRank.rank} (${playerData.soloRank.leaguePoints} LP)`
+                                : "Unranked"}
+                        </span>
+                    </div>
+                </div>
+                <a class="opgg-link" href="https://na.op.gg/summoners/na/${playerData.name}-${playerData.tag}" target="_blank">OP.GG</a>
+            </div>
+            <div class="champion-masteries-row">
+                ${champsHtml}
+            </div>
+            <div class="highest-mastery">
+                Highest Mastery: <strong>${playerData.highestMasteryChamp ? playerData.highestMasteryChamp.name : "N/A"}</strong>
+                ${playerData.highestMasteryChamp ? `(${playerData.highestMasteryChamp.points.toLocaleString()} pts)` : ""}
+            </div>
+        </div>
+    `);
+}
+
+// Helper to convert HTML string to DOM element
+function htmlToElement(html) {
+    const template = document.createElement('template');
+    template.innerHTML = html.trim();
+    return template.content.firstChild;
+}
+
+        /**
+         * Displays a placeholder card for players whose data failed to load.
+         * @param {Object} player - The original player object (name, tag, role).
+         * @returns {HTMLElement} The constructed failed player card div.
+         */
+        function createFailedPlayerCard(player) {
+            const card = document.createElement("div");
+            card.className = "player-card";
+            card.style.opacity = "0.6"; // Dim it to indicate failure
+
+            // Generate role icons for failed card too
+            const roles = player.role.split(',').map(r => r.trim().toLowerCase());
+            const roleIconsHtml = roles.map(role => {
+                const iconUrl = ROLE_ICONS[role] || 'https://placehold.co/20x20/888888/FFFFFF?text=?';
+                return `<img src="${iconUrl}" alt="${role} icon" class="role-icon">`;
+            }).join('');
+
+            console.log(`[DEBUG: createFailedPlayerCard] Creating failed card for ${player.name}. Roles:`, roles); // Added debug log
+
+            card.innerHTML = `
+                <div class="player-info-header">
+                    <div class="player-icon">
+                        <img src="https://placehold.co/60x60/FF6B6B/FFFFFF?text=!" alt="Error Icon">
+                    </div>
+                    <div class="player-details">
+                        <div class="player-name-and-roles">
+                            <strong>${player.name}#${player.tag}</strong>
+                            <div class="role-icons-display">
+                                ${roleIconsHtml}
+                            </div>
+                        </div>
+                        <span class="error-message">Failed to Load Data</span>
+                    </div>
+                </div>
+                <div class="champion-masteries">
+                    <p style="color:#ff6b6b; font-size:0.9em;">Could not retrieve full data for this player.</p>
+                    <small style="color:#aaa; font-size:0.8em;">Check Riot ID or API key status in console.</small>
+                </div>
+                <div class="highest-mastery">
+                    Highest Mastery: <span style="color:#ff6b6b;">N/A</span>
+                </div>
+            `;
+            return card;
+        }
+
+        /**
+         * Fetches player data from the published Google Sheet CSV.
+         * @returns {Promise<Array<Object>>} An array of player objects {name, tag, role}.
+         */
+        async function fetchPlayersFromSheet() {
+            if (!GOOGLE_SHEET_CSV_URL || GOOGLE_SHEET_CSV_URL === "YOUR_GOOGLE_SHEET_CSV_URL_HERE") {
+                console.error("ERROR: Google Sheet CSV URL is not set. Please update 'GOOGLE_SHEET_CSV_URL' in the script.");
+                return [];
+            }
+
+            try {
+                const response = await fetch(GOOGLE_SHEET_CSV_URL);
+                if (!response.ok) {
+                    throw new Error(`Failed to fetch Google Sheet: ${response.status} ${response.statusText}`);
+                }
+                const csvText = await response.text();
+                console.log("[DEBUG: fetchPlayersFromSheet] Raw CSV text received:", csvText);
+                
+                const lines = csvText.split('\n').filter(line => line.trim() !== '');
+                const playersData = [];
+                
+                if (lines.length > 1) {
+                    const headers = lines[0].split(',').map(h => h.trim());
+                    console.log("[DEBUG: fetchPlayersFromSheet] CSV Headers:", headers);
+
+                    const ignHeader = "In-Game Name";
+                    const roleHeader = "Preferred Role(s)";
+                    const timestampHeader = "Timestamp"; // Assuming Timestamp is still a header
+
+                    const ignIndex = headers.indexOf(ignHeader);
+                    const roleIndex = headers.indexOf(roleHeader);
+                    const timestampIndex = headers.indexOf(timestampHeader); // Get index
+
+                    if (ignIndex === -1 || roleIndex === -1) {
+                        console.error(`ERROR: Google Sheet headers '${ignHeader}' or '${roleHeader}' not found. Please ensure they match exactly.`);
+                        return [];
+                    }
+
+                    for (let i = 1; i < lines.length; i++) {
+                        const rawLine = lines[i];
+                        const values = [];
+                        let inQuote = false;
+                        let currentField = '';
+
+                        // Simple CSV parsing for comma-separated values, handling quotes
+                        for (let j = 0; j < rawLine.length; j++) {
+                            const char = rawLine[j];
+                            if (char === '"') {
+                                // Handle escaped quotes (e.g., "" inside a quoted field)
+                                if (inQuote && rawLine[j + 1] === '"') {
+                                    currentField += '"';
+                                    j++; // Skip the next quote
+                                } else {
+                                    inQuote = !inQuote; // Toggle inQuote state
+                                }
+                            } else if (char === ',' && !inQuote) {
+                                values.push(currentField.trim());
+                                currentField = '';
+                            } else {
+                                currentField += char;
+                            }
+                        }
+                        values.push(currentField.trim()); // Push the last field
+
+                        console.log(`[DEBUG: fetchPlayersFromSheet] Processing raw line ${i}: "${rawLine}"`);
+                        console.log(`[DEBUG: fetchPlayersFromSheet] Parsed raw values (manual):`, values);
+                        console.log(`[DEBUG: fetchPlayersFromSheet] Parsed values length: ${values.length}, Headers length: ${headers.length}`);
+
+                        if (values.length === headers.length) {
+                            const fullIGN = values[ignIndex];
+                            const ignParts = fullIGN.split('#');
+                            
+                            const player = {
+                                name: ignParts[0] ? ignParts[0].trim() : '',
+                                tag: ignParts[1] ? ignParts[1].trim() : '',
+                                role: values[roleIndex].trim(), // Ensure roles are trimmed
+                                timestamp: values[timestampIndex] ? values[timestampIndex].trim() : '' // Include timestamp if available
+                            };
+                            
+                            // Only add player if both name and tag are present
+                            if (player.name && player.tag) {
+                                console.log(`[DEBUG: fetchPlayersFromSheet] Successfully parsed player:`, player);
+                                playersData.push(player);
+                            } else {
+                                console.warn(`[DEBUG: fetchPlayersFromSheet] Skipping row due to missing In-Game Name or Tag: "${rawLine}"`);
+                            }
+                        } else {
+                            console.warn(`[DEBUG: fetchPlayersFromSheet] Skipping malformed row (mismatched columns after parsing): "${rawLine}"`);
+                        }
+                    }
+                } else {
+                    console.warn("Google Sheet is empty or only contains headers.");
+                }
+                return playersData;
+
+            } catch (error) {
+                console.error("Error fetching or parsing Google Sheet data:", error);
+                return [];
+            }
+        }
+
+
+        // --- MAIN APPLICATION LOGIC ---
+
+/**
+ * Main function to fetch and display all player data.
+ * Manages loading states and error messages in the UI.
+ */
+async function initializePlayerDisplay() {
+    const playerListContainer = document.getElementById("playerList");
+    playerListContainer.innerHTML = `
+        <div class="loading-state">
+            <div class="loading-spinner"></div>
+            <p class="message">Loading players...</p>
+        </div>
+    `;
+
+    try {
+        // Fetch latest Data Dragon version before rendering cards
+        latestDDragonVersion = await getLatestDDragonVersion();
+
+        const response = await fetch('players.json');
+        if (!response.ok) throw new Error('Failed to load players.json');
+        const allPlayerDetails = await response.json();
+
+        playerListContainer.innerHTML = "";
+        allPlayerDetails.forEach(playerData => {
+            playerListContainer.appendChild(createPlayerCard(playerData));
+        });
+
+        // --- SEARCH FUNCTIONALITY ---
+        const searchBar = document.getElementById("searchBar");
+        searchBar.addEventListener("input", function() {
+            const searchTerm = this.value.trim().toLowerCase();
+            const filteredPlayers = allPlayerDetails.filter(player =>
+                (player.name + '#' + player.tag).toLowerCase().includes(searchTerm)
+            );
+            playerListContainer.innerHTML = "";
+            filteredPlayers.forEach(player => {
+                playerListContainer.appendChild(createPlayerCard(player));
+            });
+            if (filteredPlayers.length === 0) {
+                playerListContainer.innerHTML = `
+                    <div class="loading-state">
+                        <p class="message" style="color:#ff6b6b;">No players found matching "${searchTerm}".</p>
+                    </div>
+                `;
+            }
+        });
+
+        // --- ROLE FILTERING ---
+        const roleFilter = document.getElementById("roleFilter");
+        roleFilter.addEventListener("change", function() {
+            const selectedRole = this.value;
+            playerListContainer.innerHTML = "";
+            const filteredPlayers = selectedRole
+                ? allPlayerDetails.filter(player => {
+                    const playerRoles = Array.isArray(player.role)
+                        ? player.role.map(r => r.trim().toLowerCase())
+                        : (player.role || "").split(',').map(r => r.trim().toLowerCase()).filter(Boolean);
+                    return playerRoles.includes(selectedRole);
+                })
+                : allPlayerDetails;
+
+            filteredPlayers.forEach(player => {
+                playerListContainer.appendChild(createPlayerCard(player));
+            });
+
+            if (filteredPlayers.length === 0) {
+                playerListContainer.innerHTML = `
+                    <div class="loading-state">
+                        <p class="message" style="color:#ff6b6b;">No players found for the selected role.</p>
+                    </div>
+                `;
+            }
+        });
+
+    } catch (error) {
+        playerListContainer.innerHTML = `
+            <div class="loading-state">
+                <p class="message error-message">Error loading player data. Please try again later.</p>
+            </div>
+        `;
+        console.error(error);
+    }
+}
+
+// --- INITIAL DATA FETCH ---
+// This will be the initial call to fetch and display player data.
+initializePlayerDisplay();
+    </script>
+</body>
+</html>
