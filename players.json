@@ -5,43 +5,43 @@
     "role": [
       "ADC"
     ],
-    "summonerLevel": 347,
+    "summonerLevel": 352,
     "profileIconId": 3182,
     "soloRank": {
       "tier": "MASTER",
       "rank": "I",
-      "leaguePoints": 10
+      "leaguePoints": 355
     },
     "topChamps": [
       {
         "name": "Vayne",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Vayne.png",
-        "points": 1083302
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Vayne.png",
+        "points": 1134816
       },
       {
         "name": "Twitch",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Twitch.png",
-        "points": 239326
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Twitch.png",
+        "points": 240774
       },
       {
         "name": "Varus",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Varus.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Varus.png",
         "points": 131961
       },
       {
         "name": "Kai'Sa",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Kaisa.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Kaisa.png",
         "points": 84264
       },
       {
         "name": "Jinx",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Jinx.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Jinx.png",
         "points": 75177
       }
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1083302
+      "points": 1134816
     }
   },
   {
@@ -51,8 +51,8 @@
       "Top",
       "Support"
     ],
-    "summonerLevel": 436,
-    "profileIconId": 6771,
+    "summonerLevel": 437,
+    "profileIconId": 662,
     "soloRank": {
       "tier": "PLATINUM",
       "rank": "IV",
@@ -61,27 +61,27 @@
     "topChamps": [
       {
         "name": "Tristana",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Tristana.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Tristana.png",
         "points": 102432
       },
       {
         "name": "Thresh",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Thresh.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Thresh.png",
         "points": 89439
       },
       {
         "name": "Renekton",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Renekton.png",
-        "points": 87403
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Renekton.png",
+        "points": 88085
       },
       {
         "name": "Rumble",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Rumble.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Rumble.png",
         "points": 71576
       },
       {
         "name": "Graves",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Graves.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Graves.png",
         "points": 66344
       }
     ],
@@ -99,43 +99,43 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 348,
+    "summonerLevel": 350,
     "profileIconId": 5374,
     "soloRank": {
       "tier": "SILVER",
-      "rank": "IV",
-      "leaguePoints": 28
+      "rank": "II",
+      "leaguePoints": 2
     },
     "topChamps": [
       {
         "name": "Tahm Kench",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/TahmKench.png",
-        "points": 285222
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/TahmKench.png",
+        "points": 285838
       },
       {
         "name": "Viego",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Viego.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Viego.png",
         "points": 169424
       },
       {
         "name": "Kayn",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Kayn.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Kayn.png",
         "points": 143806
       },
       {
         "name": "Cho'Gath",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Chogath.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Chogath.png",
         "points": 82354
       },
       {
         "name": "Vi",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Vi.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Vi.png",
         "points": 55264
       }
     ],
     "highestMasteryChamp": {
       "name": "Tahm Kench",
-      "points": 285222
+      "points": 285838
     }
   },
   {
@@ -145,43 +145,43 @@
       "Top",
       "Mid"
     ],
-    "summonerLevel": 939,
-    "profileIconId": 6784,
+    "summonerLevel": 946,
+    "profileIconId": 4958,
     "soloRank": {
       "tier": "EMERALD",
-      "rank": "IV",
-      "leaguePoints": 0
+      "rank": "I",
+      "leaguePoints": 4
     },
     "topChamps": [
       {
         "name": "Aurora",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Aurora.png",
-        "points": 355829
-      },
-      {
-        "name": "Gangplank",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Gangplank.png",
-        "points": 343442
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Aurora.png",
+        "points": 357274
       },
       {
         "name": "Sett",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Sett.png",
-        "points": 298900
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Sett.png",
+        "points": 345173
+      },
+      {
+        "name": "Gangplank",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Gangplank.png",
+        "points": 344222
       },
       {
         "name": "Darius",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Darius.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Darius.png",
         "points": 194128
       },
       {
         "name": "Pantheon",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Pantheon.png",
-        "points": 181300
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Pantheon.png",
+        "points": 183403
       }
     ],
     "highestMasteryChamp": {
       "name": "Aurora",
-      "points": 355829
+      "points": 357274
     }
   },
   {
@@ -192,7 +192,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 785,
+    "summonerLevel": 787,
     "profileIconId": 6348,
     "soloRank": {
       "tier": "SILVER",
@@ -202,28 +202,28 @@
     "topChamps": [
       {
         "name": "Miss Fortune",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/MissFortune.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/MissFortune.png",
         "points": 373810
       },
       {
         "name": "Jhin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Jhin.png",
-        "points": 265619
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Jhin.png",
+        "points": 267682
       },
       {
         "name": "Caitlyn",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Caitlyn.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Caitlyn.png",
         "points": 222610
       },
       {
         "name": "Ezreal",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Ezreal.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Ezreal.png",
         "points": 198332
       },
       {
         "name": "Ashe",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Ashe.png",
-        "points": 186704
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Ashe.png",
+        "points": 188593
       }
     ],
     "highestMasteryChamp": {
@@ -238,43 +238,43 @@
       "Mid",
       "ADC"
     ],
-    "summonerLevel": 752,
+    "summonerLevel": 758,
     "profileIconId": 4764,
     "soloRank": {
       "tier": "DIAMOND",
       "rank": "IV",
-      "leaguePoints": 50
+      "leaguePoints": 89
     },
     "topChamps": [
       {
         "name": "Qiyana",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Qiyana.png",
-        "points": 846001
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Qiyana.png",
+        "points": 850813
       },
       {
         "name": "Twitch",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Twitch.png",
-        "points": 637413
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Twitch.png",
+        "points": 638149
       },
       {
         "name": "Rengar",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Rengar.png",
-        "points": 507867
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Rengar.png",
+        "points": 508873
       },
       {
         "name": "Yasuo",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Yasuo.png",
-        "points": 338881
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Yasuo.png",
+        "points": 354372
       },
       {
         "name": "Thresh",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Thresh.png",
-        "points": 316324
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Thresh.png",
+        "points": 317749
       }
     ],
     "highestMasteryChamp": {
       "name": "Qiyana",
-      "points": 846001
+      "points": 850813
     }
   },
   {
@@ -285,43 +285,43 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 442,
-    "profileIconId": 6295,
+    "summonerLevel": 446,
+    "profileIconId": 6503,
     "soloRank": {
       "tier": "EMERALD",
-      "rank": "III",
-      "leaguePoints": 6
+      "rank": "IV",
+      "leaguePoints": 47
     },
     "topChamps": [
       {
         "name": "Jhin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Jhin.png",
-        "points": 142096
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Jhin.png",
+        "points": 143158
       },
       {
         "name": "Lee Sin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/LeeSin.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/LeeSin.png",
         "points": 140392
       },
       {
         "name": "Ezreal",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Ezreal.png",
-        "points": 136020
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Ezreal.png",
+        "points": 140239
       },
       {
         "name": "Draven",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Draven.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Draven.png",
         "points": 130225
       },
       {
         "name": "Riven",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Riven.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Riven.png",
         "points": 117957
       }
     ],
     "highestMasteryChamp": {
       "name": "Jhin",
-      "points": 142096
+      "points": 143158
     }
   },
   {
@@ -330,7 +330,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 248,
+    "summonerLevel": 250,
     "profileIconId": 691,
     "soloRank": {
       "tier": "PLATINUM",
@@ -340,27 +340,27 @@
     "topChamps": [
       {
         "name": "Udyr",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Udyr.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Udyr.png",
         "points": 172943
       },
       {
         "name": "Lee Sin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/LeeSin.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/LeeSin.png",
         "points": 119784
       },
       {
         "name": "Kha'Zix",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Khazix.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Khazix.png",
         "points": 77944
       },
       {
         "name": "Amumu",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Amumu.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Amumu.png",
         "points": 75072
       },
       {
         "name": "Rengar",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Rengar.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Rengar.png",
         "points": 74792
       }
     ],
@@ -385,27 +385,27 @@
     "topChamps": [
       {
         "name": "Lulu",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Lulu.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Lulu.png",
         "points": 151536
       },
       {
         "name": "Annie",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Annie.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Annie.png",
         "points": 140650
       },
       {
         "name": "Sejuani",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Sejuani.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Sejuani.png",
         "points": 129786
       },
       {
         "name": "Nautilus",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Nautilus.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Nautilus.png",
         "points": 119859
       },
       {
         "name": "Leona",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Leona.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Leona.png",
         "points": 117100
       }
     ],
@@ -431,27 +431,27 @@
     "topChamps": [
       {
         "name": "Pyke",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Pyke.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Pyke.png",
         "points": 4729
       },
       {
         "name": "Lulu",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Lulu.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Lulu.png",
         "points": 4079
       },
       {
         "name": "Caitlyn",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Caitlyn.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Caitlyn.png",
         "points": 3403
       },
       {
         "name": "Jinx",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Jinx.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Jinx.png",
         "points": 2296
       },
       {
         "name": "Karma",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Karma.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Karma.png",
         "points": 2207
       }
     ],
@@ -466,7 +466,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 861,
+    "summonerLevel": 863,
     "profileIconId": 2088,
     "soloRank": {
       "tier": "Unranked",
@@ -476,33 +476,305 @@
     "topChamps": [
       {
         "name": "Kayn",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Kayn.png",
-        "points": 634630
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Kayn.png",
+        "points": 638214
       },
       {
         "name": "Yasuo",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Yasuo.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Yasuo.png",
         "points": 379604
       },
       {
         "name": "Lee Sin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/LeeSin.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/LeeSin.png",
         "points": 314044
       },
       {
         "name": "Zed",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Zed.png",
-        "points": 298048
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Zed.png",
+        "points": 301419
       },
       {
         "name": "Graves",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.11.1/img/champion/Graves.png",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Graves.png",
         "points": 291426
       }
     ],
     "highestMasteryChamp": {
       "name": "Kayn",
-      "points": 634630
+      "points": 638214
+    }
+  },
+  {
+    "name": "Sappy Caster",
+    "tag": "NA1",
+    "role": [
+      "Mid",
+      "ADC",
+      "Support"
+    ],
+    "summonerLevel": 250,
+    "profileIconId": 691,
+    "soloRank": {
+      "tier": "PLATINUM",
+      "rank": "IV",
+      "leaguePoints": 0
+    },
+    "topChamps": [
+      {
+        "name": "Udyr",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Udyr.png",
+        "points": 172943
+      },
+      {
+        "name": "Lee Sin",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/LeeSin.png",
+        "points": 119784
+      },
+      {
+        "name": "Kha'Zix",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Khazix.png",
+        "points": 77944
+      },
+      {
+        "name": "Amumu",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Amumu.png",
+        "points": 75072
+      },
+      {
+        "name": "Rengar",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Rengar.png",
+        "points": 74792
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Udyr",
+      "points": 172943
+    }
+  },
+  {
+    "name": "RYL Chaos",
+    "tag": "RYL",
+    "role": [
+      "Mid"
+    ],
+    "summonerLevel": 571,
+    "profileIconId": 6434,
+    "soloRank": {
+      "tier": "EMERALD",
+      "rank": "II",
+      "leaguePoints": 26
+    },
+    "topChamps": [
+      {
+        "name": "Zed",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Zed.png",
+        "points": 190140
+      },
+      {
+        "name": "Yasuo",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Yasuo.png",
+        "points": 169828
+      },
+      {
+        "name": "Lee Sin",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/LeeSin.png",
+        "points": 146941
+      },
+      {
+        "name": "Ezreal",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Ezreal.png",
+        "points": 142857
+      },
+      {
+        "name": "Orianna",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Orianna.png",
+        "points": 130772
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Zed",
+      "points": 190140
+    }
+  },
+  {
+    "name": "DargonOwO",
+    "tag": "yiff",
+    "role": [
+      "Mid"
+    ],
+    "summonerLevel": 704,
+    "profileIconId": 6224,
+    "soloRank": {
+      "tier": "PLATINUM",
+      "rank": "IV",
+      "leaguePoints": 7
+    },
+    "topChamps": [
+      {
+        "name": "Yasuo",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Yasuo.png",
+        "points": 549469
+      },
+      {
+        "name": "Akali",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Akali.png",
+        "points": 225597
+      },
+      {
+        "name": "Vex",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Vex.png",
+        "points": 218450
+      },
+      {
+        "name": "Zoe",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Zoe.png",
+        "points": 182968
+      },
+      {
+        "name": "Yone",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Yone.png",
+        "points": 129448
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Yasuo",
+      "points": 549469
+    }
+  },
+  {
+    "name": "LFO Snoopeeyy",
+    "tag": "Woof",
+    "role": [
+      "ADC"
+    ],
+    "summonerLevel": 286,
+    "profileIconId": 508,
+    "soloRank": {
+      "tier": "GOLD",
+      "rank": "II",
+      "leaguePoints": 46
+    },
+    "topChamps": [
+      {
+        "name": "Jinx",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Jinx.png",
+        "points": 162033
+      },
+      {
+        "name": "Miss Fortune",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/MissFortune.png",
+        "points": 150491
+      },
+      {
+        "name": "Caitlyn",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Caitlyn.png",
+        "points": 140696
+      },
+      {
+        "name": "Ashe",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Ashe.png",
+        "points": 102290
+      },
+      {
+        "name": "Jhin",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Jhin.png",
+        "points": 88595
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Jinx",
+      "points": 162033
+    }
+  },
+  {
+    "name": "HemoMgeWondrLand",
+    "tag": "NA1",
+    "role": [
+      "Top"
+    ],
+    "summonerLevel": 239,
+    "profileIconId": 5408,
+    "soloRank": {
+      "tier": "GOLD",
+      "rank": "III",
+      "leaguePoints": 18
+    },
+    "topChamps": [
+      {
+        "name": "Vladimir",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Vladimir.png",
+        "points": 264657
+      },
+      {
+        "name": "Viktor",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Viktor.png",
+        "points": 107506
+      },
+      {
+        "name": "Sylas",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Sylas.png",
+        "points": 98979
+      },
+      {
+        "name": "Malzahar",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Malzahar.png",
+        "points": 78101
+      },
+      {
+        "name": "Garen",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Garen.png",
+        "points": 75011
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Vladimir",
+      "points": 264657
+    }
+  },
+  {
+    "name": "Gilkellrider2",
+    "tag": "8149",
+    "role": [
+      "Jungle"
+    ],
+    "summonerLevel": 38,
+    "profileIconId": 6850,
+    "soloRank": {
+      "tier": "PLATINUM",
+      "rank": "IV",
+      "leaguePoints": 11
+    },
+    "topChamps": [
+      {
+        "name": "Viego",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Viego.png",
+        "points": 15923
+      },
+      {
+        "name": "Kayn",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Kayn.png",
+        "points": 11362
+      },
+      {
+        "name": "Caitlyn",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Caitlyn.png",
+        "points": 7895
+      },
+      {
+        "name": "Xin Zhao",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/XinZhao.png",
+        "points": 5660
+      },
+      {
+        "name": "Jhin",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Jhin.png",
+        "points": 4918
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Viego",
+      "points": 15923
     }
   }
 ]
