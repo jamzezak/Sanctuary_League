@@ -460,53 +460,6 @@
     }
   },
   {
-    "name": "Sappy Caster",
-    "tag": "NA1",
-    "role": [
-      "Mid",
-      "ADC",
-      "Support"
-    ],
-    "summonerLevel": 251,
-    "profileIconId": 691,
-    "soloRank": {
-      "tier": "PLATINUM",
-      "rank": "IV",
-      "leaguePoints": 0
-    },
-    "topChamps": [
-      {
-        "name": "Udyr",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Udyr.png",
-        "points": 172943
-      },
-      {
-        "name": "Lee Sin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/LeeSin.png",
-        "points": 119784
-      },
-      {
-        "name": "Kha'Zix",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Khazix.png",
-        "points": 77944
-      },
-      {
-        "name": "Amumu",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Amumu.png",
-        "points": 75072
-      },
-      {
-        "name": "Rengar",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Rengar.png",
-        "points": 74792
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Udyr",
-      "points": 172943
-    }
-  },
-  {
     "name": "RYL Chaos",
     "tag": "RYL",
     "role": [
@@ -673,7 +626,7 @@
       {
         "name": "Malzahar",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Malzahar.png",
-        "points": 78782
+        "points": 79095
       },
       {
         "name": "Garen",
