@@ -10,13 +10,13 @@
     "soloRank": {
       "tier": "MASTER",
       "rank": "I",
-      "leaguePoints": 438
+      "leaguePoints": 400
     },
     "topChamps": [
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Vayne.png",
-        "points": 1142856
+        "points": 1148940
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1142856
+      "points": 1148940
     }
   },
   {
@@ -145,12 +145,12 @@
       "Top",
       "Mid"
     ],
-    "summonerLevel": 947,
+    "summonerLevel": 948,
     "profileIconId": 4958,
     "soloRank": {
       "tier": "EMERALD",
-      "rank": "II",
-      "leaguePoints": 21
+      "rank": "III",
+      "leaguePoints": 80
     },
     "topChamps": [
       {
@@ -161,7 +161,7 @@
       {
         "name": "Sett",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Sett.png",
-        "points": 352960
+        "points": 353441
       },
       {
         "name": "Gangplank",
@@ -420,7 +420,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 863,
+    "summonerLevel": 864,
     "profileIconId": 2088,
     "soloRank": {
       "tier": "Unranked",
@@ -431,7 +431,7 @@
       {
         "name": "Kayn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Kayn.png",
-        "points": 638214
+        "points": 640893
       },
       {
         "name": "Yasuo",
@@ -456,7 +456,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Kayn",
-      "points": 638214
+      "points": 640893
     }
   },
   {
@@ -562,7 +562,7 @@
     "soloRank": {
       "tier": "PLATINUM",
       "rank": "IV",
-      "leaguePoints": 23
+      "leaguePoints": 6
     },
     "topChamps": [
       {
@@ -673,7 +673,7 @@
       {
         "name": "Malzahar",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Malzahar.png",
-        "points": 78101
+        "points": 78782
       },
       {
         "name": "Garen",
@@ -737,18 +737,18 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 580,
+    "summonerLevel": 581,
     "profileIconId": 6789,
     "soloRank": {
       "tier": "BRONZE",
       "rank": "IV",
-      "leaguePoints": 0
+      "leaguePoints": 24
     },
     "topChamps": [
       {
         "name": "Morgana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Morgana.png",
-        "points": 573949
+        "points": 575483
       },
       {
         "name": "Kai'Sa",
@@ -773,7 +773,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Morgana",
-      "points": 573949
+      "points": 575483
     }
   },
   {
@@ -782,18 +782,18 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 493,
+    "summonerLevel": 494,
     "profileIconId": 6214,
     "soloRank": {
       "tier": "SILVER",
       "rank": "II",
-      "leaguePoints": 45
+      "leaguePoints": 33
     },
     "topChamps": [
       {
         "name": "Taric",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Taric.png",
-        "points": 245422
+        "points": 246108
       },
       {
         "name": "Yuumi",
@@ -818,7 +818,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Taric",
-      "points": 245422
+      "points": 246108
     }
   },
   {
@@ -834,7 +834,7 @@
     "soloRank": {
       "tier": "PLATINUM",
       "rank": "III",
-      "leaguePoints": 51
+      "leaguePoints": 3
     },
     "topChamps": [
       {
@@ -874,7 +874,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 474,
+    "summonerLevel": 475,
     "profileIconId": 1389,
     "soloRank": {
       "tier": "GOLD",
@@ -1013,7 +1013,7 @@
       "Top",
       "ADC"
     ],
-    "summonerLevel": 341,
+    "summonerLevel": 342,
     "profileIconId": 6500,
     "soloRank": {
       "tier": "GOLD",
@@ -1109,7 +1109,7 @@
       "Support"
     ],
     "summonerLevel": 916,
-    "profileIconId": 1626,
+    "profileIconId": 6491,
     "soloRank": {
       "tier": "PLATINUM",
       "rank": "IV",
@@ -1124,7 +1124,7 @@
       {
         "name": "Shen",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Shen.png",
-        "points": 630513
+        "points": 640043
       },
       {
         "name": "Milio",
@@ -1145,6 +1145,144 @@
     "highestMasteryChamp": {
       "name": "Soraka",
       "points": 863805
+    }
+  },
+  {
+    "name": "Starblazzer",
+    "tag": "NA1",
+    "role": [
+      "Mid",
+      "ADC",
+      "Support"
+    ],
+    "summonerLevel": 521,
+    "profileIconId": 718,
+    "soloRank": {
+      "tier": "PLATINUM",
+      "rank": "IV",
+      "leaguePoints": 94
+    },
+    "topChamps": [
+      {
+        "name": "Yuumi",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Yuumi.png",
+        "points": 723870
+      },
+      {
+        "name": "Lucian",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Lucian.png",
+        "points": 223128
+      },
+      {
+        "name": "Rakan",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Rakan.png",
+        "points": 193530
+      },
+      {
+        "name": "Ziggs",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Ziggs.png",
+        "points": 149551
+      },
+      {
+        "name": "Jinx",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Jinx.png",
+        "points": 136899
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Yuumi",
+      "points": 723870
+    }
+  },
+  {
+    "name": "TTV BroGodTV",
+    "tag": "1337",
+    "role": [
+      "Mid"
+    ],
+    "summonerLevel": 308,
+    "profileIconId": 6378,
+    "soloRank": {
+      "tier": "DIAMOND",
+      "rank": "I",
+      "leaguePoints": 63
+    },
+    "topChamps": [
+      {
+        "name": "Syndra",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Syndra.png",
+        "points": 268796
+      },
+      {
+        "name": "Hwei",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Hwei.png",
+        "points": 132301
+      },
+      {
+        "name": "Sylas",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Sylas.png",
+        "points": 101905
+      },
+      {
+        "name": "Ahri",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Ahri.png",
+        "points": 61081
+      },
+      {
+        "name": "Corki",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Corki.png",
+        "points": 55488
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Syndra",
+      "points": 268796
+    }
+  },
+  {
+    "name": "噴泉雷射",
+    "tag": "2000",
+    "role": [
+      "Mid",
+      "ADC"
+    ],
+    "summonerLevel": 511,
+    "profileIconId": 6860,
+    "soloRank": {
+      "tier": "PLATINUM",
+      "rank": "IV",
+      "leaguePoints": 20
+    },
+    "topChamps": [
+      {
+        "name": "Miss Fortune",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/MissFortune.png",
+        "points": 597904
+      },
+      {
+        "name": "Ashe",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Ashe.png",
+        "points": 280161
+      },
+      {
+        "name": "Yone",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Yone.png",
+        "points": 247710
+      },
+      {
+        "name": "Aphelios",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Aphelios.png",
+        "points": 150514
+      },
+      {
+        "name": "Senna",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Senna.png",
+        "points": 138918
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Miss Fortune",
+      "points": 597904
     }
   }
 ]
