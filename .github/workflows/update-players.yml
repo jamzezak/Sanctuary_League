@@ -29,3 +29,4 @@ jobs:
         with:
           commit_message: Update players.json
           file_pattern: players.json
+          github_token: ${{ secrets.GH_PAT }}
