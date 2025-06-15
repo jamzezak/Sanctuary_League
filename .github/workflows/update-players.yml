@@ -1,0 +1,31 @@
+name: Update Players JSON
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour; adjust as needed
+  workflow_dispatch:     # Allows manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run update_players.js
+        env:
+          RIOT_API_KEY: ${{ secrets.RIOT_API_KEY }}
+        run: node update_players.js
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update players.json
+          file_pattern: players.json
