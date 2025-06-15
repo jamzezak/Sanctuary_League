@@ -695,13 +695,13 @@
     "soloRank": {
       "tier": "BRONZE",
       "rank": "IV",
-      "leaguePoints": 24
+      "leaguePoints": 48
     },
     "topChamps": [
       {
         "name": "Morgana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Morgana.png",
-        "points": 575483
+        "points": 577552
       },
       {
         "name": "Kai'Sa",
@@ -726,7 +726,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Morgana",
-      "points": 575483
+      "points": 577552
     }
   },
   {
