@@ -446,7 +446,7 @@
       {
         "name": "Zed",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Zed.png",
-        "points": 301419
+        "points": 302549
       },
       {
         "name": "Graves",
@@ -827,7 +827,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 475,
+    "summonerLevel": 476,
     "profileIconId": 1389,
     "soloRank": {
       "tier": "GOLD",
@@ -924,8 +924,8 @@
     "profileIconId": 3159,
     "soloRank": {
       "tier": "BRONZE",
-      "rank": "II",
-      "leaguePoints": 19
+      "rank": "III",
+      "leaguePoints": 94
     },
     "topChamps": [
       {
@@ -939,14 +939,14 @@
         "points": 243597
       },
       {
+        "name": "Yone",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Yone.png",
+        "points": 100252
+      },
+      {
         "name": "Aphelios",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Aphelios.png",
         "points": 100249
-      },
-      {
-        "name": "Yone",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Yone.png",
-        "points": 99718
       },
       {
         "name": "Jhin",
@@ -1153,18 +1153,18 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 308,
+    "summonerLevel": 309,
     "profileIconId": 6378,
     "soloRank": {
       "tier": "DIAMOND",
       "rank": "I",
-      "leaguePoints": 63
+      "leaguePoints": 69
     },
     "topChamps": [
       {
         "name": "Syndra",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Syndra.png",
-        "points": 268796
+        "points": 269706
       },
       {
         "name": "Hwei",
@@ -1189,7 +1189,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Syndra",
-      "points": 268796
+      "points": 269706
     }
   },
   {
@@ -1204,13 +1204,13 @@
     "soloRank": {
       "tier": "PLATINUM",
       "rank": "IV",
-      "leaguePoints": 39
+      "leaguePoints": 11
     },
     "topChamps": [
       {
         "name": "Miss Fortune",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/MissFortune.png",
-        "points": 599643
+        "points": 600373
       },
       {
         "name": "Ashe",
@@ -1235,7 +1235,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Miss Fortune",
-      "points": 599643
+      "points": 600373
     }
   },
   {
