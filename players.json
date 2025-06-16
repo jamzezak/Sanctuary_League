@@ -99,12 +99,12 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 350,
+    "summonerLevel": 351,
     "profileIconId": 5374,
     "soloRank": {
       "tier": "SILVER",
       "rank": "II",
-      "leaguePoints": 2
+      "leaguePoints": 29
     },
     "topChamps": [
       {
@@ -736,11 +736,11 @@
       "Support"
     ],
     "summonerLevel": 494,
-    "profileIconId": 6214,
+    "profileIconId": 5012,
     "soloRank": {
       "tier": "SILVER",
       "rank": "II",
-      "leaguePoints": 85
+      "leaguePoints": 66
     },
     "topChamps": [
       {
@@ -786,8 +786,8 @@
     "profileIconId": 870,
     "soloRank": {
       "tier": "PLATINUM",
-      "rank": "III",
-      "leaguePoints": 3
+      "rank": "IV",
+      "leaguePoints": 77
     },
     "topChamps": [
       {
@@ -1108,12 +1108,12 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 521,
+    "summonerLevel": 522,
     "profileIconId": 718,
     "soloRank": {
       "tier": "PLATINUM",
-      "rank": "IV",
-      "leaguePoints": 94
+      "rank": "III",
+      "leaguePoints": 45
     },
     "topChamps": [
       {
