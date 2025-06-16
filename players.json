@@ -5,18 +5,18 @@
     "role": [
       "ADC"
     ],
-    "summonerLevel": 354,
+    "summonerLevel": 355,
     "profileIconId": 3182,
     "soloRank": {
       "tier": "MASTER",
       "rank": "I",
-      "leaguePoints": 383
+      "leaguePoints": 384
     },
     "topChamps": [
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Vayne.png",
-        "points": 1156141
+        "points": 1157400
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1156141
+      "points": 1157400
     }
   },
   {
@@ -56,7 +56,7 @@
     "soloRank": {
       "tier": "PLATINUM",
       "rank": "IV",
-      "leaguePoints": 0
+      "leaguePoints": 23
     },
     "topChamps": [
       {
