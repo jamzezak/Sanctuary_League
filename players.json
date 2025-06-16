@@ -285,7 +285,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 447,
+    "summonerLevel": 448,
     "profileIconId": 6879,
     "soloRank": {
       "tier": "EMERALD",
@@ -690,7 +690,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 581,
+    "summonerLevel": 582,
     "profileIconId": 6789,
     "soloRank": {
       "tier": "BRONZE",
@@ -706,7 +706,7 @@
       {
         "name": "Kai'Sa",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Kaisa.png",
-        "points": 161609
+        "points": 162742
       },
       {
         "name": "Brand",
