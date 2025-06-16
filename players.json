@@ -6,7 +6,7 @@
       "ADC"
     ],
     "summonerLevel": 355,
-    "profileIconId": 3182,
+    "profileIconId": 6883,
     "soloRank": {
       "tier": "MASTER",
       "rank": "I",
@@ -290,7 +290,7 @@
     "soloRank": {
       "tier": "EMERALD",
       "rank": "IV",
-      "leaguePoints": 70
+      "leaguePoints": 50
     },
     "topChamps": [
       {
@@ -1077,7 +1077,7 @@
       {
         "name": "Shen",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Shen.png",
-        "points": 640043
+        "points": 640952
       },
       {
         "name": "Milio",
