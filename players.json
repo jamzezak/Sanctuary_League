@@ -103,8 +103,8 @@
     "profileIconId": 5374,
     "soloRank": {
       "tier": "SILVER",
-      "rank": "II",
-      "leaguePoints": 29
+      "rank": "III",
+      "leaguePoints": 95
     },
     "topChamps": [
       {
@@ -782,12 +782,12 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 642,
+    "summonerLevel": 643,
     "profileIconId": 870,
     "soloRank": {
       "tier": "PLATINUM",
       "rank": "IV",
-      "leaguePoints": 77
+      "leaguePoints": 26
     },
     "topChamps": [
       {
