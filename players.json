@@ -10,13 +10,13 @@
     "soloRank": {
       "tier": "MASTER",
       "rank": "I",
-      "leaguePoints": 419
+      "leaguePoints": 440
     },
     "topChamps": [
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Vayne.png",
-        "points": 1151556
+        "points": 1152686
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1151556
+      "points": 1152686
     }
   },
   {
