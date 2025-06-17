@@ -56,7 +56,7 @@
     "soloRank": {
       "tier": "PLATINUM",
       "rank": "IV",
-      "leaguePoints": 47
+      "leaguePoints": 20
     },
     "topChamps": [
       {
@@ -239,7 +239,7 @@
       "ADC"
     ],
     "summonerLevel": 761,
-    "profileIconId": 6217,
+    "profileIconId": 3789,
     "soloRank": {
       "tier": "DIAMOND",
       "rank": "IV",
@@ -264,7 +264,7 @@
       {
         "name": "Yasuo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Yasuo.png",
-        "points": 356593
+        "points": 357209
       },
       {
         "name": "Thresh",
@@ -290,7 +290,7 @@
     "soloRank": {
       "tier": "EMERALD",
       "rank": "IV",
-      "leaguePoints": 71
+      "leaguePoints": 53
     },
     "topChamps": [
       {
@@ -431,7 +431,7 @@
       {
         "name": "Kayn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Kayn.png",
-        "points": 640893
+        "points": 641383
       },
       {
         "name": "Yasuo",
@@ -456,7 +456,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Kayn",
-      "points": 640893
+      "points": 641383
     }
   },
   {
@@ -721,7 +721,7 @@
       {
         "name": "Pyke",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Pyke.png",
-        "points": 88418
+        "points": 89824
       }
     ],
     "highestMasteryChamp": {
@@ -787,13 +787,13 @@
     "soloRank": {
       "tier": "PLATINUM",
       "rank": "IV",
-      "leaguePoints": 26
+      "leaguePoints": 52
     },
     "topChamps": [
       {
         "name": "Jayce",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Jayce.png",
-        "points": 236317
+        "points": 237284
       },
       {
         "name": "Graves",
@@ -818,7 +818,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Jayce",
-      "points": 236317
+      "points": 237284
     }
   },
   {
@@ -921,17 +921,17 @@
       "Support"
     ],
     "summonerLevel": 432,
-    "profileIconId": 3159,
+    "profileIconId": 1591,
     "soloRank": {
       "tier": "BRONZE",
       "rank": "III",
-      "leaguePoints": 69
+      "leaguePoints": 44
     },
     "topChamps": [
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Aatrox.png",
-        "points": 474848
+        "points": 476136
       },
       {
         "name": "Yasuo",
@@ -939,14 +939,14 @@
         "points": 243597
       },
       {
+        "name": "Aphelios",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Aphelios.png",
+        "points": 100803
+      },
+      {
         "name": "Yone",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Yone.png",
         "points": 100252
-      },
-      {
-        "name": "Aphelios",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Aphelios.png",
-        "points": 100249
       },
       {
         "name": "Jhin",
@@ -956,7 +956,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 474848
+      "points": 476136
     }
   },
   {
