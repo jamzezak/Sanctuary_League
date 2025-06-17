@@ -239,7 +239,7 @@
       "ADC"
     ],
     "summonerLevel": 761,
-    "profileIconId": 3789,
+    "profileIconId": 4764,
     "soloRank": {
       "tier": "DIAMOND",
       "rank": "IV",
@@ -254,7 +254,7 @@
       {
         "name": "Twitch",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Twitch.png",
-        "points": 639006
+        "points": 639662
       },
       {
         "name": "Rengar",
@@ -289,8 +289,8 @@
     "profileIconId": 6879,
     "soloRank": {
       "tier": "EMERALD",
-      "rank": "IV",
-      "leaguePoints": 80
+      "rank": "III",
+      "leaguePoints": 17
     },
     "topChamps": [
       {
@@ -605,7 +605,7 @@
     "soloRank": {
       "tier": "GOLD",
       "rank": "III",
-      "leaguePoints": 43
+      "leaguePoints": 42
     },
     "topChamps": [
       {
@@ -631,7 +631,7 @@
       {
         "name": "Garen",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Garen.png",
-        "points": 75011
+        "points": 75646
       }
     ],
     "highestMasteryChamp": {
@@ -787,7 +787,7 @@
     "soloRank": {
       "tier": "PLATINUM",
       "rank": "IV",
-      "leaguePoints": 26
+      "leaguePoints": 52
     },
     "topChamps": [
       {
@@ -920,18 +920,18 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 432,
+    "summonerLevel": 433,
     "profileIconId": 1591,
     "soloRank": {
       "tier": "BRONZE",
-      "rank": "III",
-      "leaguePoints": 44
+      "rank": "IV",
+      "leaguePoints": 93
     },
     "topChamps": [
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Aatrox.png",
-        "points": 476136
+        "points": 476883
       },
       {
         "name": "Yasuo",
@@ -956,7 +956,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 476136
+      "points": 476883
     }
   },
   {
@@ -1072,7 +1072,7 @@
       {
         "name": "Soraka",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Soraka.png",
-        "points": 863805
+        "points": 864719
       },
       {
         "name": "Shen",
@@ -1097,7 +1097,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Soraka",
-      "points": 863805
+      "points": 864719
     }
   },
   {
@@ -1160,37 +1160,8 @@
       "rank": "I",
       "leaguePoints": 13
     },
-    "topChamps": [
-      {
-        "name": "Syndra",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Syndra.png",
-        "points": 269706
-      },
-      {
-        "name": "Hwei",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Hwei.png",
-        "points": 132301
-      },
-      {
-        "name": "Sylas",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Sylas.png",
-        "points": 101905
-      },
-      {
-        "name": "Ahri",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Ahri.png",
-        "points": 61081
-      },
-      {
-        "name": "Corki",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Corki.png",
-        "points": 55488
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Syndra",
-      "points": 269706
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   },
   {
     "name": "噴泉雷射",
@@ -1206,37 +1177,8 @@
       "rank": "IV",
       "leaguePoints": 11
     },
-    "topChamps": [
-      {
-        "name": "Miss Fortune",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/MissFortune.png",
-        "points": 600373
-      },
-      {
-        "name": "Ashe",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Ashe.png",
-        "points": 281940
-      },
-      {
-        "name": "Yone",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Yone.png",
-        "points": 247710
-      },
-      {
-        "name": "Aphelios",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Aphelios.png",
-        "points": 150514
-      },
-      {
-        "name": "Senna",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Senna.png",
-        "points": 141448
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Miss Fortune",
-      "points": 600373
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   },
   {
     "name": "HappiestHellion",
@@ -1251,36 +1193,7 @@
       "rank": "IV",
       "leaguePoints": 30
     },
-    "topChamps": [
-      {
-        "name": "Nami",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Nami.png",
-        "points": 110096
-      },
-      {
-        "name": "Lux",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Lux.png",
-        "points": 103001
-      },
-      {
-        "name": "Senna",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Senna.png",
-        "points": 85696
-      },
-      {
-        "name": "Leona",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Leona.png",
-        "points": 78403
-      },
-      {
-        "name": "Brand",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Brand.png",
-        "points": 72211
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Nami",
-      "points": 110096
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   }
 ]
