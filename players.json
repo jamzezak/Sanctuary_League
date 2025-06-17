@@ -52,7 +52,7 @@
       "Support"
     ],
     "summonerLevel": 438,
-    "profileIconId": 662,
+    "profileIconId": 6715,
     "soloRank": {
       "tier": "PLATINUM",
       "rank": "IV",
@@ -470,7 +470,7 @@
     "soloRank": {
       "tier": "EMERALD",
       "rank": "II",
-      "leaguePoints": 48
+      "leaguePoints": 47
     },
     "topChamps": [
       {
@@ -740,39 +740,10 @@
     "soloRank": {
       "tier": "SILVER",
       "rank": "II",
-      "leaguePoints": 53
+      "leaguePoints": 90
     },
-    "topChamps": [
-      {
-        "name": "Taric",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Taric.png",
-        "points": 246108
-      },
-      {
-        "name": "Yuumi",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Yuumi.png",
-        "points": 202497
-      },
-      {
-        "name": "Bard",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Bard.png",
-        "points": 81068
-      },
-      {
-        "name": "Lulu",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Lulu.png",
-        "points": 71096
-      },
-      {
-        "name": "Nautilus",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Nautilus.png",
-        "points": 65766
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Taric",
-      "points": 246108
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   },
   {
     "name": "Troublelift",
@@ -789,37 +760,8 @@
       "rank": "IV",
       "leaguePoints": 52
     },
-    "topChamps": [
-      {
-        "name": "Jayce",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Jayce.png",
-        "points": 238276
-      },
-      {
-        "name": "Graves",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Graves.png",
-        "points": 217469
-      },
-      {
-        "name": "Lee Sin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/LeeSin.png",
-        "points": 209966
-      },
-      {
-        "name": "Nunu & Willump",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Nunu.png",
-        "points": 159459
-      },
-      {
-        "name": "Jhin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Jhin.png",
-        "points": 154200
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Jayce",
-      "points": 238276
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   },
   {
     "name": "thatloosecannon",
