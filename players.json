@@ -10,13 +10,13 @@
     "soloRank": {
       "tier": "MASTER",
       "rank": "I",
-      "leaguePoints": 365
+      "leaguePoints": 325
     },
     "topChamps": [
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Vayne.png",
-        "points": 1158157
+        "points": 1159632
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1158157
+      "points": 1159632
     }
   },
   {
@@ -150,7 +150,7 @@
     "soloRank": {
       "tier": "EMERALD",
       "rank": "II",
-      "leaguePoints": 1
+      "leaguePoints": 3
     },
     "topChamps": [
       {
@@ -161,7 +161,7 @@
       {
         "name": "Sett",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Sett.png",
-        "points": 354893
+        "points": 357307
       },
       {
         "name": "Gangplank",
@@ -1206,37 +1206,8 @@
       "rank": "IV",
       "leaguePoints": 0
     },
-    "topChamps": [
-      {
-        "name": "Miss Fortune",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/MissFortune.png",
-        "points": 600373
-      },
-      {
-        "name": "Ashe",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Ashe.png",
-        "points": 281940
-      },
-      {
-        "name": "Yone",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Yone.png",
-        "points": 247710
-      },
-      {
-        "name": "Aphelios",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Aphelios.png",
-        "points": 150514
-      },
-      {
-        "name": "Senna",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Senna.png",
-        "points": 141448
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Miss Fortune",
-      "points": 600373
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   },
   {
     "name": "HappiestHellion",
@@ -1251,36 +1222,7 @@
       "rank": "IV",
       "leaguePoints": 30
     },
-    "topChamps": [
-      {
-        "name": "Nami",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Nami.png",
-        "points": 110096
-      },
-      {
-        "name": "Lux",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Lux.png",
-        "points": 103001
-      },
-      {
-        "name": "Senna",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Senna.png",
-        "points": 85696
-      },
-      {
-        "name": "Leona",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Leona.png",
-        "points": 78403
-      },
-      {
-        "name": "Brand",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Brand.png",
-        "points": 72211
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Nami",
-      "points": 110096
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   }
 ]
