@@ -208,7 +208,7 @@
       {
         "name": "Jhin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Jhin.png",
-        "points": 268330
+        "points": 269658
       },
       {
         "name": "Caitlyn",
@@ -254,7 +254,7 @@
       {
         "name": "Twitch",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Twitch.png",
-        "points": 638149
+        "points": 639006
       },
       {
         "name": "Rengar",
@@ -285,12 +285,12 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 448,
+    "summonerLevel": 449,
     "profileIconId": 6879,
     "soloRank": {
       "tier": "EMERALD",
       "rank": "IV",
-      "leaguePoints": 53
+      "leaguePoints": 80
     },
     "topChamps": [
       {
@@ -605,7 +605,7 @@
     "soloRank": {
       "tier": "GOLD",
       "rank": "III",
-      "leaguePoints": 21
+      "leaguePoints": 43
     },
     "topChamps": [
       {
@@ -716,7 +716,7 @@
       {
         "name": "Nautilus",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Nautilus.png",
-        "points": 137681
+        "points": 138262
       },
       {
         "name": "Pyke",
@@ -787,13 +787,13 @@
     "soloRank": {
       "tier": "PLATINUM",
       "rank": "IV",
-      "leaguePoints": 52
+      "leaguePoints": 26
     },
     "topChamps": [
       {
         "name": "Jayce",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Jayce.png",
-        "points": 237284
+        "points": 238276
       },
       {
         "name": "Graves",
@@ -818,7 +818,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Jayce",
-      "points": 237284
+      "points": 238276
     }
   },
   {
@@ -843,7 +843,7 @@
       {
         "name": "Sylas",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Sylas.png",
-        "points": 167776
+        "points": 169145
       },
       {
         "name": "Ezreal",
