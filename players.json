@@ -690,7 +690,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 582,
+    "summonerLevel": 583,
     "profileIconId": 6789,
     "soloRank": {
       "tier": "BRONZE",
@@ -1066,7 +1066,7 @@
     "soloRank": {
       "tier": "PLATINUM",
       "rank": "IV",
-      "leaguePoints": 63
+      "leaguePoints": 37
     },
     "topChamps": [
       {
@@ -1077,12 +1077,12 @@
       {
         "name": "Shen",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Shen.png",
-        "points": 642274
+        "points": 643022
       },
       {
         "name": "Milio",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Milio.png",
-        "points": 387345
+        "points": 387924
       },
       {
         "name": "Sona",
