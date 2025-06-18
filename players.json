@@ -103,8 +103,8 @@
     "profileIconId": 5374,
     "soloRank": {
       "tier": "SILVER",
-      "rank": "III",
-      "leaguePoints": 95
+      "rank": "II",
+      "leaguePoints": 21
     },
     "topChamps": [
       {
@@ -115,7 +115,7 @@
       {
         "name": "Viego",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Viego.png",
-        "points": 169424
+        "points": 170346
       },
       {
         "name": "Kayn",
