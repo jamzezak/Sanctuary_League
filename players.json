@@ -10,13 +10,13 @@
     "soloRank": {
       "tier": "MASTER",
       "rank": "I",
-      "leaguePoints": 325
+      "leaguePoints": 327
     },
     "topChamps": [
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Vayne.png",
-        "points": 1159632
+        "points": 1163264
       },
       {
         "name": "Twitch",
@@ -26,7 +26,7 @@
       {
         "name": "Varus",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Varus.png",
-        "points": 131961
+        "points": 132673
       },
       {
         "name": "Kai'Sa",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1159632
+      "points": 1163264
     }
   },
   {
@@ -51,7 +51,7 @@
       "Top",
       "Support"
     ],
-    "summonerLevel": 438,
+    "summonerLevel": 439,
     "profileIconId": 6715,
     "soloRank": {
       "tier": "PLATINUM",
@@ -145,7 +145,7 @@
       "Top",
       "Mid"
     ],
-    "summonerLevel": 948,
+    "summonerLevel": 949,
     "profileIconId": 4958,
     "soloRank": {
       "tier": "EMERALD",
@@ -626,7 +626,7 @@
       {
         "name": "Malzahar",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Malzahar.png",
-        "points": 80116
+        "points": 80847
       },
       {
         "name": "Garen",
@@ -650,7 +650,7 @@
     "soloRank": {
       "tier": "PLATINUM",
       "rank": "IV",
-      "leaguePoints": 43
+      "leaguePoints": 24
     },
     "topChamps": [
       {
@@ -966,7 +966,7 @@
       "Top",
       "ADC"
     ],
-    "summonerLevel": 342,
+    "summonerLevel": 343,
     "profileIconId": 6500,
     "soloRank": {
       "tier": "GOLD",
