@@ -879,37 +879,8 @@
       "rank": "IV",
       "leaguePoints": 75
     },
-    "topChamps": [
-      {
-        "name": "Kindred",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Kindred.png",
-        "points": 106015
-      },
-      {
-        "name": "Amumu",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Amumu.png",
-        "points": 101775
-      },
-      {
-        "name": "Lee Sin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/LeeSin.png",
-        "points": 96154
-      },
-      {
-        "name": "Hecarim",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Hecarim.png",
-        "points": 80073
-      },
-      {
-        "name": "Trundle",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Trundle.png",
-        "points": 78509
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Kindred",
-      "points": 106015
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   },
   {
     "name": "ZaberNinja",
@@ -927,37 +898,8 @@
       "rank": "IV",
       "leaguePoints": 94
     },
-    "topChamps": [
-      {
-        "name": "Aatrox",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Aatrox.png",
-        "points": 476883
-      },
-      {
-        "name": "Yasuo",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Yasuo.png",
-        "points": 244820
-      },
-      {
-        "name": "Aphelios",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Aphelios.png",
-        "points": 100803
-      },
-      {
-        "name": "Yone",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Yone.png",
-        "points": 100252
-      },
-      {
-        "name": "Jhin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Jhin.png",
-        "points": 84091
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Aatrox",
-      "points": 476883
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   },
   {
     "name": "Kaaz",
@@ -973,37 +915,8 @@
       "rank": "III",
       "leaguePoints": 62
     },
-    "topChamps": [
-      {
-        "name": "Gnar",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Gnar.png",
-        "points": 215574
-      },
-      {
-        "name": "Irelia",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Irelia.png",
-        "points": 121158
-      },
-      {
-        "name": "Twisted Fate",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/TwistedFate.png",
-        "points": 107835
-      },
-      {
-        "name": "Tristana",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Tristana.png",
-        "points": 96478
-      },
-      {
-        "name": "Jax",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Jax.png",
-        "points": 86942
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Gnar",
-      "points": 215574
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   },
   {
     "name": "mort",
