@@ -238,18 +238,18 @@
       "Mid",
       "ADC"
     ],
-    "summonerLevel": 762,
+    "summonerLevel": 763,
     "profileIconId": 4764,
     "soloRank": {
       "tier": "DIAMOND",
       "rank": "II",
-      "leaguePoints": 24
+      "leaguePoints": 45
     },
     "topChamps": [
       {
         "name": "Qiyana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Qiyana.png",
-        "points": 853082
+        "points": 854619
       },
       {
         "name": "Twitch",
@@ -274,7 +274,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Qiyana",
-      "points": 853082
+      "points": 854619
     }
   },
   {
