@@ -99,12 +99,12 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 353,
+    "summonerLevel": 354,
     "profileIconId": 5374,
     "soloRank": {
       "tier": "SILVER",
       "rank": "II",
-      "leaguePoints": 71
+      "leaguePoints": 98
     },
     "topChamps": [
       {
@@ -130,7 +130,7 @@
       {
         "name": "Veigar",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Veigar.png",
-        "points": 57420
+        "points": 58491
       }
     ],
     "highestMasteryChamp": {
