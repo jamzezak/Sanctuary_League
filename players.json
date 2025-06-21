@@ -197,7 +197,7 @@
     "soloRank": {
       "tier": "SILVER",
       "rank": "II",
-      "leaguePoints": 84
+      "leaguePoints": 70
     },
     "topChamps": [
       {
@@ -925,7 +925,7 @@
     "soloRank": {
       "tier": "BRONZE",
       "rank": "IV",
-      "leaguePoints": 56
+      "leaguePoints": 30
     },
     "topChamps": [
       {
@@ -951,7 +951,7 @@
       {
         "name": "Jhin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Jhin.png",
-        "points": 84091
+        "points": 84996
       }
     ],
     "highestMasteryChamp": {
@@ -1113,7 +1113,7 @@
     "soloRank": {
       "tier": "PLATINUM",
       "rank": "III",
-      "leaguePoints": 70
+      "leaguePoints": 46
     },
     "topChamps": [
       {
