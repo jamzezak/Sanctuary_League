@@ -736,11 +736,11 @@
       "Support"
     ],
     "summonerLevel": 495,
-    "profileIconId": 6877,
+    "profileIconId": 6883,
     "soloRank": {
       "tier": "SILVER",
       "rank": "I",
-      "leaguePoints": 61
+      "leaguePoints": 96
     },
     "topChamps": [
       {
@@ -1066,7 +1066,7 @@
     "soloRank": {
       "tier": "PLATINUM",
       "rank": "IV",
-      "leaguePoints": 0
+      "leaguePoints": 24
     },
     "topChamps": [
       {
