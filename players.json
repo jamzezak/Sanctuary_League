@@ -104,7 +104,7 @@
     "soloRank": {
       "tier": "SILVER",
       "rank": "II",
-      "leaguePoints": 98
+      "leaguePoints": 74
     },
     "topChamps": [
       {
@@ -130,7 +130,7 @@
       {
         "name": "Veigar",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Veigar.png",
-        "points": 58491
+        "points": 59374
       }
     ],
     "highestMasteryChamp": {
@@ -735,12 +735,12 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 495,
+    "summonerLevel": 496,
     "profileIconId": 6883,
     "soloRank": {
       "tier": "GOLD",
       "rank": "IV",
-      "leaguePoints": 29
+      "leaguePoints": 12
     },
     "topChamps": [
       {
