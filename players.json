@@ -1019,37 +1019,8 @@
       "rank": "I",
       "leaguePoints": 39
     },
-    "topChamps": [
-      {
-        "name": "Katarina",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Katarina.png",
-        "points": 510148
-      },
-      {
-        "name": "Rakan",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Rakan.png",
-        "points": 420047
-      },
-      {
-        "name": "Alistar",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Alistar.png",
-        "points": 211596
-      },
-      {
-        "name": "Thresh",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Thresh.png",
-        "points": 200882
-      },
-      {
-        "name": "Brand",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Brand.png",
-        "points": 188651
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Katarina",
-      "points": 510148
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   },
   {
     "name": "Lelouch",
@@ -1064,9 +1035,9 @@
     "summonerLevel": 920,
     "profileIconId": 5962,
     "soloRank": {
-      "tier": "PLATINUM",
-      "rank": "IV",
-      "leaguePoints": 0
+      "tier": "GOLD",
+      "rank": "I",
+      "leaguePoints": 75
     },
     "topChamps": [
       {
