@@ -330,12 +330,12 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 251,
+    "summonerLevel": 252,
     "profileIconId": 691,
     "soloRank": {
       "tier": "PLATINUM",
-      "rank": "IV",
-      "leaguePoints": 38
+      "rank": "III",
+      "leaguePoints": 14
     },
     "topChamps": [
       {
@@ -924,14 +924,14 @@
     "profileIconId": 4417,
     "soloRank": {
       "tier": "BRONZE",
-      "rank": "III",
-      "leaguePoints": 50
+      "rank": "II",
+      "leaguePoints": 1
     },
     "topChamps": [
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Aatrox.png",
-        "points": 479600
+        "points": 480959
       },
       {
         "name": "Yasuo",
@@ -956,7 +956,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 479600
+      "points": 480959
     }
   },
   {
