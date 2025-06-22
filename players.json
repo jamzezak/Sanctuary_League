@@ -920,12 +920,12 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 434,
+    "summonerLevel": 435,
     "profileIconId": 4417,
     "soloRank": {
       "tier": "BRONZE",
       "rank": "II",
-      "leaguePoints": 1
+      "leaguePoints": 2
     },
     "topChamps": [
       {
@@ -936,7 +936,7 @@
       {
         "name": "Yasuo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Yasuo.png",
-        "points": 246226
+        "points": 247468
       },
       {
         "name": "Aphelios",
