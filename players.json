@@ -600,12 +600,12 @@
     "role": [
       "Top"
     ],
-    "summonerLevel": 241,
+    "summonerLevel": 242,
     "profileIconId": 5408,
     "soloRank": {
       "tier": "GOLD",
       "rank": "III",
-      "leaguePoints": 11
+      "leaguePoints": 36
     },
     "topChamps": [
       {
@@ -740,7 +740,7 @@
     "soloRank": {
       "tier": "GOLD",
       "rank": "IV",
-      "leaguePoints": 12
+      "leaguePoints": 45
     },
     "topChamps": [
       {
@@ -1113,7 +1113,7 @@
     "soloRank": {
       "tier": "PLATINUM",
       "rank": "IV",
-      "leaguePoints": 98
+      "leaguePoints": 73
     },
     "topChamps": [
       {
