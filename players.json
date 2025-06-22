@@ -1066,13 +1066,13 @@
     "soloRank": {
       "tier": "PLATINUM",
       "rank": "IV",
-      "leaguePoints": 24
+      "leaguePoints": 0
     },
     "topChamps": [
       {
         "name": "Soraka",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Soraka.png",
-        "points": 866479
+        "points": 866913
       },
       {
         "name": "Shen",
@@ -1097,7 +1097,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Soraka",
-      "points": 866479
+      "points": 866913
     }
   },
   {
