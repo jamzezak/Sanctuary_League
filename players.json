@@ -925,13 +925,13 @@
     "soloRank": {
       "tier": "BRONZE",
       "rank": "III",
-      "leaguePoints": 26
+      "leaguePoints": 50
     },
     "topChamps": [
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Aatrox.png",
-        "points": 478396
+        "points": 479600
       },
       {
         "name": "Yasuo",
@@ -956,7 +956,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 478396
+      "points": 479600
     }
   },
   {
