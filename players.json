@@ -451,7 +451,7 @@
       {
         "name": "Graves",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Graves.png",
-        "points": 291426
+        "points": 292102
       }
     ],
     "highestMasteryChamp": {
@@ -690,7 +690,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 584,
+    "summonerLevel": 585,
     "profileIconId": 6789,
     "soloRank": {
       "tier": "BRONZE",
