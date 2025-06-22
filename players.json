@@ -848,7 +848,7 @@
       {
         "name": "Ezreal",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Ezreal.png",
-        "points": 146046
+        "points": 146975
       },
       {
         "name": "Orianna",
@@ -1019,8 +1019,37 @@
       "rank": "I",
       "leaguePoints": 39
     },
-    "topChamps": [],
-    "highestMasteryChamp": null
+    "topChamps": [
+      {
+        "name": "Katarina",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Katarina.png",
+        "points": 510148
+      },
+      {
+        "name": "Rakan",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Rakan.png",
+        "points": 420047
+      },
+      {
+        "name": "Alistar",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Alistar.png",
+        "points": 211596
+      },
+      {
+        "name": "Thresh",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Thresh.png",
+        "points": 200882
+      },
+      {
+        "name": "Brand",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Brand.png",
+        "points": 188651
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Katarina",
+      "points": 510148
+    }
   },
   {
     "name": "Lelouch",
@@ -1083,8 +1112,8 @@
     "profileIconId": 718,
     "soloRank": {
       "tier": "PLATINUM",
-      "rank": "III",
-      "leaguePoints": 22
+      "rank": "IV",
+      "leaguePoints": 98
     },
     "topChamps": [
       {
