@@ -150,7 +150,7 @@
     "soloRank": {
       "tier": "EMERALD",
       "rank": "III",
-      "leaguePoints": 63
+      "leaguePoints": 84
     },
     "topChamps": [
       {
@@ -269,7 +269,7 @@
       {
         "name": "Thresh",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Thresh.png",
-        "points": 319526
+        "points": 320034
       }
     ],
     "highestMasteryChamp": {
@@ -285,7 +285,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 450,
+    "summonerLevel": 451,
     "profileIconId": 6879,
     "soloRank": {
       "tier": "EMERALD",
@@ -925,7 +925,7 @@
     "soloRank": {
       "tier": "BRONZE",
       "rank": "III",
-      "leaguePoints": 34
+      "leaguePoints": 21
     },
     "topChamps": [
       {
