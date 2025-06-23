@@ -441,7 +441,7 @@
       {
         "name": "Lee Sin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/LeeSin.png",
-        "points": 316069
+        "points": 316947
       },
       {
         "name": "Zed",
@@ -496,7 +496,7 @@
       {
         "name": "Orianna",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Orianna.png",
-        "points": 134119
+        "points": 135873
       }
     ],
     "highestMasteryChamp": {
@@ -1061,7 +1061,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 920,
+    "summonerLevel": 921,
     "profileIconId": 5962,
     "soloRank": {
       "tier": "Unranked",
