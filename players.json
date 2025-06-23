@@ -104,7 +104,7 @@
     "soloRank": {
       "tier": "SILVER",
       "rank": "II",
-      "leaguePoints": 51
+      "leaguePoints": 77
     },
     "topChamps": [
       {
@@ -120,7 +120,7 @@
       {
         "name": "Kayn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Kayn.png",
-        "points": 146008
+        "points": 147334
       },
       {
         "name": "Cho'Gath",
@@ -156,7 +156,7 @@
       {
         "name": "Sett",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Sett.png",
-        "points": 362312
+        "points": 364318
       },
       {
         "name": "Aurora",
@@ -181,7 +181,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Sett",
-      "points": 362312
+      "points": 364318
     }
   },
   {
@@ -515,7 +515,7 @@
     "soloRank": {
       "tier": "GOLD",
       "rank": "I",
-      "leaguePoints": 75
+      "leaguePoints": 98
     },
     "topChamps": [
       {
@@ -605,7 +605,7 @@
     "soloRank": {
       "tier": "GOLD",
       "rank": "IV",
-      "leaguePoints": 85
+      "leaguePoints": 58
     },
     "topChamps": [
       {
@@ -621,7 +621,7 @@
       {
         "name": "Sylas",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Sylas.png",
-        "points": 99642
+        "points": 101407
       },
       {
         "name": "Malzahar",
@@ -719,9 +719,9 @@
         "points": 138262
       },
       {
-        "name": "Pyke",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Pyke.png",
-        "points": 91146
+        "name": "Teemo",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Teemo.png",
+        "points": 91357
       }
     ],
     "highestMasteryChamp": {
@@ -787,7 +787,7 @@
     "soloRank": {
       "tier": "PLATINUM",
       "rank": "II",
-      "leaguePoints": 35
+      "leaguePoints": 8
     },
     "topChamps": [
       {
@@ -924,8 +924,8 @@
     "profileIconId": 4417,
     "soloRank": {
       "tier": "BRONZE",
-      "rank": "II",
-      "leaguePoints": 2
+      "rank": "III",
+      "leaguePoints": 77
     },
     "topChamps": [
       {
