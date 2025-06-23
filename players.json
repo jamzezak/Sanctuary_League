@@ -145,18 +145,18 @@
       "Top",
       "Mid"
     ],
-    "summonerLevel": 950,
+    "summonerLevel": 951,
     "profileIconId": 4958,
     "soloRank": {
       "tier": "EMERALD",
       "rank": "III",
-      "leaguePoints": 84
+      "leaguePoints": 44
     },
     "topChamps": [
       {
         "name": "Sett",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Sett.png",
-        "points": 364318
+        "points": 365074
       },
       {
         "name": "Aurora",
@@ -181,7 +181,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Sett",
-      "points": 364318
+      "points": 365074
     }
   },
   {
@@ -292,37 +292,8 @@
       "rank": "IV",
       "leaguePoints": 58
     },
-    "topChamps": [
-      {
-        "name": "Jhin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Jhin.png",
-        "points": 143158
-      },
-      {
-        "name": "Lee Sin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/LeeSin.png",
-        "points": 141427
-      },
-      {
-        "name": "Ezreal",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Ezreal.png",
-        "points": 140239
-      },
-      {
-        "name": "Draven",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Draven.png",
-        "points": 130225
-      },
-      {
-        "name": "Riven",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Riven.png",
-        "points": 117957
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Jhin",
-      "points": 143158
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   },
   {
     "name": "Sappy Caster",
@@ -337,37 +308,8 @@
       "rank": "III",
       "leaguePoints": 14
     },
-    "topChamps": [
-      {
-        "name": "Udyr",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Udyr.png",
-        "points": 172943
-      },
-      {
-        "name": "Lee Sin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/LeeSin.png",
-        "points": 119784
-      },
-      {
-        "name": "Kha'Zix",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Khazix.png",
-        "points": 77944
-      },
-      {
-        "name": "Amumu",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Amumu.png",
-        "points": 75072
-      },
-      {
-        "name": "Rengar",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Rengar.png",
-        "points": 74792
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Udyr",
-      "points": 172943
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   },
   {
     "name": "Fat",
@@ -382,37 +324,8 @@
       "rank": "I",
       "leaguePoints": 37
     },
-    "topChamps": [
-      {
-        "name": "Lulu",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Lulu.png",
-        "points": 151536
-      },
-      {
-        "name": "Annie",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Annie.png",
-        "points": 140650
-      },
-      {
-        "name": "Sejuani",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Sejuani.png",
-        "points": 129786
-      },
-      {
-        "name": "Nautilus",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Nautilus.png",
-        "points": 119859
-      },
-      {
-        "name": "Leona",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Leona.png",
-        "points": 117100
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Lulu",
-      "points": 151536
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   },
   {
     "name": "Drakar",
@@ -431,7 +344,7 @@
       {
         "name": "Kayn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Kayn.png",
-        "points": 643417
+        "points": 645100
       },
       {
         "name": "Yasuo",
@@ -456,7 +369,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Kayn",
-      "points": 643417
+      "points": 645100
     }
   },
   {
@@ -808,7 +721,7 @@
       {
         "name": "Nunu & Willump",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Nunu.png",
-        "points": 162304
+        "points": 164088
       },
       {
         "name": "Jhin",
