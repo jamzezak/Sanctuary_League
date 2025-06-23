@@ -161,7 +161,7 @@
       {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Aurora.png",
-        "points": 358166
+        "points": 359974
       },
       {
         "name": "Gangplank",
@@ -264,7 +264,7 @@
       {
         "name": "Yasuo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Yasuo.png",
-        "points": 358156
+        "points": 359202
       },
       {
         "name": "Thresh",
@@ -513,15 +513,15 @@
     "summonerLevel": 705,
     "profileIconId": 6224,
     "soloRank": {
-      "tier": "GOLD",
-      "rank": "I",
-      "leaguePoints": 98
+      "tier": "PLATINUM",
+      "rank": "IV",
+      "leaguePoints": 21
     },
     "topChamps": [
       {
         "name": "Yasuo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Yasuo.png",
-        "points": 549469
+        "points": 551311
       },
       {
         "name": "Akali",
@@ -546,7 +546,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Yasuo",
-      "points": 549469
+      "points": 551311
     }
   },
   {
@@ -721,7 +721,7 @@
       {
         "name": "Teemo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Teemo.png",
-        "points": 91357
+        "points": 92196
       }
     ],
     "highestMasteryChamp": {
@@ -786,8 +786,8 @@
     "profileIconId": 870,
     "soloRank": {
       "tier": "PLATINUM",
-      "rank": "II",
-      "leaguePoints": 8
+      "rank": "III",
+      "leaguePoints": 81
     },
     "topChamps": [
       {
@@ -803,12 +803,12 @@
       {
         "name": "Lee Sin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/LeeSin.png",
-        "points": 209966
+        "points": 210649
       },
       {
         "name": "Nunu & Willump",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Nunu.png",
-        "points": 161194
+        "points": 162304
       },
       {
         "name": "Jhin",
@@ -925,7 +925,7 @@
     "soloRank": {
       "tier": "BRONZE",
       "rank": "III",
-      "leaguePoints": 77
+      "leaguePoints": 34
     },
     "topChamps": [
       {
