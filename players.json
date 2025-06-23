@@ -104,7 +104,7 @@
     "soloRank": {
       "tier": "SILVER",
       "rank": "II",
-      "leaguePoints": 74
+      "leaguePoints": 51
     },
     "topChamps": [
       {
@@ -604,8 +604,8 @@
     "profileIconId": 5408,
     "soloRank": {
       "tier": "GOLD",
-      "rank": "III",
-      "leaguePoints": 36
+      "rank": "IV",
+      "leaguePoints": 85
     },
     "topChamps": [
       {
@@ -1113,7 +1113,7 @@
     "soloRank": {
       "tier": "PLATINUM",
       "rank": "IV",
-      "leaguePoints": 49
+      "leaguePoints": 46
     },
     "topChamps": [
       {
