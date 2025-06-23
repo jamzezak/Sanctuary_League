@@ -8,9 +8,9 @@
     "summonerLevel": 357,
     "profileIconId": 6883,
     "soloRank": {
-      "tier": "MASTER",
-      "rank": "I",
-      "leaguePoints": 290
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
@@ -54,8 +54,8 @@
     "summonerLevel": 439,
     "profileIconId": 6715,
     "soloRank": {
-      "tier": "PLATINUM",
-      "rank": "IV",
+      "tier": "Unranked",
+      "rank": "",
       "leaguePoints": 0
     },
     "topChamps": [
@@ -102,9 +102,9 @@
     "summonerLevel": 354,
     "profileIconId": 5374,
     "soloRank": {
-      "tier": "SILVER",
-      "rank": "II",
-      "leaguePoints": 77
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
@@ -148,9 +148,9 @@
     "summonerLevel": 951,
     "profileIconId": 4958,
     "soloRank": {
-      "tier": "EMERALD",
-      "rank": "III",
-      "leaguePoints": 23
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
@@ -195,9 +195,9 @@
     "summonerLevel": 789,
     "profileIconId": 6348,
     "soloRank": {
-      "tier": "SILVER",
-      "rank": "II",
-      "leaguePoints": 70
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
@@ -241,9 +241,9 @@
     "summonerLevel": 763,
     "profileIconId": 4764,
     "soloRank": {
-      "tier": "DIAMOND",
-      "rank": "II",
-      "leaguePoints": 45
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
@@ -288,9 +288,9 @@
     "summonerLevel": 451,
     "profileIconId": 6879,
     "soloRank": {
-      "tier": "EMERALD",
-      "rank": "IV",
-      "leaguePoints": 58
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
@@ -333,9 +333,9 @@
     "summonerLevel": 252,
     "profileIconId": 691,
     "soloRank": {
-      "tier": "PLATINUM",
-      "rank": "III",
-      "leaguePoints": 14
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
@@ -378,9 +378,9 @@
     "summonerLevel": 420,
     "profileIconId": 781,
     "soloRank": {
-      "tier": "GOLD",
-      "rank": "I",
-      "leaguePoints": 37
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
@@ -468,9 +468,9 @@
     "summonerLevel": 575,
     "profileIconId": 6434,
     "soloRank": {
-      "tier": "EMERALD",
-      "rank": "II",
-      "leaguePoints": 4
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
@@ -513,9 +513,9 @@
     "summonerLevel": 705,
     "profileIconId": 6224,
     "soloRank": {
-      "tier": "PLATINUM",
-      "rank": "IV",
-      "leaguePoints": 21
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
@@ -558,9 +558,9 @@
     "summonerLevel": 287,
     "profileIconId": 508,
     "soloRank": {
-      "tier": "GOLD",
-      "rank": "III",
-      "leaguePoints": 76
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
@@ -603,9 +603,9 @@
     "summonerLevel": 242,
     "profileIconId": 5408,
     "soloRank": {
-      "tier": "GOLD",
-      "rank": "IV",
-      "leaguePoints": 58
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
@@ -648,9 +648,9 @@
     "summonerLevel": 38,
     "profileIconId": 6850,
     "soloRank": {
-      "tier": "PLATINUM",
-      "rank": "IV",
-      "leaguePoints": 24
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
@@ -693,9 +693,9 @@
     "summonerLevel": 585,
     "profileIconId": 6789,
     "soloRank": {
-      "tier": "BRONZE",
-      "rank": "IV",
-      "leaguePoints": 48
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
@@ -738,9 +738,9 @@
     "summonerLevel": 496,
     "profileIconId": 6883,
     "soloRank": {
-      "tier": "GOLD",
-      "rank": "IV",
-      "leaguePoints": 78
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
@@ -785,9 +785,9 @@
     "summonerLevel": 646,
     "profileIconId": 870,
     "soloRank": {
-      "tier": "PLATINUM",
-      "rank": "III",
-      "leaguePoints": 81
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
@@ -830,9 +830,9 @@
     "summonerLevel": 479,
     "profileIconId": 1389,
     "soloRank": {
-      "tier": "GOLD",
-      "rank": "I",
-      "leaguePoints": 92
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
@@ -875,9 +875,9 @@
     "summonerLevel": 254,
     "profileIconId": 1641,
     "soloRank": {
-      "tier": "DIAMOND",
-      "rank": "IV",
-      "leaguePoints": 75
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
@@ -923,9 +923,9 @@
     "summonerLevel": 435,
     "profileIconId": 4417,
     "soloRank": {
-      "tier": "BRONZE",
-      "rank": "III",
-      "leaguePoints": 21
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
@@ -969,9 +969,9 @@
     "summonerLevel": 343,
     "profileIconId": 6500,
     "soloRank": {
-      "tier": "GOLD",
-      "rank": "III",
-      "leaguePoints": 62
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
@@ -1015,9 +1015,9 @@
     "summonerLevel": 906,
     "profileIconId": 6865,
     "soloRank": {
-      "tier": "EMERALD",
-      "rank": "I",
-      "leaguePoints": 39
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
@@ -1064,9 +1064,9 @@
     "summonerLevel": 920,
     "profileIconId": 5962,
     "soloRank": {
-      "tier": "GOLD",
-      "rank": "I",
-      "leaguePoints": 75
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
@@ -1111,9 +1111,9 @@
     "summonerLevel": 522,
     "profileIconId": 718,
     "soloRank": {
-      "tier": "PLATINUM",
-      "rank": "IV",
-      "leaguePoints": 73
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
@@ -1156,9 +1156,9 @@
     "summonerLevel": 311,
     "profileIconId": 6378,
     "soloRank": {
-      "tier": "MASTER",
-      "rank": "I",
-      "leaguePoints": 13
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
@@ -1202,9 +1202,9 @@
     "summonerLevel": 513,
     "profileIconId": 6860,
     "soloRank": {
-      "tier": "GOLD",
-      "rank": "I",
-      "leaguePoints": 98
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
@@ -1247,9 +1247,9 @@
     "summonerLevel": 348,
     "profileIconId": 5860,
     "soloRank": {
-      "tier": "PLATINUM",
-      "rank": "IV",
-      "leaguePoints": 30
+      "tier": "Unranked",
+      "rank": "",
+      "leaguePoints": 0
     },
     "topChamps": [
       {
