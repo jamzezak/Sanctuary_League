@@ -16,7 +16,7 @@
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Vayne.png",
-        "points": 1175058
+        "points": 1175710
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1175058
+      "points": 1175710
     }
   },
   {
@@ -239,7 +239,7 @@
       "ADC"
     ],
     "summonerLevel": 763,
-    "profileIconId": 4764,
+    "profileIconId": 3589,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -931,7 +931,7 @@
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Aatrox.png",
-        "points": 480959
+        "points": 482998
       },
       {
         "name": "Yasuo",
@@ -956,7 +956,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 480959
+      "points": 482998
     }
   },
   {
