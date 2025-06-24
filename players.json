@@ -616,12 +616,12 @@
       {
         "name": "Viktor",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Viktor.png",
-        "points": 107506
+        "points": 109325
       },
       {
         "name": "Sylas",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Sylas.png",
-        "points": 101407
+        "points": 102137
       },
       {
         "name": "Malzahar",
@@ -782,7 +782,7 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 646,
+    "summonerLevel": 647,
     "profileIconId": 870,
     "soloRank": {
       "tier": "Unranked",
