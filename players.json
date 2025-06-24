@@ -99,7 +99,7 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 354,
+    "summonerLevel": 355,
     "profileIconId": 5374,
     "soloRank": {
       "tier": "Unranked",
@@ -130,7 +130,7 @@
       {
         "name": "Veigar",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Veigar.png",
-        "points": 59374
+        "points": 60726
       }
     ],
     "highestMasteryChamp": {
@@ -192,7 +192,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 789,
+    "summonerLevel": 790,
     "profileIconId": 6348,
     "soloRank": {
       "tier": "Unranked",
@@ -223,7 +223,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Ashe.png",
-        "points": 189281
+        "points": 190210
       }
     ],
     "highestMasteryChamp": {
@@ -254,7 +254,7 @@
       {
         "name": "Twitch",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Twitch.png",
-        "points": 639662
+        "points": 640354
       },
       {
         "name": "Rengar",
@@ -736,7 +736,7 @@
       "Support"
     ],
     "summonerLevel": 496,
-    "profileIconId": 6883,
+    "profileIconId": 6871,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -751,7 +751,7 @@
       {
         "name": "Yuumi",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Yuumi.png",
-        "points": 202497
+        "points": 203168
       },
       {
         "name": "Bard",
@@ -808,7 +808,7 @@
       {
         "name": "Nunu & Willump",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Nunu.png",
-        "points": 164088
+        "points": 165703
       },
       {
         "name": "Jhin",
@@ -1013,7 +1013,7 @@
       "Support"
     ],
     "summonerLevel": 907,
-    "profileIconId": 6865,
+    "profileIconId": 6871,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -1023,7 +1023,7 @@
       {
         "name": "Katarina",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Katarina.png",
-        "points": 510148
+        "points": 511329
       },
       {
         "name": "Rakan",
@@ -1043,12 +1043,12 @@
       {
         "name": "Brand",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Brand.png",
-        "points": 193296
+        "points": 194197
       }
     ],
     "highestMasteryChamp": {
       "name": "Katarina",
-      "points": 510148
+      "points": 511329
     }
   },
   {
@@ -1210,12 +1210,12 @@
       {
         "name": "Miss Fortune",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/MissFortune.png",
-        "points": 600373
+        "points": 601012
       },
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Ashe.png",
-        "points": 281940
+        "points": 282563
       },
       {
         "name": "Yone",
@@ -1235,7 +1235,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Miss Fortune",
-      "points": 600373
+      "points": 601012
     }
   },
   {
