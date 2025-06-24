@@ -156,7 +156,7 @@
       {
         "name": "Sett",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Sett.png",
-        "points": 365074
+        "points": 366562
       },
       {
         "name": "Aurora",
@@ -181,7 +181,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Sett",
-      "points": 365074
+      "points": 366562
     }
   },
   {
@@ -1108,7 +1108,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 522,
+    "summonerLevel": 523,
     "profileIconId": 718,
     "soloRank": {
       "tier": "Unranked",
