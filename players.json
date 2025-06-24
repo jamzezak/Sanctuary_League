@@ -756,7 +756,7 @@
       {
         "name": "Bard",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Bard.png",
-        "points": 81068
+        "points": 82053
       },
       {
         "name": "Lulu",
@@ -1012,7 +1012,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 906,
+    "summonerLevel": 907,
     "profileIconId": 6865,
     "soloRank": {
       "tier": "Unranked",
@@ -1043,7 +1043,7 @@
       {
         "name": "Brand",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Brand.png",
-        "points": 188651
+        "points": 193296
       }
     ],
     "highestMasteryChamp": {
@@ -1230,7 +1230,7 @@
       {
         "name": "Senna",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Senna.png",
-        "points": 143143
+        "points": 144256
       }
     ],
     "highestMasteryChamp": {
