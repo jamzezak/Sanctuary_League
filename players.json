@@ -51,7 +51,7 @@
       "Top",
       "Support"
     ],
-    "summonerLevel": 439,
+    "summonerLevel": 440,
     "profileIconId": 6715,
     "soloRank": {
       "tier": "Unranked",
@@ -72,7 +72,7 @@
       {
         "name": "Renekton",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Renekton.png",
-        "points": 88085
+        "points": 88361
       },
       {
         "name": "Rumble",
@@ -431,7 +431,7 @@
       {
         "name": "Kayn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Kayn.png",
-        "points": 645100
+        "points": 645802
       },
       {
         "name": "Yasuo",
@@ -456,7 +456,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Kayn",
-      "points": 645100
+      "points": 645802
     }
   },
   {
