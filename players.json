@@ -238,7 +238,7 @@
       "Mid",
       "ADC"
     ],
-    "summonerLevel": 764,
+    "summonerLevel": 765,
     "profileIconId": 939,
     "soloRank": {
       "tier": "Unranked",
@@ -808,7 +808,7 @@
       {
         "name": "Nunu & Willump",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Nunu.png",
-        "points": 172280
+        "points": 173053
       },
       {
         "name": "Jhin",
@@ -1062,7 +1062,7 @@
       "Support"
     ],
     "summonerLevel": 922,
-    "profileIconId": 5962,
+    "profileIconId": 6891,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
