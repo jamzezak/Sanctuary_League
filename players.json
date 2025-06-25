@@ -446,7 +446,7 @@
       {
         "name": "Zed",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Zed.png",
-        "points": 302549
+        "points": 304235
       },
       {
         "name": "Graves",
@@ -1072,7 +1072,7 @@
       {
         "name": "Soraka",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Soraka.png",
-        "points": 866913
+        "points": 867945
       },
       {
         "name": "Shen",
@@ -1097,7 +1097,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Soraka",
-      "points": 866913
+      "points": 867945
     }
   },
   {
