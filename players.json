@@ -16,7 +16,7 @@
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Vayne.png",
-        "points": 1178102
+        "points": 1178714
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1178102
+      "points": 1178714
     }
   },
   {
@@ -238,7 +238,7 @@
       "Mid",
       "ADC"
     ],
-    "summonerLevel": 763,
+    "summonerLevel": 764,
     "profileIconId": 939,
     "soloRank": {
       "tier": "Unranked",
@@ -269,7 +269,7 @@
       {
         "name": "Thresh",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Thresh.png",
-        "points": 320034
+        "points": 322030
       }
     ],
     "highestMasteryChamp": {
@@ -465,7 +465,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 576,
+    "summonerLevel": 577,
     "profileIconId": 6434,
     "soloRank": {
       "tier": "Unranked",
@@ -626,7 +626,7 @@
       {
         "name": "Malzahar",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Malzahar.png",
-        "points": 80847
+        "points": 81512
       },
       {
         "name": "Garen",
@@ -808,7 +808,7 @@
       {
         "name": "Nunu & Willump",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Nunu.png",
-        "points": 168195
+        "points": 170952
       },
       {
         "name": "Jhin",
@@ -966,7 +966,7 @@
       "Top",
       "ADC"
     ],
-    "summonerLevel": 343,
+    "summonerLevel": 344,
     "profileIconId": 6500,
     "soloRank": {
       "tier": "Unranked",
@@ -992,7 +992,7 @@
       {
         "name": "Tristana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Tristana.png",
-        "points": 97991
+        "points": 98611
       },
       {
         "name": "Jax",
