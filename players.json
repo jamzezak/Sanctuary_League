@@ -110,7 +110,7 @@
       {
         "name": "Tahm Kench",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/TahmKench.png",
-        "points": 286860
+        "points": 289496
       },
       {
         "name": "Viego",
@@ -135,7 +135,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Tahm Kench",
-      "points": 286860
+      "points": 289496
     }
   },
   {
@@ -254,7 +254,7 @@
       {
         "name": "Twitch",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Twitch.png",
-        "points": 640354
+        "points": 641585
       },
       {
         "name": "Rengar",
@@ -420,7 +420,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 866,
+    "summonerLevel": 867,
     "profileIconId": 2088,
     "soloRank": {
       "tier": "Unranked",
@@ -441,7 +441,7 @@
       {
         "name": "Lee Sin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/LeeSin.png",
-        "points": 316947
+        "points": 319066
       },
       {
         "name": "Zed",
@@ -701,7 +701,7 @@
       {
         "name": "Morgana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Morgana.png",
-        "points": 579424
+        "points": 580754
       },
       {
         "name": "Kai'Sa",
@@ -716,7 +716,7 @@
       {
         "name": "Nautilus",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Nautilus.png",
-        "points": 138262
+        "points": 138611
       },
       {
         "name": "Teemo",
@@ -726,7 +726,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Morgana",
-      "points": 579424
+      "points": 580754
     }
   },
   {
@@ -782,7 +782,7 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 647,
+    "summonerLevel": 648,
     "profileIconId": 870,
     "soloRank": {
       "tier": "Unranked",
@@ -843,7 +843,7 @@
       {
         "name": "Sylas",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Sylas.png",
-        "points": 170641
+        "points": 171592
       },
       {
         "name": "Ezreal",
@@ -931,7 +931,7 @@
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Aatrox.png",
-        "points": 482998
+        "points": 484413
       },
       {
         "name": "Yasuo",
@@ -939,14 +939,14 @@
         "points": 247468
       },
       {
+        "name": "Yone",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Yone.png",
+        "points": 101140
+      },
+      {
         "name": "Aphelios",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Aphelios.png",
         "points": 100803
-      },
-      {
-        "name": "Yone",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Yone.png",
-        "points": 100252
       },
       {
         "name": "Jhin",
@@ -956,7 +956,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 482998
+      "points": 484413
     }
   },
   {
