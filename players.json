@@ -827,7 +827,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 479,
+    "summonerLevel": 480,
     "profileIconId": 1389,
     "soloRank": {
       "tier": "Unranked",
@@ -856,9 +856,9 @@
         "points": 122751
       },
       {
-        "name": "Viktor",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Viktor.png",
-        "points": 120548
+        "name": "Jhin",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Jhin.png",
+        "points": 121144
       }
     ],
     "highestMasteryChamp": {
