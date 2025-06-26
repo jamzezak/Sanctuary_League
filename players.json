@@ -145,7 +145,7 @@
       "Top",
       "Mid"
     ],
-    "summonerLevel": 952,
+    "summonerLevel": 953,
     "profileIconId": 4958,
     "soloRank": {
       "tier": "Unranked",
@@ -166,7 +166,7 @@
       {
         "name": "Gangplank",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Gangplank.png",
-        "points": 346319
+        "points": 348161
       },
       {
         "name": "Darius",
