@@ -130,7 +130,7 @@
       {
         "name": "Veigar",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Veigar.png",
-        "points": 61226
+        "points": 61802
       }
     ],
     "highestMasteryChamp": {
@@ -254,7 +254,7 @@
       {
         "name": "Twitch",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Twitch.png",
-        "points": 641585
+        "points": 642199
       },
       {
         "name": "Rengar",
@@ -566,7 +566,7 @@
       {
         "name": "Jinx",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Jinx.png",
-        "points": 164401
+        "points": 165870
       },
       {
         "name": "Miss Fortune",
@@ -591,7 +591,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Jinx",
-      "points": 164401
+      "points": 165870
     }
   },
   {
@@ -966,7 +966,7 @@
       "Top",
       "ADC"
     ],
-    "summonerLevel": 344,
+    "summonerLevel": 345,
     "profileIconId": 6500,
     "soloRank": {
       "tier": "Unranked",
