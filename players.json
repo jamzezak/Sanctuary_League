@@ -99,7 +99,7 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 355,
+    "summonerLevel": 356,
     "profileIconId": 5374,
     "soloRank": {
       "tier": "Unranked",
@@ -130,7 +130,7 @@
       {
         "name": "Veigar",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Veigar.png",
-        "points": 61802
+        "points": 63085
       }
     ],
     "highestMasteryChamp": {
@@ -145,7 +145,7 @@
       "Top",
       "Mid"
     ],
-    "summonerLevel": 953,
+    "summonerLevel": 954,
     "profileIconId": 4958,
     "soloRank": {
       "tier": "Unranked",
@@ -856,9 +856,9 @@
         "points": 122751
       },
       {
-        "name": "Jhin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Jhin.png",
-        "points": 121144
+        "name": "Viktor",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Viktor.png",
+        "points": 122259
       }
     ],
     "highestMasteryChamp": {
