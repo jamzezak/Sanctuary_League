@@ -1153,7 +1153,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 311,
+    "summonerLevel": 312,
     "profileIconId": 6378,
     "soloRank": {
       "tier": "Unranked",
@@ -1169,7 +1169,7 @@
       {
         "name": "Hwei",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Hwei.png",
-        "points": 132301
+        "points": 134248
       },
       {
         "name": "Sylas",
