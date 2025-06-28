@@ -285,7 +285,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 451,
+    "summonerLevel": 452,
     "profileIconId": 6879,
     "soloRank": {
       "tier": "Unranked",
@@ -1174,7 +1174,7 @@
       {
         "name": "Sylas",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Sylas.png",
-        "points": 101905
+        "points": 104167
       },
       {
         "name": "Ahri",
