@@ -735,7 +735,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 497,
+    "summonerLevel": 498,
     "profileIconId": 6871,
     "soloRank": {
       "tier": "Unranked",
@@ -761,7 +761,7 @@
       {
         "name": "Lulu",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Lulu.png",
-        "points": 71096
+        "points": 71983
       },
       {
         "name": "Nautilus",
@@ -843,7 +843,7 @@
       {
         "name": "Sylas",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Sylas.png",
-        "points": 171592
+        "points": 172215
       },
       {
         "name": "Ezreal",
