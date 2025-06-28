@@ -161,7 +161,7 @@
       {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Aurora.png",
-        "points": 363690
+        "points": 365520
       },
       {
         "name": "Gangplank",
@@ -420,7 +420,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 868,
+    "summonerLevel": 869,
     "profileIconId": 2088,
     "soloRank": {
       "tier": "Unranked",
