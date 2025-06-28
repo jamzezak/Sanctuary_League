@@ -5,7 +5,7 @@
     "role": [
       "ADC"
     ],
-    "summonerLevel": 357,
+    "summonerLevel": 358,
     "profileIconId": 6883,
     "soloRank": {
       "tier": "Unranked",
@@ -26,12 +26,12 @@
       {
         "name": "Varus",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Varus.png",
-        "points": 132673
+        "points": 134261
       },
       {
         "name": "Kai'Sa",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Kaisa.png",
-        "points": 84920
+        "points": 86029
       },
       {
         "name": "Jinx",
@@ -99,7 +99,7 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 356,
+    "summonerLevel": 357,
     "profileIconId": 5374,
     "soloRank": {
       "tier": "Unranked",
@@ -145,7 +145,7 @@
       "Top",
       "Mid"
     ],
-    "summonerLevel": 954,
+    "summonerLevel": 955,
     "profileIconId": 4958,
     "soloRank": {
       "tier": "Unranked",
@@ -161,7 +161,7 @@
       {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Aurora.png",
-        "points": 362552
+        "points": 363690
       },
       {
         "name": "Gangplank",
@@ -751,7 +751,7 @@
       {
         "name": "Yuumi",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Yuumi.png",
-        "points": 203168
+        "points": 204704
       },
       {
         "name": "Bard",
@@ -966,7 +966,7 @@
       "Top",
       "ADC"
     ],
-    "summonerLevel": 345,
+    "summonerLevel": 346,
     "profileIconId": 6500,
     "soloRank": {
       "tier": "Unranked",
@@ -1244,7 +1244,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 348,
+    "summonerLevel": 349,
     "profileIconId": 5860,
     "soloRank": {
       "tier": "Unranked",
@@ -1255,7 +1255,7 @@
       {
         "name": "Nami",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Nami.png",
-        "points": 111661
+        "points": 113374
       },
       {
         "name": "Lux",
@@ -1270,7 +1270,7 @@
       {
         "name": "Leona",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Leona.png",
-        "points": 78403
+        "points": 79451
       },
       {
         "name": "Brand",
@@ -1280,7 +1280,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Nami",
-      "points": 111661
+      "points": 113374
     }
   }
 ]
