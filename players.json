@@ -1164,7 +1164,7 @@
       {
         "name": "Syndra",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Syndra.png",
-        "points": 269706
+        "points": 270765
       },
       {
         "name": "Hwei",
@@ -1174,7 +1174,7 @@
       {
         "name": "Sylas",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Sylas.png",
-        "points": 104167
+        "points": 106587
       },
       {
         "name": "Ahri",
@@ -1189,7 +1189,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Syndra",
-      "points": 269706
+      "points": 270765
     }
   },
   {
