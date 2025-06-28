@@ -145,7 +145,7 @@
       "Top",
       "Mid"
     ],
-    "summonerLevel": 955,
+    "summonerLevel": 956,
     "profileIconId": 4958,
     "soloRank": {
       "tier": "Unranked",
@@ -1260,7 +1260,7 @@
       {
         "name": "Lux",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Lux.png",
-        "points": 110253
+        "points": 111053
       },
       {
         "name": "Senna",
