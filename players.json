@@ -125,7 +125,7 @@
       {
         "name": "Cho'Gath",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Chogath.png",
-        "points": 82354
+        "points": 82892
       },
       {
         "name": "Veigar",
@@ -156,12 +156,12 @@
       {
         "name": "Sett",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Sett.png",
-        "points": 367947
+        "points": 369609
       },
       {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Aurora.png",
-        "points": 365520
+        "points": 366077
       },
       {
         "name": "Gangplank",
@@ -181,7 +181,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Sett",
-      "points": 367947
+      "points": 369609
     }
   },
   {
