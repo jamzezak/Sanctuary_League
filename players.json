@@ -110,7 +110,7 @@
       {
         "name": "Tahm Kench",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/TahmKench.png",
-        "points": 289496
+        "points": 290007
       },
       {
         "name": "Viego",
@@ -135,7 +135,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Tahm Kench",
-      "points": 289496
+      "points": 290007
     }
   },
   {
@@ -269,7 +269,7 @@
       {
         "name": "Thresh",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Thresh.png",
-        "points": 322512
+        "points": 323482
       }
     ],
     "highestMasteryChamp": {
