@@ -431,7 +431,7 @@
       {
         "name": "Kayn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Kayn.png",
-        "points": 645802
+        "points": 646486
       },
       {
         "name": "Yasuo",
@@ -456,7 +456,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Kayn",
-      "points": 645802
+      "points": 646486
     }
   },
   {
@@ -690,7 +690,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 586,
+    "summonerLevel": 587,
     "profileIconId": 6789,
     "soloRank": {
       "tier": "Unranked",
@@ -856,9 +856,9 @@
         "points": 122751
       },
       {
-        "name": "Viktor",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Viktor.png",
-        "points": 122259
+        "name": "Jhin",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Jhin.png",
+        "points": 122376
       }
     ],
     "highestMasteryChamp": {
