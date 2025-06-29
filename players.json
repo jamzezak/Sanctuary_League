@@ -721,7 +721,7 @@
       {
         "name": "Teemo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Teemo.png",
-        "points": 93276
+        "points": 94241
       }
     ],
     "highestMasteryChamp": {
@@ -766,7 +766,7 @@
       {
         "name": "Nautilus",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Nautilus.png",
-        "points": 65766
+        "points": 66543
       }
     ],
     "highestMasteryChamp": {
@@ -1179,7 +1179,7 @@
       {
         "name": "Ahri",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ahri.png",
-        "points": 61081
+        "points": 62015
       },
       {
         "name": "Corki",
