@@ -441,7 +441,7 @@
       {
         "name": "Lee Sin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/LeeSin.png",
-        "points": 323217
+        "points": 323946
       },
       {
         "name": "Zed",
@@ -1061,7 +1061,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 923,
+    "summonerLevel": 924,
     "profileIconId": 6900,
     "soloRank": {
       "tier": "Unranked",
@@ -1260,7 +1260,7 @@
       {
         "name": "Lux",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Lux.png",
-        "points": 111053
+        "points": 111950
       },
       {
         "name": "Senna",
