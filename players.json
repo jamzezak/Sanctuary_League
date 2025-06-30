@@ -156,7 +156,7 @@
       {
         "name": "Sett",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Sett.png",
-        "points": 369609
+        "points": 370381
       },
       {
         "name": "Aurora",
@@ -181,7 +181,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Sett",
-      "points": 369609
+      "points": 370381
     }
   },
   {
@@ -893,7 +893,7 @@
       {
         "name": "Lee Sin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/LeeSin.png",
-        "points": 96154
+        "points": 96870
       },
       {
         "name": "Hecarim",
