@@ -192,7 +192,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 790,
+    "summonerLevel": 791,
     "profileIconId": 6900,
     "soloRank": {
       "tier": "Unranked",
@@ -264,7 +264,7 @@
       {
         "name": "Yasuo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Yasuo.png",
-        "points": 359202
+        "points": 359785
       },
       {
         "name": "Thresh",
@@ -921,7 +921,7 @@
       "Support"
     ],
     "summonerLevel": 435,
-    "profileIconId": 4663,
+    "profileIconId": 4417,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -1275,7 +1275,7 @@
       {
         "name": "Brand",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Brand.png",
-        "points": 72211
+        "points": 73204
       }
     ],
     "highestMasteryChamp": {
