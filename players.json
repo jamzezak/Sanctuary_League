@@ -735,8 +735,8 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 498,
-    "profileIconId": 6871,
+    "summonerLevel": 499,
+    "profileIconId": 6799,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -751,7 +751,7 @@
       {
         "name": "Yuumi",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Yuumi.png",
-        "points": 204704
+        "points": 205365
       },
       {
         "name": "Bard",
@@ -920,7 +920,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 435,
+    "summonerLevel": 436,
     "profileIconId": 4417,
     "soloRank": {
       "tier": "Unranked",
