@@ -5,7 +5,7 @@
     "role": [
       "ADC"
     ],
-    "summonerLevel": 358,
+    "summonerLevel": 359,
     "profileIconId": 6883,
     "soloRank": {
       "tier": "Unranked",
@@ -16,7 +16,7 @@
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Vayne.png",
-        "points": 1179385
+        "points": 1180962
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1179385
+      "points": 1180962
     }
   },
   {
@@ -176,7 +176,7 @@
       {
         "name": "Pantheon",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Pantheon.png",
-        "points": 185545
+        "points": 186860
       }
     ],
     "highestMasteryChamp": {
@@ -782,7 +782,7 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 651,
+    "summonerLevel": 652,
     "profileIconId": 870,
     "soloRank": {
       "tier": "Unranked",
