@@ -249,7 +249,7 @@
       {
         "name": "Qiyana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Qiyana.png",
-        "points": 857223
+        "points": 857793
       },
       {
         "name": "Twitch",
@@ -274,7 +274,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Qiyana",
-      "points": 857223
+      "points": 857793
     }
   },
   {
@@ -711,7 +711,7 @@
       {
         "name": "Brand",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Brand.png",
-        "points": 142246
+        "points": 142719
       },
       {
         "name": "Nautilus",
