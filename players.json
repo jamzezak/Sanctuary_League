@@ -21,7 +21,7 @@
       {
         "name": "Twitch",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Twitch.png",
-        "points": 241987
+        "points": 243552
       },
       {
         "name": "Varus",
@@ -31,7 +31,7 @@
       {
         "name": "Kai'Sa",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Kaisa.png",
-        "points": 86029
+        "points": 86397
       },
       {
         "name": "Jinx",
@@ -420,7 +420,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 869,
+    "summonerLevel": 870,
     "profileIconId": 2088,
     "soloRank": {
       "tier": "Unranked",
@@ -690,7 +690,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 587,
+    "summonerLevel": 588,
     "profileIconId": 6789,
     "soloRank": {
       "tier": "Unranked",
@@ -936,7 +936,7 @@
       {
         "name": "Yasuo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Yasuo.png",
-        "points": 247468
+        "points": 248835
       },
       {
         "name": "Yone",
@@ -966,7 +966,7 @@
       "Top",
       "ADC"
     ],
-    "summonerLevel": 346,
+    "summonerLevel": 347,
     "profileIconId": 6500,
     "soloRank": {
       "tier": "Unranked",
