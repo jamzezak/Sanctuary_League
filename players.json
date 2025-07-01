@@ -238,7 +238,7 @@
       "Mid",
       "ADC"
     ],
-    "summonerLevel": 766,
+    "summonerLevel": 767,
     "profileIconId": 939,
     "soloRank": {
       "tier": "Unranked",
@@ -269,7 +269,7 @@
       {
         "name": "Thresh",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Thresh.png",
-        "points": 323482
+        "points": 324244
       }
     ],
     "highestMasteryChamp": {
@@ -711,7 +711,7 @@
       {
         "name": "Brand",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Brand.png",
-        "points": 141919
+        "points": 142246
       },
       {
         "name": "Nautilus",
