@@ -99,7 +99,7 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 357,
+    "summonerLevel": 358,
     "profileIconId": 5374,
     "soloRank": {
       "tier": "Unranked",
@@ -130,7 +130,7 @@
       {
         "name": "Veigar",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Veigar.png",
-        "points": 63085
+        "points": 65131
       }
     ],
     "highestMasteryChamp": {
