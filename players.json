@@ -5,7 +5,7 @@
     "role": [
       "ADC"
     ],
-    "summonerLevel": 359,
+    "summonerLevel": 360,
     "profileIconId": 6883,
     "soloRank": {
       "tier": "Unranked",
@@ -31,7 +31,7 @@
       {
         "name": "Kai'Sa",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Kaisa.png",
-        "points": 86397
+        "points": 88424
       },
       {
         "name": "Jinx",
