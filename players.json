@@ -16,7 +16,7 @@
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Vayne.png",
-        "points": 1182172
+        "points": 1185140
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1182172
+      "points": 1185140
     }
   },
   {
@@ -110,7 +110,7 @@
       {
         "name": "Tahm Kench",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/TahmKench.png",
-        "points": 290007
+        "points": 290654
       },
       {
         "name": "Viego",
@@ -135,7 +135,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Tahm Kench",
-      "points": 290007
+      "points": 290654
     }
   },
   {
@@ -193,7 +193,7 @@
       "Support"
     ],
     "summonerLevel": 791,
-    "profileIconId": 6900,
+    "profileIconId": 6484,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -920,7 +920,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 436,
+    "summonerLevel": 437,
     "profileIconId": 4417,
     "soloRank": {
       "tier": "Unranked",
