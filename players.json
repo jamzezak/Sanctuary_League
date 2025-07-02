@@ -16,7 +16,7 @@
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Vayne.png",
-        "points": 1185140
+        "points": 1185840
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1185140
+      "points": 1185840
     }
   },
   {
@@ -145,7 +145,7 @@
       "Top",
       "Mid"
     ],
-    "summonerLevel": 957,
+    "summonerLevel": 958,
     "profileIconId": 4958,
     "soloRank": {
       "tier": "Unranked",
@@ -161,7 +161,7 @@
       {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Aurora.png",
-        "points": 367947
+        "points": 368727
       },
       {
         "name": "Gangplank",
