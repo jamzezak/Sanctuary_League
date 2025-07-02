@@ -208,7 +208,7 @@
       {
         "name": "Jhin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Jhin.png",
-        "points": 269658
+        "points": 270376
       },
       {
         "name": "Caitlyn",
@@ -264,7 +264,7 @@
       {
         "name": "Yasuo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Yasuo.png",
-        "points": 359785
+        "points": 360437
       },
       {
         "name": "Thresh",
@@ -701,7 +701,7 @@
       {
         "name": "Morgana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Morgana.png",
-        "points": 582371
+        "points": 583063
       },
       {
         "name": "Kai'Sa",
@@ -726,7 +726,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Morgana",
-      "points": 582371
+      "points": 583063
     }
   },
   {
@@ -995,9 +995,9 @@
         "points": 98611
       },
       {
-        "name": "Jax",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Jax.png",
-        "points": 88507
+        "name": "Ashe",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ashe.png",
+        "points": 89308
       }
     ],
     "highestMasteryChamp": {
