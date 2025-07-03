@@ -690,7 +690,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 588,
+    "summonerLevel": 589,
     "profileIconId": 6789,
     "soloRank": {
       "tier": "Unranked",
@@ -873,7 +873,7 @@
       "Jungle"
     ],
     "summonerLevel": 256,
-    "profileIconId": 6874,
+    "profileIconId": 6794,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -931,7 +931,7 @@
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Aatrox.png",
-        "points": 485154
+        "points": 486632
       },
       {
         "name": "Yasuo",
@@ -956,7 +956,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 485154
+      "points": 486632
     }
   },
   {
@@ -1220,12 +1220,12 @@
       {
         "name": "Yone",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Yone.png",
-        "points": 251590
+        "points": 252951
       },
       {
         "name": "Aphelios",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Aphelios.png",
-        "points": 151927
+        "points": 152338
       },
       {
         "name": "Senna",
@@ -1244,7 +1244,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 350,
+    "summonerLevel": 351,
     "profileIconId": 5860,
     "soloRank": {
       "tier": "Unranked",
