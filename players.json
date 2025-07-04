@@ -16,7 +16,7 @@
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Vayne.png",
-        "points": 1190073
+        "points": 1190637
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1190073
+      "points": 1190637
     }
   },
   {
@@ -264,7 +264,7 @@
       {
         "name": "Yasuo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Yasuo.png",
-        "points": 360437
+        "points": 362219
       },
       {
         "name": "Thresh",
@@ -701,7 +701,7 @@
       {
         "name": "Morgana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Morgana.png",
-        "points": 584284
+        "points": 584920
       },
       {
         "name": "Kai'Sa",
@@ -726,7 +726,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Morgana",
-      "points": 584284
+      "points": 584920
     }
   },
   {
@@ -827,7 +827,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 481,
+    "summonerLevel": 482,
     "profileIconId": 1389,
     "soloRank": {
       "tier": "Unranked",
@@ -1199,7 +1199,7 @@
       "Mid",
       "ADC"
     ],
-    "summonerLevel": 515,
+    "summonerLevel": 516,
     "profileIconId": 6860,
     "soloRank": {
       "tier": "Unranked",
@@ -1225,7 +1225,7 @@
       {
         "name": "Aphelios",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Aphelios.png",
-        "points": 152338
+        "points": 153089
       },
       {
         "name": "Senna",
