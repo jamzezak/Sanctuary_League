@@ -130,7 +130,7 @@
       {
         "name": "Veigar",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Veigar.png",
-        "points": 65131
+        "points": 66789
       }
     ],
     "highestMasteryChamp": {
@@ -701,7 +701,7 @@
       {
         "name": "Morgana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Morgana.png",
-        "points": 583063
+        "points": 584284
       },
       {
         "name": "Kai'Sa",
@@ -726,7 +726,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Morgana",
-      "points": 583063
+      "points": 584284
     }
   },
   {
@@ -782,7 +782,7 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 652,
+    "summonerLevel": 653,
     "profileIconId": 870,
     "soloRank": {
       "tier": "Unranked",
@@ -1061,7 +1061,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 925,
+    "summonerLevel": 926,
     "profileIconId": 6900,
     "soloRank": {
       "tier": "Unranked",
@@ -1230,7 +1230,7 @@
       {
         "name": "Senna",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Senna.png",
-        "points": 145008
+        "points": 145750
       }
     ],
     "highestMasteryChamp": {
