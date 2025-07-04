@@ -420,7 +420,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 870,
+    "summonerLevel": 871,
     "profileIconId": 2088,
     "soloRank": {
       "tier": "Unranked",
@@ -436,7 +436,7 @@
       {
         "name": "Yasuo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Yasuo.png",
-        "points": 379604
+        "points": 380189
       },
       {
         "name": "Lee Sin",
