@@ -851,14 +851,14 @@
         "points": 148040
       },
       {
+        "name": "Jhin",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Jhin.png",
+        "points": 124522
+      },
+      {
         "name": "Orianna",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Orianna.png",
         "points": 122751
-      },
-      {
-        "name": "Jhin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Jhin.png",
-        "points": 122376
       }
     ],
     "highestMasteryChamp": {
@@ -931,7 +931,7 @@
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Aatrox.png",
-        "points": 486632
+        "points": 488343
       },
       {
         "name": "Yasuo",
@@ -956,7 +956,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 486632
+      "points": 488343
     }
   },
   {
