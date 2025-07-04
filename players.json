@@ -192,7 +192,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 791,
+    "summonerLevel": 792,
     "profileIconId": 6484,
     "soloRank": {
       "tier": "Unranked",
@@ -238,7 +238,7 @@
       "Mid",
       "ADC"
     ],
-    "summonerLevel": 767,
+    "summonerLevel": 768,
     "profileIconId": 939,
     "soloRank": {
       "tier": "Unranked",
@@ -269,7 +269,7 @@
       {
         "name": "Thresh",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Thresh.png",
-        "points": 324244
+        "points": 325553
       }
     ],
     "highestMasteryChamp": {
@@ -441,7 +441,7 @@
       {
         "name": "Lee Sin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/LeeSin.png",
-        "points": 327626
+        "points": 328073
       },
       {
         "name": "Zed",
@@ -848,7 +848,7 @@
       {
         "name": "Ezreal",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ezreal.png",
-        "points": 147605
+        "points": 148040
       },
       {
         "name": "Orianna",
@@ -1062,7 +1062,7 @@
       "Support"
     ],
     "summonerLevel": 926,
-    "profileIconId": 6900,
+    "profileIconId": 5981,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
