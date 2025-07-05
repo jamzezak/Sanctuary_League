@@ -232,52 +232,6 @@
     }
   },
   {
-    "name": "rat poisoning",
-    "tag": "NA1",
-    "role": [
-      "Mid",
-      "ADC"
-    ],
-    "summonerLevel": 768,
-    "profileIconId": 939,
-    "soloRank": {
-      "tier": "Unranked",
-      "rank": "",
-      "leaguePoints": 0
-    },
-    "topChamps": [
-      {
-        "name": "Qiyana",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Qiyana.png",
-        "points": 859473
-      },
-      {
-        "name": "Twitch",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Twitch.png",
-        "points": 642199
-      },
-      {
-        "name": "Rengar",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Rengar.png",
-        "points": 511524
-      },
-      {
-        "name": "Yasuo",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Yasuo.png",
-        "points": 362902
-      },
-      {
-        "name": "Thresh",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Thresh.png",
-        "points": 325553
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Qiyana",
-      "points": 859473
-    }
-  },
-  {
     "name": "tom",
     "tag": "eepy",
     "role": [
