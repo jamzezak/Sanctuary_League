@@ -264,7 +264,7 @@
       {
         "name": "Yasuo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Yasuo.png",
-        "points": 362219
+        "points": 362902
       },
       {
         "name": "Thresh",
@@ -782,7 +782,7 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 653,
+    "summonerLevel": 654,
     "profileIconId": 870,
     "soloRank": {
       "tier": "Unranked",
