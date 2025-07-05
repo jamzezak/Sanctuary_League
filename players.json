@@ -145,7 +145,7 @@
       "Top",
       "Mid"
     ],
-    "summonerLevel": 958,
+    "summonerLevel": 959,
     "profileIconId": 4958,
     "soloRank": {
       "tier": "Unranked",
@@ -161,7 +161,7 @@
       {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Aurora.png",
-        "points": 368727
+        "points": 369413
       },
       {
         "name": "Gangplank",
@@ -259,7 +259,7 @@
       {
         "name": "Rengar",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Rengar.png",
-        "points": 510615
+        "points": 511524
       },
       {
         "name": "Yasuo",
@@ -1061,7 +1061,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 926,
+    "summonerLevel": 927,
     "profileIconId": 5964,
     "soloRank": {
       "tier": "Unranked",
