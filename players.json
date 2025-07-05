@@ -99,7 +99,7 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 358,
+    "summonerLevel": 359,
     "profileIconId": 5374,
     "soloRank": {
       "tier": "Unranked",
@@ -555,7 +555,7 @@
     "role": [
       "ADC"
     ],
-    "summonerLevel": 287,
+    "summonerLevel": 288,
     "profileIconId": 508,
     "soloRank": {
       "tier": "Unranked",
@@ -848,7 +848,7 @@
       {
         "name": "Ezreal",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ezreal.png",
-        "points": 148040
+        "points": 149718
       },
       {
         "name": "Jhin",
