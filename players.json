@@ -920,7 +920,7 @@
       "Top",
       "ADC"
     ],
-    "summonerLevel": 348,
+    "summonerLevel": 349,
     "profileIconId": 6500,
     "soloRank": {
       "tier": "Unranked",
@@ -951,7 +951,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ashe.png",
-        "points": 91383
+        "points": 92167
       }
     ],
     "highestMasteryChamp": {
