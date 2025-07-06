@@ -951,7 +951,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ashe.png",
-        "points": 89976
+        "points": 91383
       }
     ],
     "highestMasteryChamp": {
@@ -1015,7 +1015,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 927,
+    "summonerLevel": 928,
     "profileIconId": 5962,
     "soloRank": {
       "tier": "Unranked",
