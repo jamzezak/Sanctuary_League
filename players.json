@@ -99,7 +99,7 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 359,
+    "summonerLevel": 360,
     "profileIconId": 5374,
     "soloRank": {
       "tier": "Unranked",
@@ -818,51 +818,6 @@
     "highestMasteryChamp": {
       "name": "LeBlanc",
       "points": 174998
-    }
-  },
-  {
-    "name": "禿げ頭で強い",
-    "tag": "1337",
-    "role": [
-      "Jungle"
-    ],
-    "summonerLevel": 257,
-    "profileIconId": 6298,
-    "soloRank": {
-      "tier": "Unranked",
-      "rank": "",
-      "leaguePoints": 0
-    },
-    "topChamps": [
-      {
-        "name": "Kindred",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Kindred.png",
-        "points": 106015
-      },
-      {
-        "name": "Amumu",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Amumu.png",
-        "points": 101775
-      },
-      {
-        "name": "Lee Sin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/LeeSin.png",
-        "points": 97656
-      },
-      {
-        "name": "Hecarim",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Hecarim.png",
-        "points": 80073
-      },
-      {
-        "name": "Trundle",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Trundle.png",
-        "points": 78509
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Kindred",
-      "points": 106015
     }
   },
   {
