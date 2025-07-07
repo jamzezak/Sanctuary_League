@@ -899,14 +899,14 @@
         "points": 108693
       },
       {
+        "name": "Ashe",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ashe.png",
+        "points": 98618
+      },
+      {
         "name": "Tristana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Tristana.png",
         "points": 98611
-      },
-      {
-        "name": "Ashe",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ashe.png",
-        "points": 97709
       }
     ],
     "highestMasteryChamp": {
