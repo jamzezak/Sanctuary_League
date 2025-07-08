@@ -599,7 +599,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 38,
+    "summonerLevel": 39,
     "profileIconId": 6850,
     "soloRank": {
       "tier": "Unranked",
@@ -618,14 +618,14 @@
         "points": 11362
       },
       {
+        "name": "Xin Zhao",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/XinZhao.png",
+        "points": 8447
+      },
+      {
         "name": "Caitlyn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Caitlyn.png",
         "points": 7895
-      },
-      {
-        "name": "Xin Zhao",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/XinZhao.png",
-        "points": 6719
       },
       {
         "name": "Jhin",
@@ -894,14 +894,14 @@
         "points": 121158
       },
       {
+        "name": "Ashe",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ashe.png",
+        "points": 109425
+      },
+      {
         "name": "Twisted Fate",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/TwistedFate.png",
         "points": 108693
-      },
-      {
-        "name": "Ashe",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ashe.png",
-        "points": 108649
       },
       {
         "name": "Tristana",
