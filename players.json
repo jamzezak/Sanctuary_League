@@ -743,8 +743,37 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [],
-    "highestMasteryChamp": null
+    "topChamps": [
+      {
+        "name": "Jayce",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Jayce.png",
+        "points": 238276
+      },
+      {
+        "name": "Graves",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Graves.png",
+        "points": 218079
+      },
+      {
+        "name": "Lee Sin",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/LeeSin.png",
+        "points": 210649
+      },
+      {
+        "name": "Nunu & Willump",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Nunu.png",
+        "points": 173632
+      },
+      {
+        "name": "Jhin",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Jhin.png",
+        "points": 154200
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Jayce",
+      "points": 238276
+    }
   },
   {
     "name": "thatloosecannon",
@@ -1086,8 +1115,37 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [],
-    "highestMasteryChamp": null
+    "topChamps": [
+      {
+        "name": "Miss Fortune",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/MissFortune.png",
+        "points": 601012
+      },
+      {
+        "name": "Ashe",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ashe.png",
+        "points": 282563
+      },
+      {
+        "name": "Yone",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Yone.png",
+        "points": 252951
+      },
+      {
+        "name": "Aphelios",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Aphelios.png",
+        "points": 153089
+      },
+      {
+        "name": "Senna",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Senna.png",
+        "points": 145750
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Miss Fortune",
+      "points": 601012
+    }
   },
   {
     "name": "HappiestHellion",
