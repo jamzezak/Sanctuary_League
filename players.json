@@ -161,7 +161,7 @@
       {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Aurora.png",
-        "points": 369413
+        "points": 370072
       },
       {
         "name": "Gangplank",
@@ -171,7 +171,7 @@
       {
         "name": "Darius",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Darius.png",
-        "points": 194128
+        "points": 194771
       },
       {
         "name": "Pantheon",
@@ -743,37 +743,8 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [
-      {
-        "name": "Jayce",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Jayce.png",
-        "points": 238276
-      },
-      {
-        "name": "Graves",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Graves.png",
-        "points": 218079
-      },
-      {
-        "name": "Lee Sin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/LeeSin.png",
-        "points": 210649
-      },
-      {
-        "name": "Nunu & Willump",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Nunu.png",
-        "points": 173632
-      },
-      {
-        "name": "Jhin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Jhin.png",
-        "points": 154200
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Jayce",
-      "points": 238276
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   },
   {
     "name": "thatloosecannon",
@@ -1115,37 +1086,8 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [
-      {
-        "name": "Miss Fortune",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/MissFortune.png",
-        "points": 601012
-      },
-      {
-        "name": "Ashe",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ashe.png",
-        "points": 282563
-      },
-      {
-        "name": "Yone",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Yone.png",
-        "points": 252951
-      },
-      {
-        "name": "Aphelios",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Aphelios.png",
-        "points": 153089
-      },
-      {
-        "name": "Senna",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Senna.png",
-        "points": 145750
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Miss Fortune",
-      "points": 601012
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   },
   {
     "name": "HappiestHellion",
