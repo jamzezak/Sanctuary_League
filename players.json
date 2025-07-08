@@ -875,7 +875,7 @@
       "Top",
       "ADC"
     ],
-    "summonerLevel": 349,
+    "summonerLevel": 350,
     "profileIconId": 6500,
     "soloRank": {
       "tier": "Unranked",
@@ -901,7 +901,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ashe.png",
-        "points": 101359
+        "points": 103865
       },
       {
         "name": "Tristana",
