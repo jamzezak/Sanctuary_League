@@ -239,7 +239,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 453,
+    "summonerLevel": 454,
     "profileIconId": 6027,
     "soloRank": {
       "tier": "Unranked",
@@ -797,7 +797,7 @@
       {
         "name": "Sylas",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Sylas.png",
-        "points": 174766
+        "points": 175530
       },
       {
         "name": "Ezreal",
@@ -901,7 +901,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ashe.png",
-        "points": 105540
+        "points": 108649
       },
       {
         "name": "Tristana",
