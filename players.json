@@ -840,7 +840,7 @@
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Aatrox.png",
-        "points": 488738
+        "points": 490091
       },
       {
         "name": "Yasuo",
@@ -865,7 +865,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 488738
+      "points": 490091
     }
   },
   {
@@ -901,7 +901,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ashe.png",
-        "points": 99789
+        "points": 101359
       },
       {
         "name": "Tristana",
