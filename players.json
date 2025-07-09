@@ -684,51 +684,6 @@
     }
   },
   {
-    "name": "Paul Meilleur",
-    "tag": "taric",
-    "role": [
-      "Support"
-    ],
-    "summonerLevel": 500,
-    "profileIconId": 6871,
-    "soloRank": {
-      "tier": "Unranked",
-      "rank": "",
-      "leaguePoints": 0
-    },
-    "topChamps": [
-      {
-        "name": "Taric",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Taric.png",
-        "points": 246108
-      },
-      {
-        "name": "Yuumi",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Yuumi.png",
-        "points": 205365
-      },
-      {
-        "name": "Bard",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Bard.png",
-        "points": 82755
-      },
-      {
-        "name": "Lulu",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Lulu.png",
-        "points": 71983
-      },
-      {
-        "name": "Nautilus",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Nautilus.png",
-        "points": 66543
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Taric",
-      "points": 246108
-    }
-  },
-  {
     "name": "Troublelift",
     "tag": "jayce",
     "role": [
@@ -875,7 +830,7 @@
       "Top",
       "ADC"
     ],
-    "summonerLevel": 350,
+    "summonerLevel": 351,
     "profileIconId": 6500,
     "soloRank": {
       "tier": "Unranked",
