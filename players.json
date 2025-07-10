@@ -239,7 +239,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 455,
+    "summonerLevel": 456,
     "profileIconId": 6631,
     "soloRank": {
       "tier": "Unranked",
@@ -1033,7 +1033,7 @@
       {
         "name": "Hwei",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Hwei.png",
-        "points": 135225
+        "points": 136808
       },
       {
         "name": "Sylas",
