@@ -405,7 +405,7 @@
       {
         "name": "Graves",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Graves.png",
-        "points": 292653
+        "points": 293259
       }
     ],
     "highestMasteryChamp": {
@@ -745,14 +745,14 @@
     },
     "topChamps": [
       {
+        "name": "Sylas",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Sylas.png",
+        "points": 176924
+      },
+      {
         "name": "LeBlanc",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Leblanc.png",
         "points": 176283
-      },
-      {
-        "name": "Sylas",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Sylas.png",
-        "points": 175530
       },
       {
         "name": "Ezreal",
@@ -771,8 +771,8 @@
       }
     ],
     "highestMasteryChamp": {
-      "name": "LeBlanc",
-      "points": 176283
+      "name": "Sylas",
+      "points": 176924
     }
   },
   {
@@ -851,7 +851,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ashe.png",
-        "points": 112165
+        "points": 112830
       },
       {
         "name": "Twisted Fate",
