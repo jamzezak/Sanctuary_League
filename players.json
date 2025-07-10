@@ -239,7 +239,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 454,
+    "summonerLevel": 455,
     "profileIconId": 6631,
     "soloRank": {
       "tier": "Unranked",
@@ -253,14 +253,14 @@
         "points": 143158
       },
       {
+        "name": "Ezreal",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ezreal.png",
+        "points": 142495
+      },
+      {
         "name": "Lee Sin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/LeeSin.png",
         "points": 141427
-      },
-      {
-        "name": "Ezreal",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ezreal.png",
-        "points": 140797
       },
       {
         "name": "Draven",
