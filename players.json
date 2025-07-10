@@ -610,7 +610,7 @@
       {
         "name": "Viego",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Viego.png",
-        "points": 17436
+        "points": 19659
       },
       {
         "name": "Kayn",
@@ -628,14 +628,14 @@
         "points": 7895
       },
       {
-        "name": "Jhin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Jhin.png",
-        "points": 4918
+        "name": "Jarvan IV",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/JarvanIV.png",
+        "points": 5565
       }
     ],
     "highestMasteryChamp": {
       "name": "Viego",
-      "points": 17436
+      "points": 19659
     }
   },
   {
