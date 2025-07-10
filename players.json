@@ -395,7 +395,7 @@
       {
         "name": "Lee Sin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/LeeSin.png",
-        "points": 333250
+        "points": 334683
       },
       {
         "name": "Zed",
@@ -615,7 +615,7 @@
       {
         "name": "Kayn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Kayn.png",
-        "points": 11362
+        "points": 12501
       },
       {
         "name": "Xin Zhao",
@@ -851,7 +851,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ashe.png",
-        "points": 112830
+        "points": 114783
       },
       {
         "name": "Twisted Fate",
@@ -1048,7 +1048,7 @@
       {
         "name": "Corki",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Corki.png",
-        "points": 55488
+        "points": 57308
       }
     ],
     "highestMasteryChamp": {
