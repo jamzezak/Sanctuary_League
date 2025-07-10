@@ -599,7 +599,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 39,
+    "summonerLevel": 40,
     "profileIconId": 6850,
     "soloRank": {
       "tier": "Unranked",
@@ -851,7 +851,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ashe.png",
-        "points": 111495
+        "points": 112165
       },
       {
         "name": "Twisted Fate",
