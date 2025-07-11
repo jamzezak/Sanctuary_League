@@ -540,7 +540,7 @@
       {
         "name": "Lucian",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Lucian.png",
-        "points": 90793
+        "points": 92406
       }
     ],
     "highestMasteryChamp": {
@@ -570,12 +570,12 @@
       {
         "name": "Viktor",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Viktor.png",
-        "points": 110383
+        "points": 112142
       },
       {
         "name": "Sylas",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Sylas.png",
-        "points": 102137
+        "points": 103715
       },
       {
         "name": "Malzahar",
@@ -747,7 +747,7 @@
       {
         "name": "Sylas",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Sylas.png",
-        "points": 176924
+        "points": 178023
       },
       {
         "name": "LeBlanc",
@@ -772,7 +772,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Sylas",
-      "points": 176924
+      "points": 178023
     }
   },
   {
@@ -851,7 +851,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ashe.png",
-        "points": 116763
+        "points": 118338
       },
       {
         "name": "Twisted Fate",
@@ -1108,7 +1108,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 351,
+    "summonerLevel": 352,
     "profileIconId": 5860,
     "soloRank": {
       "tier": "Unranked",
@@ -1119,7 +1119,7 @@
       {
         "name": "Nami",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Nami.png",
-        "points": 113374
+        "points": 115083
       },
       {
         "name": "Lux",
@@ -1144,7 +1144,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Nami",
-      "points": 113374
+      "points": 115083
     }
   }
 ]
