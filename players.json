@@ -691,7 +691,7 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 658,
+    "summonerLevel": 659,
     "profileIconId": 870,
     "soloRank": {
       "tier": "Unranked",
@@ -702,7 +702,7 @@
       {
         "name": "Jayce",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Jayce.png",
-        "points": 238276
+        "points": 238903
       },
       {
         "name": "Graves",
@@ -727,7 +727,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Jayce",
-      "points": 238276
+      "points": 238903
     }
   },
   {
@@ -1108,7 +1108,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 352,
+    "summonerLevel": 353,
     "profileIconId": 5860,
     "soloRank": {
       "tier": "Unranked",
@@ -1124,7 +1124,7 @@
       {
         "name": "Lux",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Lux.png",
-        "points": 113022
+        "points": 114900
       },
       {
         "name": "Senna",
