@@ -520,7 +520,7 @@
       {
         "name": "Jinx",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Jinx.png",
-        "points": 167196
+        "points": 168410
       },
       {
         "name": "Miss Fortune",
@@ -545,7 +545,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Jinx",
-      "points": 167196
+      "points": 168410
     }
   },
   {
@@ -620,7 +620,7 @@
       {
         "name": "Xin Zhao",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/XinZhao.png",
-        "points": 8447
+        "points": 9773
       },
       {
         "name": "Caitlyn",
@@ -691,7 +691,7 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 657,
+    "summonerLevel": 658,
     "profileIconId": 870,
     "soloRank": {
       "tier": "Unranked",
@@ -830,7 +830,7 @@
       "Top",
       "ADC"
     ],
-    "summonerLevel": 351,
+    "summonerLevel": 352,
     "profileIconId": 6500,
     "soloRank": {
       "tier": "Unranked",
@@ -851,7 +851,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ashe.png",
-        "points": 114783
+        "points": 116763
       },
       {
         "name": "Twisted Fate",
@@ -1017,7 +1017,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 314,
+    "summonerLevel": 315,
     "profileIconId": 6378,
     "soloRank": {
       "tier": "Unranked",
