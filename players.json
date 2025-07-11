@@ -644,7 +644,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 591,
+    "summonerLevel": 592,
     "profileIconId": 6789,
     "soloRank": {
       "tier": "Unranked",
@@ -670,7 +670,7 @@
       {
         "name": "Nautilus",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Nautilus.png",
-        "points": 139722
+        "points": 141182
       },
       {
         "name": "Teemo",
