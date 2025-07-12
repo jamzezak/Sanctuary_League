@@ -16,7 +16,7 @@
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Vayne.png",
-        "points": 1190637
+        "points": 1191179
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1190637
+      "points": 1191179
     }
   },
   {
@@ -844,14 +844,14 @@
         "points": 216442
       },
       {
+        "name": "Ashe",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ashe.png",
+        "points": 122766
+      },
+      {
         "name": "Irelia",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Irelia.png",
         "points": 121158
-      },
-      {
-        "name": "Ashe",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ashe.png",
-        "points": 120606
       },
       {
         "name": "Twisted Fate",
