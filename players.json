@@ -239,7 +239,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 457,
+    "summonerLevel": 458,
     "profileIconId": 6631,
     "soloRank": {
       "tier": "Unranked",
@@ -795,7 +795,7 @@
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Aatrox.png",
-        "points": 490091
+        "points": 491035
       },
       {
         "name": "Yasuo",
@@ -820,7 +820,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 490091
+      "points": 491035
     }
   },
   {
@@ -1119,7 +1119,7 @@
       {
         "name": "Nami",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Nami.png",
-        "points": 115083
+        "points": 117126
       },
       {
         "name": "Lux",
@@ -1144,7 +1144,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Nami",
-      "points": 115083
+      "points": 117126
     }
   }
 ]
