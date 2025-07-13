@@ -530,7 +530,7 @@
       {
         "name": "Caitlyn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Caitlyn.png",
-        "points": 142270
+        "points": 144062
       },
       {
         "name": "Ashe",
@@ -554,7 +554,7 @@
     "role": [
       "Top"
     ],
-    "summonerLevel": 243,
+    "summonerLevel": 244,
     "profileIconId": 5408,
     "soloRank": {
       "tier": "Unranked",
@@ -570,7 +570,7 @@
       {
         "name": "Viktor",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Viktor.png",
-        "points": 112720
+        "points": 114370
       },
       {
         "name": "Sylas",
@@ -1108,7 +1108,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 353,
+    "summonerLevel": 354,
     "profileIconId": 5860,
     "soloRank": {
       "tier": "Unranked",
