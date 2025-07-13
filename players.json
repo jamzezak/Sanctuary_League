@@ -419,7 +419,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 580,
+    "summonerLevel": 581,
     "profileIconId": 6434,
     "soloRank": {
       "tier": "Unranked",
@@ -509,7 +509,7 @@
     "role": [
       "ADC"
     ],
-    "summonerLevel": 288,
+    "summonerLevel": 289,
     "profileIconId": 508,
     "soloRank": {
       "tier": "Unranked",
@@ -525,7 +525,7 @@
       {
         "name": "Miss Fortune",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/MissFortune.png",
-        "points": 153715
+        "points": 155739
       },
       {
         "name": "Caitlyn",
@@ -1119,7 +1119,7 @@
       {
         "name": "Nami",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Nami.png",
-        "points": 117126
+        "points": 118259
       },
       {
         "name": "Lux",
@@ -1144,7 +1144,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Nami",
-      "points": 117126
+      "points": 118259
     }
   }
 ]
