@@ -16,7 +16,7 @@
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Vayne.png",
-        "points": 1194740
+        "points": 1195643
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1194740
+      "points": 1195643
     }
   },
   {
@@ -385,7 +385,7 @@
       {
         "name": "Kayn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Kayn.png",
-        "points": 647884
+        "points": 648549
       },
       {
         "name": "Yasuo",
@@ -410,7 +410,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Kayn",
-      "points": 647884
+      "points": 648549
     }
   },
   {
@@ -615,7 +615,7 @@
       {
         "name": "Kayn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Kayn.png",
-        "points": 12501
+        "points": 14162
       },
       {
         "name": "Xin Zhao",
@@ -846,7 +846,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ashe.png",
-        "points": 139934
+        "points": 141287
       },
       {
         "name": "Irelia",
