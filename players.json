@@ -385,7 +385,7 @@
       {
         "name": "Kayn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Kayn.png",
-        "points": 648549
+        "points": 650004
       },
       {
         "name": "Yasuo",
@@ -395,7 +395,7 @@
       {
         "name": "Lee Sin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/LeeSin.png",
-        "points": 341971
+        "points": 342946
       },
       {
         "name": "Zed",
@@ -410,7 +410,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Kayn",
-      "points": 648549
+      "points": 650004
     }
   },
   {
@@ -610,7 +610,7 @@
       {
         "name": "Viego",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Viego.png",
-        "points": 19659
+        "points": 20327
       },
       {
         "name": "Kayn",
@@ -635,7 +635,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Viego",
-      "points": 19659
+      "points": 20327
     }
   },
   {
@@ -830,7 +830,7 @@
       "Top",
       "ADC"
     ],
-    "summonerLevel": 354,
+    "summonerLevel": 355,
     "profileIconId": 6500,
     "soloRank": {
       "tier": "Unranked",
@@ -846,7 +846,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ashe.png",
-        "points": 141287
+        "points": 144235
       },
       {
         "name": "Irelia",
