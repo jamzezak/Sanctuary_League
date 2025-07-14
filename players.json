@@ -5,7 +5,7 @@
     "role": [
       "ADC"
     ],
-    "summonerLevel": 362,
+    "summonerLevel": 363,
     "profileIconId": 6883,
     "soloRank": {
       "tier": "Unranked",
@@ -31,7 +31,7 @@
       {
         "name": "Kai'Sa",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Kaisa.png",
-        "points": 94348
+        "points": 95987
       },
       {
         "name": "Jinx",
@@ -395,7 +395,7 @@
       {
         "name": "Lee Sin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/LeeSin.png",
-        "points": 342946
+        "points": 343925
       },
       {
         "name": "Zed",
@@ -599,7 +599,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 40,
+    "summonerLevel": 41,
     "profileIconId": 6850,
     "soloRank": {
       "tier": "Unranked",
@@ -757,7 +757,7 @@
       {
         "name": "Ezreal",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ezreal.png",
-        "points": 150460
+        "points": 151428
       },
       {
         "name": "Jhin",
