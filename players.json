@@ -374,7 +374,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 873,
+    "summonerLevel": 874,
     "profileIconId": 2088,
     "soloRank": {
       "tier": "Unranked",
@@ -628,9 +628,9 @@
         "points": 7895
       },
       {
-        "name": "Jarvan IV",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/JarvanIV.png",
-        "points": 5565
+        "name": "Vi",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Vi.png",
+        "points": 6214
       }
     ],
     "highestMasteryChamp": {
@@ -926,7 +926,7 @@
       "Support"
     ],
     "summonerLevel": 930,
-    "profileIconId": 4020,
+    "profileIconId": 6865,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
