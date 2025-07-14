@@ -16,7 +16,7 @@
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Vayne.png",
-        "points": 1195643
+        "points": 1196515
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1195643
+      "points": 1196515
     }
   },
   {
@@ -846,7 +846,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Ashe.png",
-        "points": 149087
+        "points": 150784
       },
       {
         "name": "Irelia",
