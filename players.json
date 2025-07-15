@@ -192,7 +192,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 792,
+    "summonerLevel": 793,
     "profileIconId": 6484,
     "soloRank": {
       "tier": "Unranked",
@@ -520,7 +520,7 @@
       {
         "name": "Jinx",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Jinx.png",
-        "points": 168410
+        "points": 170262
       },
       {
         "name": "Miss Fortune",
@@ -545,7 +545,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Jinx",
-      "points": 168410
+      "points": 170262
     }
   },
   {
@@ -565,7 +565,7 @@
       {
         "name": "Vladimir",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Vladimir.png",
-        "points": 264657
+        "points": 266388
       },
       {
         "name": "Viktor",
@@ -590,7 +590,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vladimir",
-      "points": 264657
+      "points": 266388
     }
   },
   {
@@ -620,7 +620,7 @@
       {
         "name": "Xin Zhao",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/XinZhao.png",
-        "points": 9773
+        "points": 11180
       },
       {
         "name": "Caitlyn",
@@ -926,7 +926,7 @@
       "Support"
     ],
     "summonerLevel": 930,
-    "profileIconId": 3862,
+    "profileIconId": 5959,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
