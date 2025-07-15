@@ -239,7 +239,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 459,
+    "summonerLevel": 460,
     "profileIconId": 1636,
     "soloRank": {
       "tier": "Unranked",
@@ -540,7 +540,7 @@
       {
         "name": "Lucian",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Lucian.png",
-        "points": 92406
+        "points": 93124
       }
     ],
     "highestMasteryChamp": {
@@ -570,7 +570,7 @@
       {
         "name": "Viktor",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Viktor.png",
-        "points": 114370
+        "points": 115062
       },
       {
         "name": "Sylas",
@@ -628,9 +628,9 @@
         "points": 7895
       },
       {
-        "name": "Vi",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/Vi.png",
-        "points": 6214
+        "name": "Jarvan IV",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.13.1/img/champion/JarvanIV.png",
+        "points": 7501
       }
     ],
     "highestMasteryChamp": {
@@ -926,7 +926,7 @@
       "Support"
     ],
     "summonerLevel": 930,
-    "profileIconId": 6865,
+    "profileIconId": 3862,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
