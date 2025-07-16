@@ -5,7 +5,7 @@
     "role": [
       "ADC"
     ],
-    "summonerLevel": 363,
+    "summonerLevel": 364,
     "profileIconId": 6883,
     "soloRank": {
       "tier": "Unranked",
@@ -16,7 +16,7 @@
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Vayne.png",
-        "points": 1197134
+        "points": 1200029
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1197134
+      "points": 1200029
     }
   },
   {
@@ -161,7 +161,7 @@
       {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Aurora.png",
-        "points": 372365
+        "points": 373482
       },
       {
         "name": "Gangplank",
@@ -580,7 +580,7 @@
       {
         "name": "Malzahar",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Malzahar.png",
-        "points": 83265
+        "points": 84736
       },
       {
         "name": "Garen",
@@ -644,7 +644,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 593,
+    "summonerLevel": 594,
     "profileIconId": 6789,
     "soloRank": {
       "tier": "Unranked",
