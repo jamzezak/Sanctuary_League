@@ -208,7 +208,7 @@
       {
         "name": "Jhin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Jhin.png",
-        "points": 270376
+        "points": 271602
       },
       {
         "name": "Caitlyn",
@@ -784,8 +784,8 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 438,
-    "profileIconId": 5493,
+    "summonerLevel": 439,
+    "profileIconId": 6380,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
