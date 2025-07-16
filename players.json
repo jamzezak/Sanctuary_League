@@ -21,7 +21,7 @@
       {
         "name": "Twitch",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Twitch.png",
-        "points": 246027
+        "points": 248057
       },
       {
         "name": "Varus",
@@ -145,7 +145,7 @@
       "Top",
       "Mid"
     ],
-    "summonerLevel": 961,
+    "summonerLevel": 962,
     "profileIconId": 4958,
     "soloRank": {
       "tier": "Unranked",
@@ -156,7 +156,7 @@
       {
         "name": "Sett",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Sett.png",
-        "points": 374419
+        "points": 376289
       },
       {
         "name": "Aurora",
@@ -181,7 +181,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Sett",
-      "points": 374419
+      "points": 376289
     }
   },
   {
@@ -580,7 +580,7 @@
       {
         "name": "Malzahar",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Malzahar.png",
-        "points": 84736
+        "points": 86466
       },
       {
         "name": "Garen",
@@ -736,7 +736,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 486,
+    "summonerLevel": 487,
     "profileIconId": 1389,
     "soloRank": {
       "tier": "Unranked",
