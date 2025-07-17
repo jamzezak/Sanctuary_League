@@ -620,7 +620,7 @@
       {
         "name": "Xin Zhao",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/XinZhao.png",
-        "points": 11180
+        "points": 12137
       },
       {
         "name": "Caitlyn",
@@ -691,7 +691,7 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 659,
+    "summonerLevel": 660,
     "profileIconId": 870,
     "soloRank": {
       "tier": "Unranked",
