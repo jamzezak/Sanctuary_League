@@ -1017,7 +1017,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 316,
+    "summonerLevel": 317,
     "profileIconId": 6378,
     "soloRank": {
       "tier": "Unranked",
@@ -1038,7 +1038,7 @@
       {
         "name": "Sylas",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Sylas.png",
-        "points": 108448
+        "points": 110122
       },
       {
         "name": "Ahri",
