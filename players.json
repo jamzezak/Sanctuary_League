@@ -145,7 +145,7 @@
       "Top",
       "Mid"
     ],
-    "summonerLevel": 962,
+    "summonerLevel": 963,
     "profileIconId": 4958,
     "soloRank": {
       "tier": "Unranked",
@@ -156,7 +156,7 @@
       {
         "name": "Sett",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Sett.png",
-        "points": 376289
+        "points": 377710
       },
       {
         "name": "Aurora",
@@ -181,7 +181,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Sett",
-      "points": 376289
+      "points": 377710
     }
   },
   {
@@ -972,7 +972,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 526,
+    "summonerLevel": 527,
     "profileIconId": 718,
     "soloRank": {
       "tier": "Unranked",
