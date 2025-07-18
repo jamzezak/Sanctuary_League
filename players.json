@@ -692,7 +692,7 @@
       "Support"
     ],
     "summonerLevel": 662,
-    "profileIconId": 870,
+    "profileIconId": 6693,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -841,7 +841,7 @@
       {
         "name": "Gnar",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Gnar.png",
-        "points": 216442
+        "points": 217075
       },
       {
         "name": "Ashe",
@@ -866,7 +866,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Gnar",
-      "points": 216442
+      "points": 217075
     }
   },
   {
