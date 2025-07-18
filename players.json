@@ -702,7 +702,7 @@
       {
         "name": "Jayce",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Jayce.png",
-        "points": 239886
+        "points": 240620
       },
       {
         "name": "Graves",
@@ -727,7 +727,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Jayce",
-      "points": 239886
+      "points": 240620
     }
   },
   {
@@ -876,7 +876,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 907,
+    "summonerLevel": 908,
     "profileIconId": 6871,
     "soloRank": {
       "tier": "Unranked",
