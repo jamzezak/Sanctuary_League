@@ -464,7 +464,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 705,
+    "summonerLevel": 706,
     "profileIconId": 6224,
     "soloRank": {
       "tier": "Unranked",
@@ -691,7 +691,7 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 661,
+    "summonerLevel": 662,
     "profileIconId": 870,
     "soloRank": {
       "tier": "Unranked",
@@ -926,7 +926,7 @@
       "Support"
     ],
     "summonerLevel": 933,
-    "profileIconId": 6060,
+    "profileIconId": 1012,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -1108,7 +1108,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 355,
+    "summonerLevel": 356,
     "profileIconId": 5860,
     "soloRank": {
       "tier": "Unranked",
@@ -1124,7 +1124,7 @@
       {
         "name": "Lux",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Lux.png",
-        "points": 114900
+        "points": 116240
       },
       {
         "name": "Senna",
