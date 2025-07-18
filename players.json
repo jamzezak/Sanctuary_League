@@ -702,7 +702,7 @@
       {
         "name": "Jayce",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Jayce.png",
-        "points": 240620
+        "points": 241522
       },
       {
         "name": "Graves",
@@ -727,7 +727,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Jayce",
-      "points": 240620
+      "points": 241522
     }
   },
   {
@@ -892,7 +892,7 @@
       {
         "name": "Rakan",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Rakan.png",
-        "points": 420047
+        "points": 421561
       },
       {
         "name": "Alistar",
