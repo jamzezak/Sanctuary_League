@@ -31,7 +31,7 @@
       {
         "name": "Kai'Sa",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Kaisa.png",
-        "points": 97582
+        "points": 99475
       },
       {
         "name": "Jinx",
@@ -663,14 +663,14 @@
         "points": 162742
       },
       {
+        "name": "Nautilus",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Nautilus.png",
+        "points": 142722
+      },
+      {
         "name": "Brand",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Brand.png",
         "points": 142719
-      },
-      {
-        "name": "Nautilus",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Nautilus.png",
-        "points": 142159
       },
       {
         "name": "Teemo",
@@ -702,7 +702,7 @@
       {
         "name": "Jayce",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Jayce.png",
-        "points": 238903
+        "points": 239886
       },
       {
         "name": "Graves",
@@ -727,7 +727,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Jayce",
-      "points": 238903
+      "points": 239886
     }
   },
   {
