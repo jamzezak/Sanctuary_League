@@ -21,7 +21,7 @@
       {
         "name": "Twitch",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Twitch.png",
-        "points": 249104
+        "points": 250912
       },
       {
         "name": "Varus",
@@ -926,7 +926,7 @@
       "Support"
     ],
     "summonerLevel": 932,
-    "profileIconId": 6238,
+    "profileIconId": 4829,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
