@@ -16,7 +16,7 @@
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Vayne.png",
-        "points": 1203343
+        "points": 1205408
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1203343
+      "points": 1205408
     }
   },
   {
@@ -208,7 +208,7 @@
       {
         "name": "Jhin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Jhin.png",
-        "points": 271602
+        "points": 272268
       },
       {
         "name": "Caitlyn",
@@ -239,7 +239,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 461,
+    "summonerLevel": 462,
     "profileIconId": 1636,
     "soloRank": {
       "tier": "Unranked",
@@ -253,14 +253,14 @@
         "points": 146245
       },
       {
+        "name": "Lee Sin",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/LeeSin.png",
+        "points": 143098
+      },
+      {
         "name": "Ezreal",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Ezreal.png",
         "points": 142495
-      },
-      {
-        "name": "Lee Sin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/LeeSin.png",
-        "points": 141427
       },
       {
         "name": "Draven",
@@ -509,7 +509,7 @@
     "role": [
       "ADC"
     ],
-    "summonerLevel": 289,
+    "summonerLevel": 290,
     "profileIconId": 508,
     "soloRank": {
       "tier": "Unranked",
@@ -925,8 +925,8 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 932,
-    "profileIconId": 4829,
+    "summonerLevel": 933,
+    "profileIconId": 6060,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -1134,7 +1134,7 @@
       {
         "name": "Leona",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Leona.png",
-        "points": 81156
+        "points": 82994
       },
       {
         "name": "Brand",
