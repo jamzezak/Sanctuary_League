@@ -5,8 +5,8 @@
     "role": [
       "ADC"
     ],
-    "summonerLevel": 365,
-    "profileIconId": 5675,
+    "summonerLevel": 366,
+    "profileIconId": 6883,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -31,7 +31,7 @@
       {
         "name": "Kai'Sa",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Kaisa.png",
-        "points": 99475
+        "points": 99913
       },
       {
         "name": "Jinx",
@@ -100,7 +100,7 @@
       "Support"
     ],
     "summonerLevel": 362,
-    "profileIconId": 5675,
+    "profileIconId": 5374,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -375,7 +375,7 @@
       "Jungle"
     ],
     "summonerLevel": 875,
-    "profileIconId": 6680,
+    "profileIconId": 2088,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
