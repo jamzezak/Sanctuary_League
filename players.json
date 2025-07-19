@@ -176,7 +176,7 @@
       {
         "name": "Pantheon",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Pantheon.png",
-        "points": 186860
+        "points": 187982
       }
     ],
     "highestMasteryChamp": {
@@ -644,7 +644,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 594,
+    "summonerLevel": 595,
     "profileIconId": 6789,
     "soloRank": {
       "tier": "Unranked",
