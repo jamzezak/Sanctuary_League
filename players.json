@@ -31,7 +31,7 @@
       {
         "name": "Kai'Sa",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Kaisa.png",
-        "points": 99913
+        "points": 100647
       },
       {
         "name": "Jinx",
@@ -926,7 +926,7 @@
       "Support"
     ],
     "summonerLevel": 933,
-    "profileIconId": 6680,
+    "profileIconId": 5963,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
