@@ -16,7 +16,7 @@
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Vayne.png",
-        "points": 1207805
+        "points": 1211739
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1207805
+      "points": 1211739
     }
   },
   {
@@ -239,7 +239,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 462,
+    "summonerLevel": 463,
     "profileIconId": 1636,
     "soloRank": {
       "tier": "Unranked",
@@ -936,7 +936,7 @@
       {
         "name": "Soraka",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Soraka.png",
-        "points": 867945
+        "points": 869330
       },
       {
         "name": "Shen",
@@ -961,7 +961,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Soraka",
-      "points": 867945
+      "points": 869330
     }
   },
   {
