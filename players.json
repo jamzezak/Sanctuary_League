@@ -784,8 +784,8 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 439,
-    "profileIconId": 6906,
+    "summonerLevel": 440,
+    "profileIconId": 4663,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -795,7 +795,7 @@
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Aatrox.png",
-        "points": 491035
+        "points": 492686
       },
       {
         "name": "Yasuo",
@@ -820,7 +820,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 491035
+      "points": 492686
     }
   },
   {
@@ -1108,7 +1108,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 356,
+    "summonerLevel": 357,
     "profileIconId": 5675,
     "soloRank": {
       "tier": "Unranked",
