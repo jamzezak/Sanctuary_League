@@ -5,7 +5,7 @@
     "role": [
       "ADC"
     ],
-    "summonerLevel": 366,
+    "summonerLevel": 367,
     "profileIconId": 6883,
     "soloRank": {
       "tier": "Unranked",
@@ -16,7 +16,7 @@
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Vayne.png",
-        "points": 1213226
+        "points": 1215109
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1213226
+      "points": 1215109
     }
   },
   {
@@ -702,7 +702,7 @@
       {
         "name": "Jayce",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Jayce.png",
-        "points": 241522
+        "points": 243056
       },
       {
         "name": "Graves",
@@ -727,7 +727,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Jayce",
-      "points": 241522
+      "points": 243056
     }
   },
   {
