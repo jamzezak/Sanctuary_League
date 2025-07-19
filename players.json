@@ -6,7 +6,7 @@
       "ADC"
     ],
     "summonerLevel": 365,
-    "profileIconId": 6883,
+    "profileIconId": 5675,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -16,7 +16,7 @@
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Vayne.png",
-        "points": 1205408
+        "points": 1206903
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1205408
+      "points": 1206903
     }
   },
   {
@@ -100,7 +100,7 @@
       "Support"
     ],
     "summonerLevel": 362,
-    "profileIconId": 5374,
+    "profileIconId": 5675,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -146,7 +146,7 @@
       "Mid"
     ],
     "summonerLevel": 963,
-    "profileIconId": 4958,
+    "profileIconId": 5675,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -193,7 +193,7 @@
       "Support"
     ],
     "summonerLevel": 793,
-    "profileIconId": 6484,
+    "profileIconId": 6680,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -240,7 +240,7 @@
       "Support"
     ],
     "summonerLevel": 462,
-    "profileIconId": 1636,
+    "profileIconId": 5675,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -375,7 +375,7 @@
       "Jungle"
     ],
     "summonerLevel": 875,
-    "profileIconId": 2088,
+    "profileIconId": 6680,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -692,7 +692,7 @@
       "Support"
     ],
     "summonerLevel": 662,
-    "profileIconId": 6693,
+    "profileIconId": 6680,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -926,7 +926,7 @@
       "Support"
     ],
     "summonerLevel": 933,
-    "profileIconId": 1012,
+    "profileIconId": 6680,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -1109,7 +1109,7 @@
       "Support"
     ],
     "summonerLevel": 356,
-    "profileIconId": 5860,
+    "profileIconId": 5675,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -1134,7 +1134,7 @@
       {
         "name": "Leona",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Leona.png",
-        "points": 82994
+        "points": 84442
       },
       {
         "name": "Brand",
