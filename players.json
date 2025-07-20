@@ -655,7 +655,7 @@
       {
         "name": "Morgana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Morgana.png",
-        "points": 591843
+        "points": 592478
       },
       {
         "name": "Kai'Sa",
@@ -680,7 +680,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Morgana",
-      "points": 591843
+      "points": 592478
     }
   },
   {
@@ -813,9 +813,9 @@
         "points": 102601
       },
       {
-        "name": "Jhin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Jhin.png",
-        "points": 86224
+        "name": "Azir",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Azir.png",
+        "points": 86408
       }
     ],
     "highestMasteryChamp": {
