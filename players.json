@@ -218,7 +218,7 @@
       {
         "name": "Ezreal",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Ezreal.png",
-        "points": 198332
+        "points": 198990
       },
       {
         "name": "Ashe",
@@ -374,7 +374,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 875,
+    "summonerLevel": 876,
     "profileIconId": 2088,
     "soloRank": {
       "tier": "Unranked",
@@ -395,7 +395,7 @@
       {
         "name": "Lee Sin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/LeeSin.png",
-        "points": 343925
+        "points": 344659
       },
       {
         "name": "Zed",
