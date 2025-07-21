@@ -837,37 +837,8 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [
-      {
-        "name": "Gnar",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Gnar.png",
-        "points": 217075
-      },
-      {
-        "name": "Ashe",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Ashe.png",
-        "points": 155539
-      },
-      {
-        "name": "Irelia",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Irelia.png",
-        "points": 121158
-      },
-      {
-        "name": "Twisted Fate",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/TwistedFate.png",
-        "points": 108693
-      },
-      {
-        "name": "Tristana",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Tristana.png",
-        "points": 100081
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Gnar",
-      "points": 217075
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   },
   {
     "name": "mort",
