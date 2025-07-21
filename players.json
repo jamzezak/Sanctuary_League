@@ -395,7 +395,7 @@
       {
         "name": "Lee Sin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/LeeSin.png",
-        "points": 344659
+        "points": 346180
       },
       {
         "name": "Zed",
@@ -830,15 +830,44 @@
       "Top",
       "ADC"
     ],
-    "summonerLevel": 358,
+    "summonerLevel": 359,
     "profileIconId": 6500,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [],
-    "highestMasteryChamp": null
+    "topChamps": [
+      {
+        "name": "Gnar",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Gnar.png",
+        "points": 217075
+      },
+      {
+        "name": "Ashe",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Ashe.png",
+        "points": 157817
+      },
+      {
+        "name": "Irelia",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Irelia.png",
+        "points": 121158
+      },
+      {
+        "name": "Twisted Fate",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/TwistedFate.png",
+        "points": 108693
+      },
+      {
+        "name": "Tristana",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Tristana.png",
+        "points": 100081
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Gnar",
+      "points": 217075
+    }
   },
   {
     "name": "mort",
