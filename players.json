@@ -520,7 +520,7 @@
       {
         "name": "Jinx",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Jinx.png",
-        "points": 171861
+        "points": 173124
       },
       {
         "name": "Miss Fortune",
@@ -545,7 +545,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Jinx",
-      "points": 171861
+      "points": 173124
     }
   },
   {
@@ -946,7 +946,7 @@
       {
         "name": "Milio",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Milio.png",
-        "points": 393448
+        "points": 394399
       },
       {
         "name": "Sona",
