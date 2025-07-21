@@ -130,7 +130,7 @@
       {
         "name": "Veigar",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Veigar.png",
-        "points": 66789
+        "points": 67322
       }
     ],
     "highestMasteryChamp": {
@@ -747,7 +747,7 @@
       {
         "name": "Sylas",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Sylas.png",
-        "points": 178023
+        "points": 178818
       },
       {
         "name": "LeBlanc",
@@ -772,7 +772,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Sylas",
-      "points": 178023
+      "points": 178818
     }
   },
   {
@@ -972,7 +972,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 527,
+    "summonerLevel": 528,
     "profileIconId": 718,
     "soloRank": {
       "tier": "Unranked",
@@ -993,7 +993,7 @@
       {
         "name": "Rakan",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Rakan.png",
-        "points": 195601
+        "points": 196275
       },
       {
         "name": "Ziggs",
