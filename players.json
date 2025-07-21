@@ -385,7 +385,7 @@
       {
         "name": "Kayn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Kayn.png",
-        "points": 650004
+        "points": 650565
       },
       {
         "name": "Yasuo",
@@ -410,7 +410,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Kayn",
-      "points": 650004
+      "points": 650565
     }
   },
   {
@@ -691,7 +691,7 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 663,
+    "summonerLevel": 664,
     "profileIconId": 6693,
     "soloRank": {
       "tier": "Unranked",
@@ -846,7 +846,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Ashe.png",
-        "points": 155005
+        "points": 155539
       },
       {
         "name": "Irelia",
@@ -861,7 +861,7 @@
       {
         "name": "Tristana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Tristana.png",
-        "points": 99407
+        "points": 100081
       }
     ],
     "highestMasteryChamp": {
