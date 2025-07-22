@@ -145,7 +145,7 @@
       "Top",
       "Mid"
     ],
-    "summonerLevel": 963,
+    "summonerLevel": 964,
     "profileIconId": 5675,
     "soloRank": {
       "tier": "Unranked",
@@ -161,7 +161,7 @@
       {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Aurora.png",
-        "points": 375379
+        "points": 375900
       },
       {
         "name": "Gangplank",
@@ -509,7 +509,7 @@
     "role": [
       "ADC"
     ],
-    "summonerLevel": 290,
+    "summonerLevel": 291,
     "profileIconId": 508,
     "soloRank": {
       "tier": "Unranked",
@@ -570,7 +570,7 @@
       {
         "name": "Viktor",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Viktor.png",
-        "points": 115062
+        "points": 115675
       },
       {
         "name": "Sylas",
@@ -1017,7 +1017,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 317,
+    "summonerLevel": 318,
     "profileIconId": 6378,
     "soloRank": {
       "tier": "Unranked",
@@ -1038,7 +1038,7 @@
       {
         "name": "Sylas",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Sylas.png",
-        "points": 110122
+        "points": 110931
       },
       {
         "name": "Ahri",
