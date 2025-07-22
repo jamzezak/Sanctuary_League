@@ -610,7 +610,7 @@
       {
         "name": "Viego",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Viego.png",
-        "points": 20327
+        "points": 20915
       },
       {
         "name": "Kayn",
@@ -635,7 +635,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Viego",
-      "points": 20327
+      "points": 20915
     }
   },
   {
