@@ -830,7 +830,7 @@
       "Top",
       "ADC"
     ],
-    "summonerLevel": 360,
+    "summonerLevel": 361,
     "profileIconId": 6500,
     "soloRank": {
       "tier": "Unranked",
@@ -846,7 +846,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Ashe.png",
-        "points": 169582
+        "points": 171414
       },
       {
         "name": "Irelia",
