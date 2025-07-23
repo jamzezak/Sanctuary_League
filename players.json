@@ -675,7 +675,7 @@
       {
         "name": "Teemo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Teemo.png",
-        "points": 105764
+        "points": 106726
       }
     ],
     "highestMasteryChamp": {
@@ -1017,7 +1017,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 318,
+    "summonerLevel": 319,
     "profileIconId": 6378,
     "soloRank": {
       "tier": "Unranked",
@@ -1033,7 +1033,7 @@
       {
         "name": "Hwei",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Hwei.png",
-        "points": 136808
+        "points": 138148
       },
       {
         "name": "Sylas",
