@@ -525,7 +525,7 @@
       {
         "name": "Miss Fortune",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/MissFortune.png",
-        "points": 155739
+        "points": 157439
       },
       {
         "name": "Caitlyn",
@@ -747,7 +747,7 @@
       {
         "name": "Sylas",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Sylas.png",
-        "points": 178818
+        "points": 180783
       },
       {
         "name": "LeBlanc",
@@ -772,7 +772,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Sylas",
-      "points": 178818
+      "points": 180783
     }
   },
   {
