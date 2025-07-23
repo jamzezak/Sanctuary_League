@@ -599,7 +599,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 41,
+    "summonerLevel": 42,
     "profileIconId": 6850,
     "soloRank": {
       "tier": "Unranked",
@@ -613,24 +613,24 @@
         "points": 20915
       },
       {
+        "name": "Xin Zhao",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/XinZhao.png",
+        "points": 14238
+      },
+      {
         "name": "Kayn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Kayn.png",
         "points": 14162
       },
       {
-        "name": "Xin Zhao",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/XinZhao.png",
-        "points": 12137
+        "name": "Jarvan IV",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/JarvanIV.png",
+        "points": 8264
       },
       {
         "name": "Caitlyn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Caitlyn.png",
         "points": 7895
-      },
-      {
-        "name": "Jarvan IV",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/JarvanIV.png",
-        "points": 7501
       }
     ],
     "highestMasteryChamp": {
@@ -691,7 +691,7 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 665,
+    "summonerLevel": 666,
     "profileIconId": 6693,
     "soloRank": {
       "tier": "Unranked",
@@ -846,7 +846,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Ashe.png",
-        "points": 160772
+        "points": 162810
       },
       {
         "name": "Irelia",
