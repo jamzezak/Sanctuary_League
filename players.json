@@ -120,7 +120,7 @@
       {
         "name": "Kayn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Kayn.png",
-        "points": 148969
+        "points": 150385
       },
       {
         "name": "Cho'Gath",
@@ -926,7 +926,7 @@
       "Support"
     ],
     "summonerLevel": 939,
-    "profileIconId": 5964,
+    "profileIconId": 6238,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
