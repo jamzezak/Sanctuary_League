@@ -374,7 +374,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 876,
+    "summonerLevel": 877,
     "profileIconId": 2088,
     "soloRank": {
       "tier": "Unranked",
@@ -385,7 +385,7 @@
       {
         "name": "Kayn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Kayn.png",
-        "points": 652190
+        "points": 653035
       },
       {
         "name": "Yasuo",
@@ -410,7 +410,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Kayn",
-      "points": 652190
+      "points": 653035
     }
   },
   {
@@ -752,7 +752,7 @@
       {
         "name": "LeBlanc",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Leblanc.png",
-        "points": 176283
+        "points": 177211
       },
       {
         "name": "Ezreal",
