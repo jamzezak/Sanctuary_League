@@ -580,7 +580,7 @@
       {
         "name": "Malzahar",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Malzahar.png",
-        "points": 86466
+        "points": 86909
       },
       {
         "name": "Garen",
@@ -675,7 +675,7 @@
       {
         "name": "Teemo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Teemo.png",
-        "points": 106726
+        "points": 108731
       }
     ],
     "highestMasteryChamp": {
@@ -1108,7 +1108,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 357,
+    "summonerLevel": 358,
     "profileIconId": 5860,
     "soloRank": {
       "tier": "Unranked",
