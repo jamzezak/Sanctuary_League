@@ -610,7 +610,7 @@
       {
         "name": "Viego",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Viego.png",
-        "points": 20915
+        "points": 22371
       },
       {
         "name": "Kayn",
@@ -635,7 +635,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Viego",
-      "points": 20915
+      "points": 22371
     }
   },
   {
@@ -644,7 +644,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 597,
+    "summonerLevel": 598,
     "profileIconId": 6789,
     "soloRank": {
       "tier": "Unranked",
@@ -972,7 +972,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 528,
+    "summonerLevel": 529,
     "profileIconId": 718,
     "soloRank": {
       "tier": "Unranked",
