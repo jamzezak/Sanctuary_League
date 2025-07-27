@@ -698,8 +698,37 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [],
-    "highestMasteryChamp": null
+    "topChamps": [
+      {
+        "name": "Jayce",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Jayce.png",
+        "points": 244146
+      },
+      {
+        "name": "Graves",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Graves.png",
+        "points": 218079
+      },
+      {
+        "name": "Lee Sin",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/LeeSin.png",
+        "points": 210649
+      },
+      {
+        "name": "Nunu & Willump",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Nunu.png",
+        "points": 173632
+      },
+      {
+        "name": "Jhin",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Jhin.png",
+        "points": 154200
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Jayce",
+      "points": 244146
+    }
   },
   {
     "name": "thatloosecannon",
