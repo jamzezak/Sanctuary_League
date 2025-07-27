@@ -599,7 +599,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 42,
+    "summonerLevel": 43,
     "profileIconId": 6850,
     "soloRank": {
       "tier": "Unranked",
@@ -615,7 +615,7 @@
       {
         "name": "Kayn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Kayn.png",
-        "points": 15252
+        "points": 16512
       },
       {
         "name": "Xin Zhao",
