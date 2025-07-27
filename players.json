@@ -16,7 +16,7 @@
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Vayne.png",
-        "points": 1218767
+        "points": 1219878
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1218767
+      "points": 1219878
     }
   },
   {
@@ -154,14 +154,14 @@
     },
     "topChamps": [
       {
+        "name": "Aurora",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Aurora.png",
+        "points": 379059
+      },
+      {
         "name": "Sett",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Sett.png",
         "points": 377710
-      },
-      {
-        "name": "Aurora",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Aurora.png",
-        "points": 377596
       },
       {
         "name": "Gangplank",
@@ -180,8 +180,8 @@
       }
     ],
     "highestMasteryChamp": {
-      "name": "Sett",
-      "points": 377710
+      "name": "Aurora",
+      "points": 379059
     }
   },
   {
@@ -520,7 +520,7 @@
       {
         "name": "Jinx",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Jinx.png",
-        "points": 173124
+        "points": 174937
       },
       {
         "name": "Miss Fortune",
@@ -545,7 +545,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Jinx",
-      "points": 173124
+      "points": 174937
     }
   },
   {
