@@ -5,7 +5,7 @@
     "role": [
       "ADC"
     ],
-    "summonerLevel": 368,
+    "summonerLevel": 369,
     "profileIconId": 6883,
     "soloRank": {
       "tier": "Unranked",
@@ -31,7 +31,7 @@
       {
         "name": "Kai'Sa",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Kaisa.png",
-        "points": 105014
+        "points": 106105
       },
       {
         "name": "Jinx",
@@ -161,7 +161,7 @@
       {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Aurora.png",
-        "points": 376492
+        "points": 377596
       },
       {
         "name": "Gangplank",
@@ -239,7 +239,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 464,
+    "summonerLevel": 465,
     "profileIconId": 1636,
     "soloRank": {
       "tier": "Unranked",
@@ -655,7 +655,7 @@
       {
         "name": "Morgana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Morgana.png",
-        "points": 599884
+        "points": 601744
       },
       {
         "name": "Kai'Sa",
@@ -680,7 +680,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Morgana",
-      "points": 599884
+      "points": 601744
     }
   },
   {
@@ -926,7 +926,7 @@
       "Support"
     ],
     "summonerLevel": 939,
-    "profileIconId": 6238,
+    "profileIconId": 6383,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -1119,7 +1119,7 @@
       {
         "name": "Nami",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Nami.png",
-        "points": 118259
+        "points": 119805
       },
       {
         "name": "Lux",
@@ -1144,7 +1144,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Nami",
-      "points": 118259
+      "points": 119805
     }
   }
 ]
