@@ -663,14 +663,14 @@
         "points": 162742
       },
       {
+        "name": "Brand",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Brand.png",
+        "points": 143629
+      },
+      {
         "name": "Nautilus",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Nautilus.png",
         "points": 143531
-      },
-      {
-        "name": "Brand",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Brand.png",
-        "points": 142719
       },
       {
         "name": "Teemo",
@@ -805,7 +805,7 @@
       {
         "name": "Yone",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Yone.png",
-        "points": 102670
+        "points": 103367
       },
       {
         "name": "Aphelios",
