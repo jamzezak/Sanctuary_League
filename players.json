@@ -752,7 +752,7 @@
       {
         "name": "LeBlanc",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Leblanc.png",
-        "points": 177211
+        "points": 178892
       },
       {
         "name": "Ezreal",
@@ -1137,9 +1137,9 @@
         "points": 85397
       },
       {
-        "name": "Brand",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Brand.png",
-        "points": 73959
+        "name": "Syndra",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Syndra.png",
+        "points": 75226
       }
     ],
     "highestMasteryChamp": {
