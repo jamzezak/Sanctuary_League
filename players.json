@@ -192,7 +192,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 795,
+    "summonerLevel": 796,
     "profileIconId": 6212,
     "soloRank": {
       "tier": "Unranked",
@@ -565,7 +565,7 @@
       {
         "name": "Vladimir",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.14.1/img/champion/Vladimir.png",
-        "points": 266388
+        "points": 268049
       },
       {
         "name": "Viktor",
@@ -590,7 +590,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vladimir",
-      "points": 266388
+      "points": 268049
     }
   },
   {
@@ -692,7 +692,7 @@
       "Support"
     ],
     "summonerLevel": 669,
-    "profileIconId": 6693,
+    "profileIconId": 6633,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
