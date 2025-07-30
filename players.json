@@ -784,7 +784,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 442,
+    "summonerLevel": 443,
     "profileIconId": 6892,
     "soloRank": {
       "tier": "Unranked",
@@ -800,7 +800,7 @@
       {
         "name": "Yasuo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Yasuo.png",
-        "points": 255253
+        "points": 256227
       },
       {
         "name": "Yone",
