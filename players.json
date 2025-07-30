@@ -509,7 +509,7 @@
     "role": [
       "ADC"
     ],
-    "summonerLevel": 291,
+    "summonerLevel": 292,
     "profileIconId": 508,
     "soloRank": {
       "tier": "Unranked",
@@ -554,7 +554,7 @@
     "role": [
       "Top"
     ],
-    "summonerLevel": 246,
+    "summonerLevel": 247,
     "profileIconId": 5408,
     "soloRank": {
       "tier": "Unranked",
@@ -565,7 +565,7 @@
       {
         "name": "Vladimir",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Vladimir.png",
-        "points": 268049
+        "points": 269917
       },
       {
         "name": "Viktor",
@@ -575,7 +575,7 @@
       {
         "name": "Sylas",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Sylas.png",
-        "points": 104625
+        "points": 106229
       },
       {
         "name": "Malzahar",
@@ -590,7 +590,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vladimir",
-      "points": 268049
+      "points": 269917
     }
   },
   {
@@ -665,7 +665,7 @@
       {
         "name": "Brand",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Brand.png",
-        "points": 143629
+        "points": 144656
       },
       {
         "name": "Nautilus",
@@ -785,7 +785,7 @@
       "Support"
     ],
     "summonerLevel": 442,
-    "profileIconId": 4663,
+    "profileIconId": 6892,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
