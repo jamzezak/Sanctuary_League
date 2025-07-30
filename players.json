@@ -145,7 +145,7 @@
       "Top",
       "Mid"
     ],
-    "summonerLevel": 964,
+    "summonerLevel": 965,
     "profileIconId": 5675,
     "soloRank": {
       "tier": "Unranked",
@@ -156,7 +156,7 @@
       {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Aurora.png",
-        "points": 379059
+        "points": 380293
       },
       {
         "name": "Sett",
@@ -181,7 +181,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aurora",
-      "points": 379059
+      "points": 380293
     }
   },
   {
