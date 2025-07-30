@@ -16,7 +16,7 @@
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Vayne.png",
-        "points": 1220936
+        "points": 1222684
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1220936
+      "points": 1222684
     }
   },
   {
@@ -691,7 +691,7 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 670,
+    "summonerLevel": 671,
     "profileIconId": 6633,
     "soloRank": {
       "tier": "Unranked",
