@@ -520,7 +520,7 @@
       {
         "name": "Jinx",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Jinx.png",
-        "points": 174937
+        "points": 176836
       },
       {
         "name": "Miss Fortune",
@@ -545,7 +545,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Jinx",
-      "points": 174937
+      "points": 176836
     }
   },
   {
@@ -655,7 +655,7 @@
       {
         "name": "Morgana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Morgana.png",
-        "points": 603391
+        "points": 604228
       },
       {
         "name": "Kai'Sa",
@@ -680,7 +680,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Morgana",
-      "points": 603391
+      "points": 604228
     }
   },
   {
@@ -803,19 +803,19 @@
         "points": 256227
       },
       {
+        "name": "Aphelios",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Aphelios.png",
+        "points": 103997
+      },
+      {
         "name": "Yone",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Yone.png",
         "points": 103367
       },
       {
-        "name": "Aphelios",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Aphelios.png",
-        "points": 102601
-      },
-      {
-        "name": "Jhin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Jhin.png",
-        "points": 86863
+        "name": "Azir",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Azir.png",
+        "points": 88000
       }
     ],
     "highestMasteryChamp": {
@@ -1094,7 +1094,7 @@
       {
         "name": "Senna",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Senna.png",
-        "points": 146302
+        "points": 147294
       }
     ],
     "highestMasteryChamp": {
