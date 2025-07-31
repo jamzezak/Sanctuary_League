@@ -951,7 +951,7 @@
       {
         "name": "Sona",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Sona.png",
-        "points": 300872
+        "points": 302422
       },
       {
         "name": "Janna",
@@ -972,7 +972,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 530,
+    "summonerLevel": 531,
     "profileIconId": 718,
     "soloRank": {
       "tier": "Unranked",
