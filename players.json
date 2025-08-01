@@ -643,7 +643,7 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 672,
+    "summonerLevel": 673,
     "profileIconId": 6633,
     "soloRank": {
       "tier": "Unranked",
@@ -654,7 +654,7 @@
       {
         "name": "Jayce",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Jayce.png",
-        "points": 245733
+        "points": 246297
       },
       {
         "name": "Graves",
@@ -679,7 +679,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Jayce",
-      "points": 245733
+      "points": 246297
     }
   },
   {
