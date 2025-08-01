@@ -520,7 +520,7 @@
       {
         "name": "Jinx",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Jinx.png",
-        "points": 176836
+        "points": 179619
       },
       {
         "name": "Miss Fortune",
@@ -545,7 +545,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Jinx",
-      "points": 176836
+      "points": 179619
     }
   },
   {
@@ -655,7 +655,7 @@
       {
         "name": "Morgana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Morgana.png",
-        "points": 604228
+        "points": 605763
       },
       {
         "name": "Kai'Sa",
@@ -680,7 +680,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Morgana",
-      "points": 604228
+      "points": 605763
     }
   },
   {
@@ -1119,7 +1119,7 @@
       {
         "name": "Nami",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Nami.png",
-        "points": 119805
+        "points": 120463
       },
       {
         "name": "Lux",
@@ -1144,7 +1144,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Nami",
-      "points": 119805
+      "points": 120463
     }
   }
 ]
