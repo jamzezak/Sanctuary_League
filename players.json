@@ -91,54 +91,6 @@
     }
   },
   {
-    "name": "Peako",
-    "tag": "1234",
-    "role": [
-      "Top",
-      "Jungle",
-      "Mid",
-      "Support"
-    ],
-    "summonerLevel": 366,
-    "profileIconId": 5374,
-    "soloRank": {
-      "tier": "Unranked",
-      "rank": "",
-      "leaguePoints": 0
-    },
-    "topChamps": [
-      {
-        "name": "Tahm Kench",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/TahmKench.png",
-        "points": 292586
-      },
-      {
-        "name": "Viego",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Viego.png",
-        "points": 170906
-      },
-      {
-        "name": "Kayn",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Kayn.png",
-        "points": 152506
-      },
-      {
-        "name": "Cho'Gath",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Chogath.png",
-        "points": 82892
-      },
-      {
-        "name": "Veigar",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Veigar.png",
-        "points": 67322
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Tahm Kench",
-      "points": 292586
-    }
-  },
-  {
     "name": "TheOddCanuck",
     "tag": "NA1",
     "role": [
@@ -161,7 +113,7 @@
       {
         "name": "Sett",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Sett.png",
-        "points": 377710
+        "points": 379413
       },
       {
         "name": "Gangplank",
@@ -208,7 +160,7 @@
       {
         "name": "Jhin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Jhin.png",
-        "points": 272268
+        "points": 273053
       },
       {
         "name": "Caitlyn",
@@ -400,7 +352,7 @@
       {
         "name": "Zed",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Zed.png",
-        "points": 305123
+        "points": 306034
       },
       {
         "name": "Graves",
@@ -520,7 +472,7 @@
       {
         "name": "Jinx",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Jinx.png",
-        "points": 179619
+        "points": 182763
       },
       {
         "name": "Miss Fortune",
@@ -545,7 +497,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Jinx",
-      "points": 179619
+      "points": 182763
     }
   },
   {
@@ -757,7 +709,7 @@
       {
         "name": "Ezreal",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Ezreal.png",
-        "points": 151428
+        "points": 151912
       },
       {
         "name": "Jhin",
@@ -1129,7 +1081,7 @@
       {
         "name": "Senna",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Senna.png",
-        "points": 88729
+        "points": 90490
       },
       {
         "name": "Leona",
@@ -1139,7 +1091,7 @@
       {
         "name": "Syndra",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Syndra.png",
-        "points": 75226
+        "points": 76874
       }
     ],
     "highestMasteryChamp": {
