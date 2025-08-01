@@ -352,7 +352,7 @@
       {
         "name": "Zed",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Zed.png",
-        "points": 306034
+        "points": 306595
       },
       {
         "name": "Graves",
@@ -596,7 +596,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 599,
+    "summonerLevel": 600,
     "profileIconId": 6789,
     "soloRank": {
       "tier": "Unranked",
@@ -612,7 +612,7 @@
       {
         "name": "Kai'Sa",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Kaisa.png",
-        "points": 162742
+        "points": 163948
       },
       {
         "name": "Brand",
