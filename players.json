@@ -427,7 +427,7 @@
       {
         "name": "Yasuo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Yasuo.png",
-        "points": 551311
+        "points": 552067
       },
       {
         "name": "Akali",
@@ -452,7 +452,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Yasuo",
-      "points": 551311
+      "points": 552067
     }
   },
   {
@@ -1076,7 +1076,7 @@
       {
         "name": "Lux",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Lux.png",
-        "points": 118036
+        "points": 119027
       },
       {
         "name": "Senna",
