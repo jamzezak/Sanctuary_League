@@ -607,7 +607,7 @@
       {
         "name": "Morgana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Morgana.png",
-        "points": 605763
+        "points": 606380
       },
       {
         "name": "Kai'Sa",
@@ -632,7 +632,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Morgana",
-      "points": 605763
+      "points": 606380
     }
   },
   {
@@ -654,7 +654,7 @@
       {
         "name": "Jayce",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Jayce.png",
-        "points": 246297
+        "points": 248341
       },
       {
         "name": "Graves",
@@ -679,7 +679,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Jayce",
-      "points": 246297
+      "points": 248341
     }
   },
   {
