@@ -118,7 +118,7 @@
       {
         "name": "Gangplank",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Gangplank.png",
-        "points": 349578
+        "points": 350847
       },
       {
         "name": "Darius",
@@ -903,7 +903,7 @@
       {
         "name": "Sona",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Sona.png",
-        "points": 311397
+        "points": 312088
       },
       {
         "name": "Janna",
@@ -924,7 +924,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 531,
+    "summonerLevel": 532,
     "profileIconId": 718,
     "soloRank": {
       "tier": "Unranked",
