@@ -97,7 +97,7 @@
       "Top",
       "Mid"
     ],
-    "summonerLevel": 965,
+    "summonerLevel": 966,
     "profileIconId": 5675,
     "soloRank": {
       "tier": "Unranked",
@@ -108,7 +108,7 @@
       {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Aurora.png",
-        "points": 380293
+        "points": 380981
       },
       {
         "name": "Sett",
@@ -133,7 +133,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aurora",
-      "points": 380293
+      "points": 380981
     }
   },
   {
@@ -903,7 +903,7 @@
       {
         "name": "Sona",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Sona.png",
-        "points": 308423
+        "points": 311397
       },
       {
         "name": "Janna",
