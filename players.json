@@ -654,7 +654,7 @@
       {
         "name": "Jayce",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Jayce.png",
-        "points": 248341
+        "points": 249768
       },
       {
         "name": "Graves",
@@ -679,7 +679,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Jayce",
-      "points": 248341
+      "points": 249768
     }
   },
   {
@@ -699,7 +699,7 @@
       {
         "name": "Sylas",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Sylas.png",
-        "points": 180783
+        "points": 181774
       },
       {
         "name": "LeBlanc",
@@ -724,7 +724,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Sylas",
-      "points": 180783
+      "points": 181774
     }
   },
   {
