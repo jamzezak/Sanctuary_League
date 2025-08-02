@@ -326,7 +326,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 878,
+    "summonerLevel": 879,
     "profileIconId": 2088,
     "soloRank": {
       "tier": "Unranked",
@@ -352,7 +352,7 @@
       {
         "name": "Zed",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Zed.png",
-        "points": 306595
+        "points": 306985
       },
       {
         "name": "Graves",
