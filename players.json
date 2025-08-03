@@ -627,7 +627,7 @@
       {
         "name": "Teemo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Teemo.png",
-        "points": 108731
+        "points": 109294
       }
     ],
     "highestMasteryChamp": {
@@ -877,7 +877,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 942,
+    "summonerLevel": 943,
     "profileIconId": 3161,
     "soloRank": {
       "tier": "Unranked",
