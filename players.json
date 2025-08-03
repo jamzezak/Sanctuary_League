@@ -21,7 +21,7 @@
       {
         "name": "Twitch",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Twitch.png",
-        "points": 252336
+        "points": 252915
       },
       {
         "name": "Varus",
@@ -36,7 +36,7 @@
       {
         "name": "Jinx",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Jinx.png",
-        "points": 75177
+        "points": 75591
       }
     ],
     "highestMasteryChamp": {
@@ -565,14 +565,14 @@
         "points": 23275
       },
       {
+        "name": "Xin Zhao",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/XinZhao.png",
+        "points": 16739
+      },
+      {
         "name": "Kayn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Kayn.png",
         "points": 16512
-      },
-      {
-        "name": "Xin Zhao",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/XinZhao.png",
-        "points": 14880
       },
       {
         "name": "Jarvan IV",
@@ -596,7 +596,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 601,
+    "summonerLevel": 602,
     "profileIconId": 5774,
     "soloRank": {
       "tier": "Unranked",
