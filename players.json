@@ -607,7 +607,7 @@
       {
         "name": "Morgana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Morgana.png",
-        "points": 606380
+        "points": 607822
       },
       {
         "name": "Kai'Sa",
@@ -632,7 +632,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Morgana",
-      "points": 606380
+      "points": 607822
     }
   },
   {
@@ -704,7 +704,7 @@
       {
         "name": "LeBlanc",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Leblanc.png",
-        "points": 178892
+        "points": 179373
       },
       {
         "name": "Ezreal",
@@ -878,7 +878,7 @@
       "Support"
     ],
     "summonerLevel": 942,
-    "profileIconId": 1103,
+    "profileIconId": 3161,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
