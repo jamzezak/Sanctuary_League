@@ -416,7 +416,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 707,
+    "summonerLevel": 708,
     "profileIconId": 6224,
     "soloRank": {
       "tier": "Unranked",
@@ -644,7 +644,7 @@
       "Support"
     ],
     "summonerLevel": 674,
-    "profileIconId": 6633,
+    "profileIconId": 6883,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -798,7 +798,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Ashe.png",
-        "points": 173941
+        "points": 174676
       },
       {
         "name": "Irelia",
