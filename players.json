@@ -5,7 +5,7 @@
     "role": [
       "ADC"
     ],
-    "summonerLevel": 369,
+    "summonerLevel": 370,
     "profileIconId": 6883,
     "soloRank": {
       "tier": "Unranked",
@@ -617,7 +617,7 @@
       {
         "name": "Brand",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Brand.png",
-        "points": 144656
+        "points": 145801
       },
       {
         "name": "Nautilus",
