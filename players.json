@@ -427,7 +427,7 @@
       {
         "name": "Yasuo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Yasuo.png",
-        "points": 552067
+        "points": 554030
       },
       {
         "name": "Akali",
@@ -452,7 +452,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Yasuo",
-      "points": 552067
+      "points": 554030
     }
   },
   {
@@ -567,7 +567,7 @@
       {
         "name": "Xin Zhao",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/XinZhao.png",
-        "points": 16739
+        "points": 18108
       },
       {
         "name": "Kayn",
