@@ -562,7 +562,7 @@
       {
         "name": "Viego",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Viego.png",
-        "points": 25718
+        "points": 26450
       },
       {
         "name": "Xin Zhao",
@@ -577,7 +577,7 @@
       {
         "name": "Jarvan IV",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/JarvanIV.png",
-        "points": 8264
+        "points": 8961
       },
       {
         "name": "Caitlyn",
@@ -587,7 +587,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Viego",
-      "points": 25718
+      "points": 26450
     }
   },
   {
