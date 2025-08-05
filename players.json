@@ -551,7 +551,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 43,
+    "summonerLevel": 44,
     "profileIconId": 6850,
     "soloRank": {
       "tier": "Unranked",
@@ -572,7 +572,7 @@
       {
         "name": "Kayn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Kayn.png",
-        "points": 16512
+        "points": 17699
       },
       {
         "name": "Jarvan IV",
