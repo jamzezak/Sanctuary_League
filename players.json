@@ -617,7 +617,7 @@
       {
         "name": "Brand",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Brand.png",
-        "points": 145801
+        "points": 146512
       },
       {
         "name": "Nautilus",
@@ -980,7 +980,7 @@
       {
         "name": "Syndra",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Syndra.png",
-        "points": 276834
+        "points": 278563
       },
       {
         "name": "Hwei",
@@ -1005,7 +1005,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Syndra",
-      "points": 276834
+      "points": 278563
     }
   },
   {
