@@ -699,7 +699,7 @@
       {
         "name": "Sylas",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Sylas.png",
-        "points": 181774
+        "points": 182688
       },
       {
         "name": "LeBlanc",
@@ -724,7 +724,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Sylas",
-      "points": 181774
+      "points": 182688
     }
   },
   {
@@ -1041,7 +1041,7 @@
       {
         "name": "Aphelios",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Aphelios.png",
-        "points": 153089
+        "points": 154038
       },
       {
         "name": "Senna",
