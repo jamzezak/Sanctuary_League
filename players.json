@@ -144,7 +144,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 796,
+    "summonerLevel": 797,
     "profileIconId": 6212,
     "soloRank": {
       "tier": "Unranked",
@@ -165,7 +165,7 @@
       {
         "name": "Caitlyn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Caitlyn.png",
-        "points": 225301
+        "points": 226213
       },
       {
         "name": "Ezreal",
@@ -596,7 +596,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 602,
+    "summonerLevel": 603,
     "profileIconId": 5774,
     "soloRank": {
       "tier": "Unranked",
