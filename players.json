@@ -607,7 +607,7 @@
       {
         "name": "Morgana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Morgana.png",
-        "points": 616670
+        "points": 618478
       },
       {
         "name": "Kai'Sa",
@@ -632,7 +632,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Morgana",
-      "points": 616670
+      "points": 618478
     }
   },
   {
@@ -643,7 +643,7 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 674,
+    "summonerLevel": 675,
     "profileIconId": 6883,
     "soloRank": {
       "tier": "Unranked",
