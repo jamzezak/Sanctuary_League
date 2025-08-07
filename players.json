@@ -16,7 +16,7 @@
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Vayne.png",
-        "points": 1222684
+        "points": 1224235
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1222684
+      "points": 1224235
     }
   },
   {
@@ -596,7 +596,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 604,
+    "summonerLevel": 605,
     "profileIconId": 5774,
     "soloRank": {
       "tier": "Unranked",
@@ -607,7 +607,7 @@
       {
         "name": "Morgana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Morgana.png",
-        "points": 620363
+        "points": 621126
       },
       {
         "name": "Kai'Sa",
@@ -632,7 +632,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Morgana",
-      "points": 620363
+      "points": 621126
     }
   },
   {
