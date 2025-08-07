@@ -352,7 +352,7 @@
       {
         "name": "Zed",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Zed.png",
-        "points": 306985
+        "points": 307529
       },
       {
         "name": "Graves",
@@ -416,7 +416,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 708,
+    "summonerLevel": 709,
     "profileIconId": 6224,
     "soloRank": {
       "tier": "Unranked",
@@ -704,7 +704,7 @@
       {
         "name": "LeBlanc",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Leblanc.png",
-        "points": 179373
+        "points": 179991
       },
       {
         "name": "Ezreal",
