@@ -699,7 +699,7 @@
       {
         "name": "Sylas",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Sylas.png",
-        "points": 184621
+        "points": 185502
       },
       {
         "name": "LeBlanc",
@@ -724,7 +724,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Sylas",
-      "points": 184621
+      "points": 185502
     }
   },
   {
@@ -747,7 +747,7 @@
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Aatrox.png",
-        "points": 498333
+        "points": 499068
       },
       {
         "name": "Yasuo",
@@ -772,7 +772,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 498333
+      "points": 499068
     }
   },
   {
