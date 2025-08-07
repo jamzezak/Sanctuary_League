@@ -688,7 +688,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 492,
+    "summonerLevel": 493,
     "profileIconId": 1389,
     "soloRank": {
       "tier": "Unranked",
@@ -717,9 +717,9 @@
         "points": 127658
       },
       {
-        "name": "Orianna",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Orianna.png",
-        "points": 126391
+        "name": "Viktor",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Viktor.png",
+        "points": 126512
       }
     ],
     "highestMasteryChamp": {
