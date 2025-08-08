@@ -326,7 +326,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 880,
+    "summonerLevel": 881,
     "profileIconId": 2088,
     "soloRank": {
       "tier": "Unranked",
@@ -596,7 +596,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 605,
+    "summonerLevel": 606,
     "profileIconId": 5774,
     "soloRank": {
       "tier": "Unranked",
@@ -627,7 +627,7 @@
       {
         "name": "Teemo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Teemo.png",
-        "points": 110015
+        "points": 110434
       }
     ],
     "highestMasteryChamp": {
@@ -643,7 +643,7 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 675,
+    "summonerLevel": 676,
     "profileIconId": 6883,
     "soloRank": {
       "tier": "Unranked",
@@ -719,7 +719,7 @@
       {
         "name": "Viktor",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Viktor.png",
-        "points": 126512
+        "points": 127130
       }
     ],
     "highestMasteryChamp": {
