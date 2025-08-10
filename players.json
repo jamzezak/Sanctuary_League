@@ -617,7 +617,7 @@
       {
         "name": "Brand",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Brand.png",
-        "points": 149761
+        "points": 150589
       },
       {
         "name": "Nautilus",
@@ -627,7 +627,7 @@
       {
         "name": "Teemo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Teemo.png",
-        "points": 112720
+        "points": 113923
       }
     ],
     "highestMasteryChamp": {
@@ -699,7 +699,7 @@
       {
         "name": "Sylas",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Sylas.png",
-        "points": 185502
+        "points": 186355
       },
       {
         "name": "LeBlanc",
@@ -724,7 +724,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Sylas",
-      "points": 185502
+      "points": 186355
     }
   },
   {
