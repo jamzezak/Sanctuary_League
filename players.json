@@ -5,7 +5,7 @@
     "role": [
       "ADC"
     ],
-    "summonerLevel": 371,
+    "summonerLevel": 372,
     "profileIconId": 6883,
     "soloRank": {
       "tier": "Unranked",
@@ -16,7 +16,7 @@
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Vayne.png",
-        "points": 1232873
+        "points": 1233850
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1232873
+      "points": 1233850
     }
   },
   {
@@ -106,14 +106,14 @@
     },
     "topChamps": [
       {
+        "name": "Sett",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Sett.png",
+        "points": 381866
+      },
+      {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Aurora.png",
         "points": 380981
-      },
-      {
-        "name": "Sett",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Sett.png",
-        "points": 380853
       },
       {
         "name": "Gangplank",
@@ -132,8 +132,8 @@
       }
     ],
     "highestMasteryChamp": {
-      "name": "Aurora",
-      "points": 380981
+      "name": "Sett",
+      "points": 381866
     }
   },
   {
@@ -878,7 +878,7 @@
       "Support"
     ],
     "summonerLevel": 947,
-    "profileIconId": 6238,
+    "profileIconId": 3161,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
