@@ -736,7 +736,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 445,
+    "summonerLevel": 446,
     "profileIconId": 1109,
     "soloRank": {
       "tier": "Unranked",
@@ -757,7 +757,7 @@
       {
         "name": "Aphelios",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Aphelios.png",
-        "points": 107350
+        "points": 107897
       },
       {
         "name": "Yone",
