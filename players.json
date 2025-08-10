@@ -688,7 +688,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 493,
+    "summonerLevel": 494,
     "profileIconId": 1389,
     "soloRank": {
       "tier": "Unranked",
@@ -717,9 +717,9 @@
         "points": 127658
       },
       {
-        "name": "Viktor",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Viktor.png",
-        "points": 127130
+        "name": "Azir",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Azir.png",
+        "points": 127286
       }
     ],
     "highestMasteryChamp": {
@@ -798,7 +798,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Ashe.png",
-        "points": 178669
+        "points": 179253
       },
       {
         "name": "Irelia",
