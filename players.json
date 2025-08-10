@@ -16,7 +16,7 @@
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Vayne.png",
-        "points": 1231870
+        "points": 1232873
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1231870
+      "points": 1232873
     }
   },
   {
@@ -798,7 +798,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Ashe.png",
-        "points": 177148
+        "points": 177821
       },
       {
         "name": "Irelia",
@@ -877,8 +877,8 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 946,
-    "profileIconId": 6379,
+    "summonerLevel": 947,
+    "profileIconId": 6238,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
