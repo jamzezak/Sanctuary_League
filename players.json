@@ -236,7 +236,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 252,
+    "summonerLevel": 253,
     "profileIconId": 691,
     "soloRank": {
       "tier": "Unranked",
@@ -252,7 +252,7 @@
       {
         "name": "Lee Sin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/LeeSin.png",
-        "points": 121799
+        "points": 122365
       },
       {
         "name": "Kha'Zix",
@@ -607,7 +607,7 @@
       {
         "name": "Morgana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Morgana.png",
-        "points": 625486
+        "points": 628479
       },
       {
         "name": "Kai'Sa",
@@ -632,7 +632,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Morgana",
-      "points": 625486
+      "points": 628479
     }
   },
   {
@@ -643,7 +643,7 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 677,
+    "summonerLevel": 678,
     "profileIconId": 6883,
     "soloRank": {
       "tier": "Unranked",
@@ -878,7 +878,7 @@
       "Support"
     ],
     "summonerLevel": 946,
-    "profileIconId": 6760,
+    "profileIconId": 3161,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
