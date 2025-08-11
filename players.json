@@ -16,7 +16,7 @@
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Vayne.png",
-        "points": 1233850
+        "points": 1234570
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1233850
+      "points": 1234570
     }
   },
   {
@@ -714,7 +714,7 @@
       {
         "name": "Jhin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Jhin.png",
-        "points": 127658
+        "points": 128304
       },
       {
         "name": "Azir",
@@ -798,7 +798,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Ashe.png",
-        "points": 181700
+        "points": 182505
       },
       {
         "name": "Irelia",
