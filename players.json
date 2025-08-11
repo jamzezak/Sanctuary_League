@@ -672,9 +672,9 @@
         "points": 173632
       },
       {
-        "name": "Jhin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Jhin.png",
-        "points": 154200
+        "name": "LeBlanc",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Leblanc.png",
+        "points": 155109
       }
     ],
     "highestMasteryChamp": {
@@ -747,7 +747,7 @@
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Aatrox.png",
-        "points": 499691
+        "points": 501268
       },
       {
         "name": "Yasuo",
@@ -772,7 +772,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 499691
+      "points": 501268
     }
   },
   {
@@ -798,7 +798,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Ashe.png",
-        "points": 180876
+        "points": 181700
       },
       {
         "name": "Irelia",
