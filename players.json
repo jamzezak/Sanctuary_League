@@ -437,7 +437,7 @@
       {
         "name": "Vex",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Vex.png",
-        "points": 221906
+        "points": 223436
       },
       {
         "name": "Zoe",
@@ -878,7 +878,7 @@
       "Support"
     ],
     "summonerLevel": 947,
-    "profileIconId": 3161,
+    "profileIconId": 6238,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
