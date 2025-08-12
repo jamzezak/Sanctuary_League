@@ -416,7 +416,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 709,
+    "summonerLevel": 710,
     "profileIconId": 6224,
     "soloRank": {
       "tier": "Unranked",
@@ -427,7 +427,7 @@
       {
         "name": "Yasuo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Yasuo.png",
-        "points": 554030
+        "points": 554881
       },
       {
         "name": "Akali",
@@ -452,7 +452,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Yasuo",
-      "points": 554030
+      "points": 554881
     }
   },
   {
@@ -461,7 +461,7 @@
     "role": [
       "ADC"
     ],
-    "summonerLevel": 292,
+    "summonerLevel": 293,
     "profileIconId": 508,
     "soloRank": {
       "tier": "Unranked",
@@ -477,7 +477,7 @@
       {
         "name": "Miss Fortune",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/MissFortune.png",
-        "points": 157439
+        "points": 159350
       },
       {
         "name": "Caitlyn",
@@ -522,7 +522,7 @@
       {
         "name": "Viktor",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Viktor.png",
-        "points": 115675
+        "points": 117059
       },
       {
         "name": "Sylas",
@@ -617,7 +617,7 @@
       {
         "name": "Brand",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Brand.png",
-        "points": 150589
+        "points": 151035
       },
       {
         "name": "Nautilus",
@@ -627,7 +627,7 @@
       {
         "name": "Teemo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Teemo.png",
-        "points": 114845
+        "points": 115200
       }
     ],
     "highestMasteryChamp": {
@@ -782,7 +782,7 @@
       "Top",
       "ADC"
     ],
-    "summonerLevel": 363,
+    "summonerLevel": 364,
     "profileIconId": 6500,
     "soloRank": {
       "tier": "Unranked",
@@ -798,7 +798,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Ashe.png",
-        "points": 184762
+        "points": 188733
       },
       {
         "name": "Irelia",
