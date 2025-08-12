@@ -427,7 +427,7 @@
       {
         "name": "Yasuo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.15.1/img/champion/Yasuo.png",
-        "points": 554881
+        "points": 555786
       },
       {
         "name": "Akali",
@@ -452,7 +452,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Yasuo",
-      "points": 554881
+      "points": 555786
     }
   },
   {
@@ -688,7 +688,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 494,
+    "summonerLevel": 495,
     "profileIconId": 1389,
     "soloRank": {
       "tier": "Unranked",
