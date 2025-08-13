@@ -596,7 +596,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 608,
+    "summonerLevel": 609,
     "profileIconId": 5774,
     "soloRank": {
       "tier": "Unranked",
@@ -607,7 +607,7 @@
       {
         "name": "Morgana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Morgana.png",
-        "points": 628479
+        "points": 629550
       },
       {
         "name": "Kai'Sa",
@@ -617,12 +617,12 @@
       {
         "name": "Brand",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Brand.png",
-        "points": 151035
+        "points": 152024
       },
       {
         "name": "Nautilus",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Nautilus.png",
-        "points": 144312
+        "points": 144615
       },
       {
         "name": "Teemo",
@@ -632,7 +632,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Morgana",
-      "points": 628479
+      "points": 629550
     }
   },
   {
@@ -643,7 +643,7 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 679,
+    "summonerLevel": 680,
     "profileIconId": 6883,
     "soloRank": {
       "tier": "Unranked",
@@ -714,7 +714,7 @@
       {
         "name": "Azir",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Azir.png",
-        "points": 128856
+        "points": 130404
       },
       {
         "name": "Jhin",
@@ -798,7 +798,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Ashe.png",
-        "points": 191353
+        "points": 192237
       },
       {
         "name": "Irelia",
