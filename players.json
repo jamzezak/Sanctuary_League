@@ -472,7 +472,7 @@
       {
         "name": "Jinx",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Jinx.png",
-        "points": 182763
+        "points": 184620
       },
       {
         "name": "Miss Fortune",
@@ -497,7 +497,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Jinx",
-      "points": 182763
+      "points": 184620
     }
   },
   {
@@ -644,7 +644,7 @@
       "Support"
     ],
     "summonerLevel": 681,
-    "profileIconId": 6883,
+    "profileIconId": 6334,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
