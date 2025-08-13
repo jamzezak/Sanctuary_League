@@ -51,7 +51,7 @@
       "Top",
       "Support"
     ],
-    "summonerLevel": 443,
+    "summonerLevel": 444,
     "profileIconId": 6715,
     "soloRank": {
       "tier": "Unranked",
@@ -798,7 +798,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Ashe.png",
-        "points": 199474
+        "points": 200151
       },
       {
         "name": "Irelia",
@@ -878,7 +878,7 @@
       "Support"
     ],
     "summonerLevel": 948,
-    "profileIconId": 6238,
+    "profileIconId": 6060,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
