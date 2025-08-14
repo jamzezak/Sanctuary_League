@@ -31,7 +31,7 @@
       {
         "name": "Kai'Sa",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Kaisa.png",
-        "points": 106729
+        "points": 107436
       },
       {
         "name": "Jinx",
@@ -551,7 +551,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 44,
+    "summonerLevel": 45,
     "profileIconId": 6850,
     "soloRank": {
       "tier": "Unranked",
@@ -878,7 +878,7 @@
       "Support"
     ],
     "summonerLevel": 949,
-    "profileIconId": 3184,
+    "profileIconId": 4561,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
