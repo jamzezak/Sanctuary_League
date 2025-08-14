@@ -352,7 +352,7 @@
       {
         "name": "Zed",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Zed.png",
-        "points": 307529
+        "points": 308105
       },
       {
         "name": "Graves",
@@ -878,7 +878,7 @@
       "Support"
     ],
     "summonerLevel": 949,
-    "profileIconId": 6912,
+    "profileIconId": 4548,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
