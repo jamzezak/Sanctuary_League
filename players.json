@@ -326,7 +326,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 882,
+    "summonerLevel": 883,
     "profileIconId": 2088,
     "soloRank": {
       "tier": "Unranked",
@@ -617,7 +617,7 @@
       {
         "name": "Brand",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Brand.png",
-        "points": 152024
+        "points": 153478
       },
       {
         "name": "Nautilus",
@@ -627,7 +627,7 @@
       {
         "name": "Teemo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Teemo.png",
-        "points": 115200
+        "points": 116503
       }
     ],
     "highestMasteryChamp": {
@@ -688,7 +688,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 495,
+    "summonerLevel": 496,
     "profileIconId": 1389,
     "soloRank": {
       "tier": "Unranked",
