@@ -877,7 +877,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 949,
+    "summonerLevel": 950,
     "profileIconId": 4561,
     "soloRank": {
       "tier": "Unranked",
@@ -898,7 +898,7 @@
       {
         "name": "Milio",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Milio.png",
-        "points": 396899
+        "points": 398130
       },
       {
         "name": "Sona",
