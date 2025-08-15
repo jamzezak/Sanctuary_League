@@ -5,7 +5,7 @@
     "role": [
       "ADC"
     ],
-    "summonerLevel": 373,
+    "summonerLevel": 374,
     "profileIconId": 6883,
     "soloRank": {
       "tier": "Unranked",
@@ -16,7 +16,7 @@
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Vayne.png",
-        "points": 1245287
+        "points": 1247523
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1245287
+      "points": 1247523
     }
   },
   {
@@ -160,7 +160,7 @@
       {
         "name": "Jhin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Jhin.png",
-        "points": 273053
+        "points": 274194
       },
       {
         "name": "Caitlyn",
@@ -596,7 +596,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 609,
+    "summonerLevel": 610,
     "profileIconId": 5774,
     "soloRank": {
       "tier": "Unranked",
@@ -627,7 +627,7 @@
       {
         "name": "Teemo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Teemo.png",
-        "points": 116503
+        "points": 118322
       }
     ],
     "highestMasteryChamp": {
@@ -990,7 +990,7 @@
       {
         "name": "Sylas",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Sylas.png",
-        "points": 111588
+        "points": 114369
       },
       {
         "name": "Ahri",
