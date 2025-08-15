@@ -607,7 +607,7 @@
       {
         "name": "Morgana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Morgana.png",
-        "points": 630021
+        "points": 630615
       },
       {
         "name": "Kai'Sa",
@@ -617,7 +617,7 @@
       {
         "name": "Brand",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Brand.png",
-        "points": 153478
+        "points": 154218
       },
       {
         "name": "Nautilus",
@@ -632,7 +632,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Morgana",
-      "points": 630021
+      "points": 630615
     }
   },
   {
@@ -737,7 +737,7 @@
       "Support"
     ],
     "summonerLevel": 447,
-    "profileIconId": 1109,
+    "profileIconId": 6892,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
