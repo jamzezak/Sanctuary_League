@@ -51,7 +51,7 @@
       "Top",
       "Support"
     ],
-    "summonerLevel": 444,
+    "summonerLevel": 445,
     "profileIconId": 6715,
     "soloRank": {
       "tier": "Unranked",
@@ -77,7 +77,7 @@
       {
         "name": "Rumble",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Rumble.png",
-        "points": 71576
+        "points": 72261
       },
       {
         "name": "Graves",
