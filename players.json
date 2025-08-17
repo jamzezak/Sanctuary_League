@@ -175,7 +175,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Ashe.png",
-        "points": 190210
+        "points": 191867
       }
     ],
     "highestMasteryChamp": {
@@ -326,7 +326,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 883,
+    "summonerLevel": 884,
     "profileIconId": 2088,
     "soloRank": {
       "tier": "Unranked",
@@ -347,7 +347,7 @@
       {
         "name": "Lee Sin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/LeeSin.png",
-        "points": 353898
+        "points": 354630
       },
       {
         "name": "Zed",
@@ -1076,7 +1076,7 @@
       {
         "name": "Lux",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Lux.png",
-        "points": 119994
+        "points": 120747
       },
       {
         "name": "Senna",
