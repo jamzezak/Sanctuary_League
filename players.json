@@ -622,7 +622,7 @@
       {
         "name": "Nautilus",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Nautilus.png",
-        "points": 144615
+        "points": 145615
       },
       {
         "name": "Teemo",
@@ -969,7 +969,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 322,
+    "summonerLevel": 323,
     "profileIconId": 6378,
     "soloRank": {
       "tier": "Unranked",
@@ -1071,7 +1071,7 @@
       {
         "name": "Nami",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Nami.png",
-        "points": 120463
+        "points": 121774
       },
       {
         "name": "Lux",
@@ -1096,7 +1096,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Nami",
-      "points": 120463
+      "points": 121774
     }
   }
 ]
