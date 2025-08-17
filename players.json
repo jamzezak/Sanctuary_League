@@ -191,7 +191,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 468,
+    "summonerLevel": 469,
     "profileIconId": 1636,
     "soloRank": {
       "tier": "Unranked",
@@ -828,7 +828,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 908,
+    "summonerLevel": 909,
     "profileIconId": 6871,
     "soloRank": {
       "tier": "Unranked",
@@ -849,7 +849,7 @@
       {
         "name": "Alistar",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Alistar.png",
-        "points": 212352
+        "points": 214190
       },
       {
         "name": "Thresh",
@@ -877,7 +877,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 950,
+    "summonerLevel": 951,
     "profileIconId": 4561,
     "soloRank": {
       "tier": "Unranked",
