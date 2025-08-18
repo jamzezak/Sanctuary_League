@@ -207,7 +207,7 @@
       {
         "name": "Ezreal",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Ezreal.png",
-        "points": 143297
+        "points": 144272
       },
       {
         "name": "Lee Sin",
@@ -617,7 +617,7 @@
       {
         "name": "Brand",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Brand.png",
-        "points": 155902
+        "points": 157063
       },
       {
         "name": "Nautilus",
@@ -714,7 +714,7 @@
       {
         "name": "Viktor",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Viktor.png",
-        "points": 130474
+        "points": 130941
       },
       {
         "name": "Azir",
@@ -839,7 +839,7 @@
       {
         "name": "Katarina",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Katarina.png",
-        "points": 511760
+        "points": 512763
       },
       {
         "name": "Rakan",
@@ -864,7 +864,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Katarina",
-      "points": 511760
+      "points": 512763
     }
   },
   {
