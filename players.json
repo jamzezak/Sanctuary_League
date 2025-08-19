@@ -712,14 +712,14 @@
         "points": 152614
       },
       {
+        "name": "Azir",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Azir.png",
+        "points": 131840
+      },
+      {
         "name": "Viktor",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Viktor.png",
         "points": 130941
-      },
-      {
-        "name": "Azir",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Azir.png",
-        "points": 130404
       }
     ],
     "highestMasteryChamp": {
@@ -736,7 +736,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 447,
+    "summonerLevel": 448,
     "profileIconId": 6892,
     "soloRank": {
       "tier": "Unranked",
