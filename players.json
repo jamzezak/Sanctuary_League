@@ -492,7 +492,7 @@
       {
         "name": "Lucian",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Lucian.png",
-        "points": 94426
+        "points": 95148
       }
     ],
     "highestMasteryChamp": {
@@ -878,7 +878,7 @@
       "Support"
     ],
     "summonerLevel": 951,
-    "profileIconId": 5964,
+    "profileIconId": 6203,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -888,7 +888,7 @@
       {
         "name": "Soraka",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Soraka.png",
-        "points": 871961
+        "points": 873961
       },
       {
         "name": "Shen",
@@ -913,7 +913,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Soraka",
-      "points": 871961
+      "points": 873961
     }
   },
   {
