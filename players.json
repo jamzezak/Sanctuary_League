@@ -326,7 +326,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 884,
+    "summonerLevel": 885,
     "profileIconId": 2088,
     "soloRank": {
       "tier": "Unranked",
@@ -352,7 +352,7 @@
       {
         "name": "Zed",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Zed.png",
-        "points": 308105
+        "points": 309622
       },
       {
         "name": "Graves",
@@ -596,7 +596,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 612,
+    "summonerLevel": 613,
     "profileIconId": 5774,
     "soloRank": {
       "tier": "Unranked",
@@ -688,7 +688,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 497,
+    "summonerLevel": 498,
     "profileIconId": 1389,
     "soloRank": {
       "tier": "Unranked",
@@ -712,14 +712,14 @@
         "points": 152614
       },
       {
+        "name": "Viktor",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Viktor.png",
+        "points": 134138
+      },
+      {
         "name": "Azir",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Azir.png",
         "points": 132536
-      },
-      {
-        "name": "Viktor",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Viktor.png",
-        "points": 130941
       }
     ],
     "highestMasteryChamp": {
@@ -747,7 +747,7 @@
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Aatrox.png",
-        "points": 508625
+        "points": 509507
       },
       {
         "name": "Yasuo",
@@ -772,7 +772,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 508625
+      "points": 509507
     }
   },
   {
