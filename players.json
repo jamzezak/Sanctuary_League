@@ -202,7 +202,7 @@
       {
         "name": "Jhin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Jhin.png",
-        "points": 147563
+        "points": 148185
       },
       {
         "name": "Ezreal",
@@ -227,7 +227,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Jhin",
-      "points": 147563
+      "points": 148185
     }
   },
   {
@@ -442,7 +442,7 @@
       {
         "name": "Zoe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Zoe.png",
-        "points": 186539
+        "points": 187108
       },
       {
         "name": "Yone",
@@ -482,7 +482,7 @@
       {
         "name": "Caitlyn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Caitlyn.png",
-        "points": 144062
+        "points": 145138
       },
       {
         "name": "Ashe",
@@ -607,7 +607,7 @@
       {
         "name": "Morgana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Morgana.png",
-        "points": 633371
+        "points": 634436
       },
       {
         "name": "Kai'Sa",
@@ -632,7 +632,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Morgana",
-      "points": 633371
+      "points": 634436
     }
   },
   {
@@ -643,7 +643,7 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 683,
+    "summonerLevel": 684,
     "profileIconId": 6334,
     "soloRank": {
       "tier": "Unranked",
@@ -674,7 +674,7 @@
       {
         "name": "LeBlanc",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Leblanc.png",
-        "points": 161592
+        "points": 163549
       }
     ],
     "highestMasteryChamp": {
@@ -877,7 +877,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 951,
+    "summonerLevel": 952,
     "profileIconId": 6203,
     "soloRank": {
       "tier": "Unranked",
