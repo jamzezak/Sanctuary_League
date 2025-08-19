@@ -432,7 +432,7 @@
       {
         "name": "Akali",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Akali.png",
-        "points": 228167
+        "points": 228805
       },
       {
         "name": "Vex",
@@ -674,7 +674,7 @@
       {
         "name": "LeBlanc",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Leblanc.png",
-        "points": 163549
+        "points": 165525
       }
     ],
     "highestMasteryChamp": {
