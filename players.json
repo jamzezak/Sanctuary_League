@@ -416,7 +416,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 711,
+    "summonerLevel": 712,
     "profileIconId": 6224,
     "soloRank": {
       "tier": "Unranked",
@@ -617,7 +617,7 @@
       {
         "name": "Brand",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Brand.png",
-        "points": 157063
+        "points": 157661
       },
       {
         "name": "Nautilus",
@@ -643,7 +643,7 @@
       "Mid",
       "Support"
     ],
-    "summonerLevel": 684,
+    "summonerLevel": 685,
     "profileIconId": 6334,
     "soloRank": {
       "tier": "Unranked",
@@ -674,7 +674,7 @@
       {
         "name": "LeBlanc",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Leblanc.png",
-        "points": 165525
+        "points": 168482
       }
     ],
     "highestMasteryChamp": {
