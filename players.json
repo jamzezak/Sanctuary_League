@@ -427,7 +427,7 @@
       {
         "name": "Yasuo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Yasuo.png",
-        "points": 555786
+        "points": 556828
       },
       {
         "name": "Akali",
@@ -452,7 +452,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Yasuo",
-      "points": 555786
+      "points": 556828
     }
   },
   {
