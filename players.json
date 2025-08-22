@@ -636,53 +636,6 @@
     }
   },
   {
-    "name": "Troublelift",
-    "tag": "jayce",
-    "role": [
-      "Jungle",
-      "Mid",
-      "Support"
-    ],
-    "summonerLevel": 685,
-    "profileIconId": 6334,
-    "soloRank": {
-      "tier": "Unranked",
-      "rank": "",
-      "leaguePoints": 0
-    },
-    "topChamps": [
-      {
-        "name": "Jayce",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Jayce.png",
-        "points": 252576
-      },
-      {
-        "name": "Graves",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Graves.png",
-        "points": 218079
-      },
-      {
-        "name": "Lee Sin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/LeeSin.png",
-        "points": 210649
-      },
-      {
-        "name": "Nunu & Willump",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Nunu.png",
-        "points": 173632
-      },
-      {
-        "name": "LeBlanc",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Leblanc.png",
-        "points": 169617
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Jayce",
-      "points": 252576
-    }
-  },
-  {
     "name": "thatloosecannon",
     "tag": "noFF",
     "role": [
@@ -747,7 +700,7 @@
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Aatrox.png",
-        "points": 509507
+        "points": 510427
       },
       {
         "name": "Yasuo",
@@ -772,7 +725,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 509507
+      "points": 510427
     }
   },
   {
