@@ -596,7 +596,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 613,
+    "summonerLevel": 614,
     "profileIconId": 5774,
     "soloRank": {
       "tier": "Unranked",
@@ -612,7 +612,7 @@
       {
         "name": "Kai'Sa",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Kaisa.png",
-        "points": 165026
+        "points": 166445
       },
       {
         "name": "Brand",
@@ -699,7 +699,7 @@
       {
         "name": "Sylas",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Sylas.png",
-        "points": 186355
+        "points": 186977
       },
       {
         "name": "LeBlanc",
@@ -724,7 +724,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Sylas",
-      "points": 186355
+      "points": 186977
     }
   },
   {
