@@ -416,7 +416,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 712,
+    "summonerLevel": 713,
     "profileIconId": 6224,
     "soloRank": {
       "tier": "Unranked",
@@ -427,7 +427,7 @@
       {
         "name": "Yasuo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Yasuo.png",
-        "points": 556828
+        "points": 558638
       },
       {
         "name": "Akali",
@@ -452,7 +452,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Yasuo",
-      "points": 556828
+      "points": 558638
     }
   },
   {
@@ -700,7 +700,7 @@
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Aatrox.png",
-        "points": 510427
+        "points": 511276
       },
       {
         "name": "Yasuo",
@@ -725,7 +725,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 510427
+      "points": 511276
     }
   },
   {
@@ -861,7 +861,7 @@
       {
         "name": "Janna",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Janna.png",
-        "points": 298206
+        "points": 299615
       }
     ],
     "highestMasteryChamp": {
