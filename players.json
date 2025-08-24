@@ -347,7 +347,7 @@
       {
         "name": "Lee Sin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/LeeSin.png",
-        "points": 355713
+        "points": 356151
       },
       {
         "name": "Zed",
@@ -690,7 +690,7 @@
       "Support"
     ],
     "summonerLevel": 448,
-    "profileIconId": 4663,
+    "profileIconId": 558,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -782,7 +782,7 @@
       "Support"
     ],
     "summonerLevel": 909,
-    "profileIconId": 6871,
+    "profileIconId": 6864,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
