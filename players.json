@@ -144,7 +144,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 798,
+    "summonerLevel": 799,
     "profileIconId": 6212,
     "soloRank": {
       "tier": "Unranked",
@@ -347,7 +347,7 @@
       {
         "name": "Lee Sin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/LeeSin.png",
-        "points": 354630
+        "points": 355713
       },
       {
         "name": "Zed",
