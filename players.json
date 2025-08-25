@@ -347,7 +347,7 @@
       {
         "name": "Lee Sin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/LeeSin.png",
-        "points": 356151
+        "points": 358133
       },
       {
         "name": "Zed",
@@ -689,7 +689,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 448,
+    "summonerLevel": 449,
     "profileIconId": 558,
     "soloRank": {
       "tier": "Unranked",
@@ -700,12 +700,12 @@
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Aatrox.png",
-        "points": 513045
+        "points": 514461
       },
       {
         "name": "Yasuo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Yasuo.png",
-        "points": 258709
+        "points": 260863
       },
       {
         "name": "Aphelios",
@@ -725,7 +725,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 513045
+      "points": 514461
     }
   },
   {
@@ -781,7 +781,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 909,
+    "summonerLevel": 910,
     "profileIconId": 6864,
     "soloRank": {
       "tier": "Unranked",
@@ -830,7 +830,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 955,
+    "summonerLevel": 956,
     "profileIconId": 6094,
     "soloRank": {
       "tier": "Unranked",
