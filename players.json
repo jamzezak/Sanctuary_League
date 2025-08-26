@@ -326,7 +326,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 885,
+    "summonerLevel": 886,
     "profileIconId": 2088,
     "soloRank": {
       "tier": "Unranked",
@@ -612,7 +612,7 @@
       {
         "name": "Kai'Sa",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Kaisa.png",
-        "points": 166445
+        "points": 167012
       },
       {
         "name": "Brand",
@@ -662,7 +662,7 @@
       {
         "name": "Ezreal",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Ezreal.png",
-        "points": 152614
+        "points": 153890
       },
       {
         "name": "Viktor",
@@ -705,7 +705,7 @@
       {
         "name": "Yasuo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Yasuo.png",
-        "points": 260863
+        "points": 262843
       },
       {
         "name": "Aphelios",
@@ -782,7 +782,7 @@
       "Support"
     ],
     "summonerLevel": 910,
-    "profileIconId": 6864,
+    "profileIconId": 1114,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -797,7 +797,7 @@
       {
         "name": "Rakan",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.16.1/img/champion/Rakan.png",
-        "points": 421561
+        "points": 423412
       },
       {
         "name": "Alistar",
