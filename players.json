@@ -700,7 +700,7 @@
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Aatrox.png",
-        "points": 514461
+        "points": 515032
       },
       {
         "name": "Yasuo",
@@ -725,7 +725,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 514461
+      "points": 515032
     }
   },
   {
@@ -831,7 +831,7 @@
       "Support"
     ],
     "summonerLevel": 957,
-    "profileIconId": 6094,
+    "profileIconId": 6932,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
