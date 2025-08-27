@@ -160,7 +160,7 @@
       {
         "name": "Jhin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Jhin.png",
-        "points": 274850
+        "points": 275543
       },
       {
         "name": "Caitlyn",
@@ -427,7 +427,7 @@
       {
         "name": "Yasuo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Yasuo.png",
-        "points": 559449
+        "points": 560985
       },
       {
         "name": "Akali",
@@ -437,7 +437,7 @@
       {
         "name": "Vex",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Vex.png",
-        "points": 223436
+        "points": 224341
       },
       {
         "name": "Zoe",
@@ -452,7 +452,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Yasuo",
-      "points": 559449
+      "points": 560985
     }
   },
   {
@@ -782,7 +782,7 @@
       "Support"
     ],
     "summonerLevel": 910,
-    "profileIconId": 1114,
+    "profileIconId": 6864,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -797,7 +797,7 @@
       {
         "name": "Rakan",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Rakan.png",
-        "points": 423412
+        "points": 424091
       },
       {
         "name": "Alistar",
@@ -830,7 +830,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 956,
+    "summonerLevel": 957,
     "profileIconId": 6094,
     "soloRank": {
       "tier": "Unranked",
