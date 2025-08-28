@@ -690,7 +690,7 @@
       "Support"
     ],
     "summonerLevel": 449,
-    "profileIconId": 558,
+    "profileIconId": 6906,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -841,7 +841,7 @@
       {
         "name": "Soraka",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Soraka.png",
-        "points": 875333
+        "points": 876768
       },
       {
         "name": "Shen",
@@ -866,7 +866,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Soraka",
-      "points": 875333
+      "points": 876768
     }
   },
   {
