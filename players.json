@@ -607,7 +607,7 @@
       {
         "name": "Morgana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Morgana.png",
-        "points": 636085
+        "points": 636997
       },
       {
         "name": "Kai'Sa",
@@ -627,12 +627,12 @@
       {
         "name": "Teemo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Teemo.png",
-        "points": 120742
+        "points": 121645
       }
     ],
     "highestMasteryChamp": {
       "name": "Morgana",
-      "points": 636085
+      "points": 636997
     }
   },
   {
@@ -830,7 +830,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 957,
+    "summonerLevel": 958,
     "profileIconId": 6932,
     "soloRank": {
       "tier": "Unranked",
