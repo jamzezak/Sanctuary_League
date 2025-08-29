@@ -617,7 +617,7 @@
       {
         "name": "Brand",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Brand.png",
-        "points": 158953
+        "points": 159692
       },
       {
         "name": "Nautilus",
@@ -830,7 +830,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 958,
+    "summonerLevel": 959,
     "profileIconId": 6932,
     "soloRank": {
       "tier": "Unranked",
