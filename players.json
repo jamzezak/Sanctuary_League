@@ -696,37 +696,8 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [
-      {
-        "name": "Aatrox",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Aatrox.png",
-        "points": 516792
-      },
-      {
-        "name": "Yasuo",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Yasuo.png",
-        "points": 263636
-      },
-      {
-        "name": "Aphelios",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Aphelios.png",
-        "points": 108612
-      },
-      {
-        "name": "Yone",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Yone.png",
-        "points": 103367
-      },
-      {
-        "name": "Jhin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Jhin.png",
-        "points": 91526
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Aatrox",
-      "points": 516792
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   },
   {
     "name": "Kaaz",
@@ -830,8 +801,8 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 959,
-    "profileIconId": 6275,
+    "summonerLevel": 960,
+    "profileIconId": 6066,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
