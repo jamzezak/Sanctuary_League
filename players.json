@@ -118,7 +118,7 @@
       {
         "name": "Gangplank",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Gangplank.png",
-        "points": 351467
+        "points": 352723
       },
       {
         "name": "Darius",
@@ -696,8 +696,37 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [],
-    "highestMasteryChamp": null
+    "topChamps": [
+      {
+        "name": "Aatrox",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Aatrox.png",
+        "points": 516792
+      },
+      {
+        "name": "Yasuo",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Yasuo.png",
+        "points": 263636
+      },
+      {
+        "name": "Aphelios",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Aphelios.png",
+        "points": 108612
+      },
+      {
+        "name": "Yone",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Yone.png",
+        "points": 103367
+      },
+      {
+        "name": "Jhin",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Jhin.png",
+        "points": 91526
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Aatrox",
+      "points": 516792
+    }
   },
   {
     "name": "Kaaz",
