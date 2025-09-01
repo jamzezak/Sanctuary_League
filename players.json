@@ -487,7 +487,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Ashe.png",
-        "points": 102912
+        "points": 104412
       },
       {
         "name": "Lucian",
@@ -506,7 +506,7 @@
     "role": [
       "Top"
     ],
-    "summonerLevel": 247,
+    "summonerLevel": 248,
     "profileIconId": 5408,
     "soloRank": {
       "tier": "Unranked",
@@ -841,7 +841,7 @@
       {
         "name": "Soraka",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Soraka.png",
-        "points": 876768
+        "points": 877520
       },
       {
         "name": "Shen",
@@ -866,7 +866,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Soraka",
-      "points": 876768
+      "points": 877520
     }
   },
   {
