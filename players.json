@@ -65,14 +65,14 @@
         "points": 102432
       },
       {
+        "name": "Renekton",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Renekton.png",
+        "points": 91895
+      },
+      {
         "name": "Thresh",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Thresh.png",
         "points": 89439
-      },
-      {
-        "name": "Renekton",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Renekton.png",
-        "points": 88361
       },
       {
         "name": "Rumble",
@@ -472,7 +472,7 @@
       {
         "name": "Jinx",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Jinx.png",
-        "points": 184620
+        "points": 185363
       },
       {
         "name": "Miss Fortune",
@@ -497,7 +497,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Jinx",
-      "points": 184620
+      "points": 185363
     }
   },
   {
@@ -627,7 +627,7 @@
       {
         "name": "Teemo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Teemo.png",
-        "points": 121645
+        "points": 122613
       }
     ],
     "highestMasteryChamp": {
@@ -700,7 +700,7 @@
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Aatrox.png",
-        "points": 516792
+        "points": 517972
       },
       {
         "name": "Yasuo",
@@ -725,7 +725,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 516792
+      "points": 517972
     }
   },
   {
