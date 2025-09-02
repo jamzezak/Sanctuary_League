@@ -432,7 +432,7 @@
       {
         "name": "Akali",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Akali.png",
-        "points": 228805
+        "points": 229511
       },
       {
         "name": "Vex",
@@ -689,8 +689,8 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 451,
-    "profileIconId": 6906,
+    "summonerLevel": 452,
+    "profileIconId": 3461,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -751,7 +751,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Ashe.png",
-        "points": 202792
+        "points": 204366
       },
       {
         "name": "Irelia",
