@@ -830,7 +830,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 960,
+    "summonerLevel": 961,
     "profileIconId": 6066,
     "soloRank": {
       "tier": "Unranked",
@@ -1029,7 +1029,7 @@
       {
         "name": "Lux",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Lux.png",
-        "points": 122285
+        "points": 124134
       },
       {
         "name": "Senna",
