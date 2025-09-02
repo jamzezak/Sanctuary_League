@@ -596,7 +596,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 617,
+    "summonerLevel": 618,
     "profileIconId": 5774,
     "soloRank": {
       "tier": "Unranked",
@@ -627,7 +627,7 @@
       {
         "name": "Teemo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Teemo.png",
-        "points": 122613
+        "points": 124182
       }
     ],
     "highestMasteryChamp": {
