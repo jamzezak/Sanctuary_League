@@ -51,7 +51,7 @@
       "Top",
       "Support"
     ],
-    "summonerLevel": 447,
+    "summonerLevel": 448,
     "profileIconId": 6715,
     "soloRank": {
       "tier": "Unranked",
@@ -416,7 +416,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 714,
+    "summonerLevel": 715,
     "profileIconId": 6224,
     "soloRank": {
       "tier": "Unranked",
@@ -447,7 +447,7 @@
       {
         "name": "Yone",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Yone.png",
-        "points": 129448
+        "points": 130342
       }
     ],
     "highestMasteryChamp": {
@@ -1024,7 +1024,7 @@
       {
         "name": "Nami",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Nami.png",
-        "points": 123545
+        "points": 124441
       },
       {
         "name": "Lux",
@@ -1049,7 +1049,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Nami",
-      "points": 123545
+      "points": 124441
     }
   }
 ]
