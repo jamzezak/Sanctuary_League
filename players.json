@@ -108,7 +108,7 @@
       {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Aurora.png",
-        "points": 382808
+        "points": 383700
       },
       {
         "name": "Sett",
@@ -133,7 +133,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aurora",
-      "points": 382808
+      "points": 383700
     }
   },
   {
@@ -607,7 +607,7 @@
       {
         "name": "Morgana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Morgana.png",
-        "points": 648572
+        "points": 650152
       },
       {
         "name": "Kai'Sa",
@@ -632,7 +632,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Morgana",
-      "points": 648572
+      "points": 650152
     }
   },
   {
