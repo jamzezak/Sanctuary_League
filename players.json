@@ -175,7 +175,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Ashe.png",
-        "points": 191867
+        "points": 193421
       }
     ],
     "highestMasteryChamp": {
@@ -427,7 +427,7 @@
       {
         "name": "Yasuo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Yasuo.png",
-        "points": 560985
+        "points": 562533
       },
       {
         "name": "Akali",
@@ -452,7 +452,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Yasuo",
-      "points": 560985
+      "points": 562533
     }
   },
   {
@@ -751,7 +751,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Ashe.png",
-        "points": 211511
+        "points": 212633
       },
       {
         "name": "Irelia",
@@ -831,7 +831,7 @@
       "Support"
     ],
     "summonerLevel": 961,
-    "profileIconId": 6216,
+    "profileIconId": 5981,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
