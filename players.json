@@ -144,7 +144,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 799,
+    "summonerLevel": 800,
     "profileIconId": 6212,
     "soloRank": {
       "tier": "Unranked",
@@ -155,7 +155,7 @@
       {
         "name": "Miss Fortune",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/MissFortune.png",
-        "points": 375649
+        "points": 377174
       },
       {
         "name": "Jhin",
@@ -180,7 +180,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Miss Fortune",
-      "points": 375649
+      "points": 377174
     }
   },
   {
@@ -347,7 +347,7 @@
       {
         "name": "Lee Sin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/LeeSin.png",
-        "points": 359263
+        "points": 361322
       },
       {
         "name": "Zed",
@@ -402,7 +402,7 @@
       {
         "name": "Orianna",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Orianna.png",
-        "points": 141519
+        "points": 143234
       }
     ],
     "highestMasteryChamp": {
@@ -667,7 +667,7 @@
       {
         "name": "Azir",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Azir.png",
-        "points": 136100
+        "points": 136920
       },
       {
         "name": "Viktor",
@@ -751,7 +751,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Ashe.png",
-        "points": 212633
+        "points": 213360
       },
       {
         "name": "Irelia",
@@ -831,7 +831,7 @@
       "Support"
     ],
     "summonerLevel": 961,
-    "profileIconId": 5981,
+    "profileIconId": 6917,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
