@@ -106,14 +106,14 @@
     },
     "topChamps": [
       {
+        "name": "Sett",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Sett.png",
+        "points": 383932
+      },
+      {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Aurora.png",
         "points": 383700
-      },
-      {
-        "name": "Sett",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Sett.png",
-        "points": 382652
       },
       {
         "name": "Gangplank",
@@ -132,8 +132,8 @@
       }
     ],
     "highestMasteryChamp": {
-      "name": "Aurora",
-      "points": 383700
+      "name": "Sett",
+      "points": 383932
     }
   },
   {
