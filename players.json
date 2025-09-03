@@ -596,7 +596,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 618,
+    "summonerLevel": 619,
     "profileIconId": 5774,
     "soloRank": {
       "tier": "Unranked",
@@ -617,12 +617,12 @@
       {
         "name": "Brand",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Brand.png",
-        "points": 160856
+        "points": 162605
       },
       {
         "name": "Nautilus",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Nautilus.png",
-        "points": 147695
+        "points": 149140
       },
       {
         "name": "Teemo",
