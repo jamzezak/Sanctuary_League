@@ -641,7 +641,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 503,
+    "summonerLevel": 504,
     "profileIconId": 1389,
     "soloRank": {
       "tier": "Unranked",
@@ -657,7 +657,7 @@
       {
         "name": "LeBlanc",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Leblanc.png",
-        "points": 180751
+        "points": 181880
       },
       {
         "name": "Ezreal",
