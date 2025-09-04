@@ -402,7 +402,7 @@
       {
         "name": "Orianna",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Orianna.png",
-        "points": 143234
+        "points": 144212
       }
     ],
     "highestMasteryChamp": {
@@ -461,7 +461,7 @@
     "role": [
       "ADC"
     ],
-    "summonerLevel": 293,
+    "summonerLevel": 294,
     "profileIconId": 508,
     "soloRank": {
       "tier": "Unranked",
@@ -472,7 +472,7 @@
       {
         "name": "Jinx",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Jinx.png",
-        "points": 185363
+        "points": 186791
       },
       {
         "name": "Miss Fortune",
@@ -497,7 +497,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Jinx",
-      "points": 185363
+      "points": 186791
     }
   },
   {
@@ -617,7 +617,7 @@
       {
         "name": "Brand",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Brand.png",
-        "points": 162605
+        "points": 163346
       },
       {
         "name": "Nautilus",
@@ -831,7 +831,7 @@
       "Support"
     ],
     "summonerLevel": 962,
-    "profileIconId": 6238,
+    "profileIconId": 6923,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
