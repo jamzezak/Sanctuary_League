@@ -191,7 +191,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 469,
+    "summonerLevel": 470,
     "profileIconId": 1636,
     "soloRank": {
       "tier": "Unranked",
@@ -217,7 +217,7 @@
       {
         "name": "Draven",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Draven.png",
-        "points": 131623
+        "points": 132646
       },
       {
         "name": "Riven",
@@ -596,7 +596,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 619,
+    "summonerLevel": 620,
     "profileIconId": 5774,
     "soloRank": {
       "tier": "Unranked",
@@ -622,7 +622,7 @@
       {
         "name": "Nautilus",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Nautilus.png",
-        "points": 149140
+        "points": 150117
       },
       {
         "name": "Teemo",
