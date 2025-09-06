@@ -487,7 +487,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Ashe.png",
-        "points": 104412
+        "points": 106011
       },
       {
         "name": "Lucian",
@@ -690,7 +690,7 @@
       "Support"
     ],
     "summonerLevel": 453,
-    "profileIconId": 6906,
+    "profileIconId": 898,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -831,7 +831,7 @@
       "Support"
     ],
     "summonerLevel": 963,
-    "profileIconId": 1629,
+    "profileIconId": 6808,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
