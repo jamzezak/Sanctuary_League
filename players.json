@@ -106,14 +106,14 @@
     },
     "topChamps": [
       {
+        "name": "Aurora",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Aurora.png",
+        "points": 384776
+      },
+      {
         "name": "Sett",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Sett.png",
         "points": 383932
-      },
-      {
-        "name": "Aurora",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Aurora.png",
-        "points": 383700
       },
       {
         "name": "Gangplank",
@@ -132,8 +132,8 @@
       }
     ],
     "highestMasteryChamp": {
-      "name": "Sett",
-      "points": 383932
+      "name": "Aurora",
+      "points": 384776
     }
   },
   {
@@ -700,7 +700,7 @@
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Aatrox.png",
-        "points": 520164
+        "points": 520894
       },
       {
         "name": "Yasuo",
@@ -725,7 +725,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 520164
+      "points": 520894
     }
   },
   {
@@ -831,7 +831,7 @@
       "Support"
     ],
     "summonerLevel": 962,
-    "profileIconId": 6094,
+    "profileIconId": 6036,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
