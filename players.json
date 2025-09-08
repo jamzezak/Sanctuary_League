@@ -366,51 +366,6 @@
     }
   },
   {
-    "name": "RYL Chaos",
-    "tag": "RYL",
-    "role": [
-      "Mid"
-    ],
-    "summonerLevel": 585,
-    "profileIconId": 6434,
-    "soloRank": {
-      "tier": "Unranked",
-      "rank": "",
-      "leaguePoints": 0
-    },
-    "topChamps": [
-      {
-        "name": "Zed",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Zed.png",
-        "points": 190140
-      },
-      {
-        "name": "Yasuo",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Yasuo.png",
-        "points": 169828
-      },
-      {
-        "name": "Lee Sin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/LeeSin.png",
-        "points": 146941
-      },
-      {
-        "name": "Ezreal",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Ezreal.png",
-        "points": 145677
-      },
-      {
-        "name": "Orianna",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Orianna.png",
-        "points": 144212
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Zed",
-      "points": 190140
-    }
-  },
-  {
     "name": "DargonOwO",
     "tag": "yiff",
     "role": [
@@ -700,7 +655,7 @@
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Aatrox.png",
-        "points": 522724
+        "points": 524132
       },
       {
         "name": "Yasuo",
@@ -725,7 +680,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 522724
+      "points": 524132
     }
   },
   {
