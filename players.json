@@ -113,7 +113,7 @@
       {
         "name": "Sett",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Sett.png",
-        "points": 383932
+        "points": 384660
       },
       {
         "name": "Gangplank",
@@ -914,52 +914,6 @@
     "highestMasteryChamp": {
       "name": "Syndra",
       "points": 279567
-    }
-  },
-  {
-    "name": "噴泉雷射",
-    "tag": "2000",
-    "role": [
-      "Mid",
-      "ADC"
-    ],
-    "summonerLevel": 517,
-    "profileIconId": 6912,
-    "soloRank": {
-      "tier": "Unranked",
-      "rank": "",
-      "leaguePoints": 0
-    },
-    "topChamps": [
-      {
-        "name": "Miss Fortune",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/MissFortune.png",
-        "points": 601012
-      },
-      {
-        "name": "Ashe",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Ashe.png",
-        "points": 282563
-      },
-      {
-        "name": "Yone",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Yone.png",
-        "points": 252951
-      },
-      {
-        "name": "Aphelios",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Aphelios.png",
-        "points": 154038
-      },
-      {
-        "name": "Senna",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Senna.png",
-        "points": 147294
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Miss Fortune",
-      "points": 601012
     }
   },
   {
