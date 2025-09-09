@@ -513,8 +513,37 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [],
-    "highestMasteryChamp": null
+    "topChamps": [
+      {
+        "name": "Viego",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Viego.png",
+        "points": 28584
+      },
+      {
+        "name": "Kayn",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Kayn.png",
+        "points": 20283
+      },
+      {
+        "name": "Xin Zhao",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/XinZhao.png",
+        "points": 19470
+      },
+      {
+        "name": "Jarvan IV",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/JarvanIV.png",
+        "points": 8961
+      },
+      {
+        "name": "Caitlyn",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.17.1/img/champion/Caitlyn.png",
+        "points": 7895
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Viego",
+      "points": 28584
+    }
   },
   {
     "name": "Barry",
