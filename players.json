@@ -326,7 +326,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 888,
+    "summonerLevel": 889,
     "profileIconId": 2088,
     "soloRank": {
       "tier": "Unranked",
@@ -551,7 +551,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 620,
+    "summonerLevel": 621,
     "profileIconId": 5774,
     "soloRank": {
       "tier": "Unranked",
@@ -596,7 +596,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 504,
+    "summonerLevel": 505,
     "profileIconId": 745,
     "soloRank": {
       "tier": "Unranked",
@@ -644,7 +644,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 453,
+    "summonerLevel": 454,
     "profileIconId": 3461,
     "soloRank": {
       "tier": "Unranked",
@@ -655,7 +655,7 @@
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Aatrox.png",
-        "points": 525279
+        "points": 527413
       },
       {
         "name": "Yasuo",
@@ -680,7 +680,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 525279
+      "points": 527413
     }
   },
   {
