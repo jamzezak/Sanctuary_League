@@ -51,7 +51,7 @@
       "Top",
       "Support"
     ],
-    "summonerLevel": 449,
+    "summonerLevel": 450,
     "profileIconId": 6740,
     "soloRank": {
       "tier": "Unranked",
@@ -108,7 +108,7 @@
       {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Aurora.png",
-        "points": 385416
+        "points": 386242
       },
       {
         "name": "Sett",
@@ -133,7 +133,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aurora",
-      "points": 385416
+      "points": 386242
     }
   },
   {
@@ -597,7 +597,7 @@
       "Mid"
     ],
     "summonerLevel": 504,
-    "profileIconId": 1389,
+    "profileIconId": 745,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -645,7 +645,7 @@
       "Support"
     ],
     "summonerLevel": 453,
-    "profileIconId": 898,
+    "profileIconId": 3461,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -655,7 +655,7 @@
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Aatrox.png",
-        "points": 524132
+        "points": 525279
       },
       {
         "name": "Yasuo",
@@ -680,7 +680,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 524132
+      "points": 525279
     }
   },
   {
