@@ -80,9 +80,9 @@
         "points": 72912
       },
       {
-        "name": "Graves",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Graves.png",
-        "points": 68444
+        "name": "Amumu",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Amumu.png",
+        "points": 69564
       }
     ],
     "highestMasteryChamp": {
@@ -160,7 +160,7 @@
       {
         "name": "Jhin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Jhin.png",
-        "points": 275543
+        "points": 277130
       },
       {
         "name": "Caitlyn",
