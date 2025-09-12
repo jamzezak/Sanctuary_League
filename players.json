@@ -562,7 +562,7 @@
       {
         "name": "Morgana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Morgana.png",
-        "points": 651255
+        "points": 651890
       },
       {
         "name": "Kai'Sa",
@@ -587,7 +587,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Morgana",
-      "points": 651255
+      "points": 651890
     }
   },
   {
