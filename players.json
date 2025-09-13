@@ -144,7 +144,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 800,
+    "summonerLevel": 801,
     "profileIconId": 6212,
     "soloRank": {
       "tier": "Unranked",
@@ -236,7 +236,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 254,
+    "summonerLevel": 255,
     "profileIconId": 691,
     "soloRank": {
       "tier": "Unranked",
@@ -371,7 +371,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 715,
+    "summonerLevel": 716,
     "profileIconId": 6224,
     "soloRank": {
       "tier": "Unranked",
@@ -785,8 +785,8 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 964,
-    "profileIconId": 6941,
+    "summonerLevel": 965,
+    "profileIconId": 4418,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
