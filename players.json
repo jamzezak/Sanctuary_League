@@ -558,8 +558,37 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [],
-    "highestMasteryChamp": null
+    "topChamps": [
+      {
+        "name": "Morgana",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Morgana.png",
+        "points": 651890
+      },
+      {
+        "name": "Kai'Sa",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Kaisa.png",
+        "points": 168053
+      },
+      {
+        "name": "Brand",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Brand.png",
+        "points": 167125
+      },
+      {
+        "name": "Nautilus",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Nautilus.png",
+        "points": 150117
+      },
+      {
+        "name": "Teemo",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Teemo.png",
+        "points": 124182
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Morgana",
+      "points": 651890
+    }
   },
   {
     "name": "thatloosecannon",
@@ -900,7 +929,36 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [],
-    "highestMasteryChamp": null
+    "topChamps": [
+      {
+        "name": "Nami",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Nami.png",
+        "points": 124441
+      },
+      {
+        "name": "Lux",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Lux.png",
+        "points": 124134
+      },
+      {
+        "name": "Senna",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Senna.png",
+        "points": 91283
+      },
+      {
+        "name": "Leona",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Leona.png",
+        "points": 87845
+      },
+      {
+        "name": "Syndra",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Syndra.png",
+        "points": 78854
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Nami",
+      "points": 124441
+    }
   }
 ]
