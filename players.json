@@ -655,7 +655,7 @@
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Aatrox.png",
-        "points": 528798
+        "points": 529672
       },
       {
         "name": "Yasuo",
@@ -670,7 +670,7 @@
       {
         "name": "Yone",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Yone.png",
-        "points": 103367
+        "points": 104989
       },
       {
         "name": "Jhin",
@@ -680,7 +680,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 528798
+      "points": 529672
     }
   },
   {
