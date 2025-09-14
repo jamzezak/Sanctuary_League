@@ -326,7 +326,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 889,
+    "summonerLevel": 890,
     "profileIconId": 2088,
     "soloRank": {
       "tier": "Unranked",
@@ -337,7 +337,7 @@
       {
         "name": "Kayn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Kayn.png",
-        "points": 655266
+        "points": 657042
       },
       {
         "name": "Yasuo",
@@ -347,7 +347,7 @@
       {
         "name": "Lee Sin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/LeeSin.png",
-        "points": 362160
+        "points": 362908
       },
       {
         "name": "Zed",
@@ -362,7 +362,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Kayn",
-      "points": 655266
+      "points": 657042
     }
   },
   {
@@ -382,7 +382,7 @@
       {
         "name": "Yasuo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Yasuo.png",
-        "points": 562533
+        "points": 563335
       },
       {
         "name": "Akali",
@@ -392,7 +392,7 @@
       {
         "name": "Vex",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Vex.png",
-        "points": 224341
+        "points": 226395
       },
       {
         "name": "Zoe",
@@ -407,7 +407,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Yasuo",
-      "points": 562533
+      "points": 563335
     }
   },
   {
@@ -622,7 +622,7 @@
       {
         "name": "Azir",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Azir.png",
-        "points": 137464
+        "points": 138982
       },
       {
         "name": "Viktor",
