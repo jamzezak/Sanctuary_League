@@ -427,7 +427,7 @@
       {
         "name": "Jinx",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Jinx.png",
-        "points": 186791
+        "points": 188549
       },
       {
         "name": "Miss Fortune",
@@ -452,7 +452,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Jinx",
-      "points": 186791
+      "points": 188549
     }
   },
   {
@@ -699,14 +699,14 @@
     },
     "topChamps": [
       {
+        "name": "Ashe",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Ashe.png",
+        "points": 218346
+      },
+      {
         "name": "Gnar",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Gnar.png",
         "points": 217075
-      },
-      {
-        "name": "Ashe",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Ashe.png",
-        "points": 216687
       },
       {
         "name": "Irelia",
@@ -725,8 +725,8 @@
       }
     ],
     "highestMasteryChamp": {
-      "name": "Gnar",
-      "points": 217075
+      "name": "Ashe",
+      "points": 218346
     }
   },
   {
@@ -786,7 +786,7 @@
       "Support"
     ],
     "summonerLevel": 966,
-    "profileIconId": 6418,
+    "profileIconId": 6283,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
