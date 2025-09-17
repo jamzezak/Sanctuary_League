@@ -58,8 +58,37 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [],
-    "highestMasteryChamp": null
+    "topChamps": [
+      {
+        "name": "Tristana",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Tristana.png",
+        "points": 102432
+      },
+      {
+        "name": "Renekton",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Renekton.png",
+        "points": 93480
+      },
+      {
+        "name": "Thresh",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Thresh.png",
+        "points": 89439
+      },
+      {
+        "name": "Rumble",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Rumble.png",
+        "points": 72912
+      },
+      {
+        "name": "Amumu",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Amumu.png",
+        "points": 70277
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Tristana",
+      "points": 102432
+    }
   },
   {
     "name": "TheOddCanuck",
@@ -185,37 +214,8 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [
-      {
-        "name": "Udyr",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Udyr.png",
-        "points": 172943
-      },
-      {
-        "name": "Lee Sin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/LeeSin.png",
-        "points": 124086
-      },
-      {
-        "name": "Kha'Zix",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Khazix.png",
-        "points": 77944
-      },
-      {
-        "name": "Amumu",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Amumu.png",
-        "points": 75072
-      },
-      {
-        "name": "Rengar",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Rengar.png",
-        "points": 74792
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Udyr",
-      "points": 172943
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   },
   {
     "name": "Fat",
@@ -320,37 +320,8 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [
-      {
-        "name": "Yasuo",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Yasuo.png",
-        "points": 564808
-      },
-      {
-        "name": "Akali",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Akali.png",
-        "points": 229511
-      },
-      {
-        "name": "Vex",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Vex.png",
-        "points": 226395
-      },
-      {
-        "name": "Zoe",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Zoe.png",
-        "points": 188687
-      },
-      {
-        "name": "Yone",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Yone.png",
-        "points": 130342
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Yasuo",
-      "points": 564808
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   },
   {
     "name": "LFO Snoopeeyy",
@@ -471,37 +442,8 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [
-      {
-        "name": "Morgana",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Morgana.png",
-        "points": 651890
-      },
-      {
-        "name": "Kai'Sa",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Kaisa.png",
-        "points": 168053
-      },
-      {
-        "name": "Brand",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Brand.png",
-        "points": 167125
-      },
-      {
-        "name": "Nautilus",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Nautilus.png",
-        "points": 150117
-      },
-      {
-        "name": "Teemo",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Teemo.png",
-        "points": 124182
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Morgana",
-      "points": 651890
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   },
   {
     "name": "thatloosecannon",
@@ -656,37 +598,8 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [
-      {
-        "name": "Katarina",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Katarina.png",
-        "points": 512763
-      },
-      {
-        "name": "Rakan",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Rakan.png",
-        "points": 424091
-      },
-      {
-        "name": "Alistar",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Alistar.png",
-        "points": 214718
-      },
-      {
-        "name": "Thresh",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Thresh.png",
-        "points": 200882
-      },
-      {
-        "name": "Brand",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Brand.png",
-        "points": 194197
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Katarina",
-      "points": 512763
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   },
   {
     "name": "Lelouch",
@@ -797,37 +710,8 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [
-      {
-        "name": "Syndra",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Syndra.png",
-        "points": 279567
-      },
-      {
-        "name": "Hwei",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Hwei.png",
-        "points": 139464
-      },
-      {
-        "name": "Sylas",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Sylas.png",
-        "points": 114369
-      },
-      {
-        "name": "Ahri",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Ahri.png",
-        "points": 64866
-      },
-      {
-        "name": "Corki",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Corki.png",
-        "points": 58694
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Syndra",
-      "points": 279567
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   },
   {
     "name": "HappiestHellion",
@@ -842,7 +726,36 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [],
-    "highestMasteryChamp": null
+    "topChamps": [
+      {
+        "name": "Nami",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Nami.png",
+        "points": 124441
+      },
+      {
+        "name": "Lux",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Lux.png",
+        "points": 124134
+      },
+      {
+        "name": "Senna",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Senna.png",
+        "points": 91283
+      },
+      {
+        "name": "Leona",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Leona.png",
+        "points": 87845
+      },
+      {
+        "name": "Syndra",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Syndra.png",
+        "points": 78854
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Nami",
+      "points": 124441
+    }
   }
 ]
