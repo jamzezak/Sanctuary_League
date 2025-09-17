@@ -108,7 +108,7 @@
       {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Aurora.png",
-        "points": 392280
+        "points": 396001
       },
       {
         "name": "Sett",
@@ -133,7 +133,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aurora",
-      "points": 392280
+      "points": 396001
     }
   },
   {
@@ -288,8 +288,37 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [],
-    "highestMasteryChamp": null
+    "topChamps": [
+      {
+        "name": "Lulu",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Lulu.png",
+        "points": 151536
+      },
+      {
+        "name": "Annie",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Annie.png",
+        "points": 140650
+      },
+      {
+        "name": "Sejuani",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Sejuani.png",
+        "points": 129786
+      },
+      {
+        "name": "Nautilus",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Nautilus.png",
+        "points": 119859
+      },
+      {
+        "name": "Leona",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Leona.png",
+        "points": 117100
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Lulu",
+      "points": 151536
+    }
   },
   {
     "name": "Drakar",
@@ -349,8 +378,37 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [],
-    "highestMasteryChamp": null
+    "topChamps": [
+      {
+        "name": "Yasuo",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Yasuo.png",
+        "points": 564808
+      },
+      {
+        "name": "Akali",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Akali.png",
+        "points": 229511
+      },
+      {
+        "name": "Vex",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Vex.png",
+        "points": 226395
+      },
+      {
+        "name": "Zoe",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Zoe.png",
+        "points": 188687
+      },
+      {
+        "name": "Yone",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Yone.png",
+        "points": 130342
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Yasuo",
+      "points": 564808
+    }
   },
   {
     "name": "LFO Snoopeeyy",
@@ -410,37 +468,8 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [
-      {
-        "name": "Vladimir",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Vladimir.png",
-        "points": 272701
-      },
-      {
-        "name": "Viktor",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Viktor.png",
-        "points": 117775
-      },
-      {
-        "name": "Sylas",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Sylas.png",
-        "points": 106229
-      },
-      {
-        "name": "Malzahar",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Malzahar.png",
-        "points": 89107
-      },
-      {
-        "name": "Garen",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Garen.png",
-        "points": 78058
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Vladimir",
-      "points": 272701
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   },
   {
     "name": "Gilkellrider2",
@@ -685,37 +714,8 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [
-      {
-        "name": "Katarina",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Katarina.png",
-        "points": 512763
-      },
-      {
-        "name": "Rakan",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Rakan.png",
-        "points": 424091
-      },
-      {
-        "name": "Alistar",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Alistar.png",
-        "points": 214718
-      },
-      {
-        "name": "Thresh",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Thresh.png",
-        "points": 200882
-      },
-      {
-        "name": "Brand",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Brand.png",
-        "points": 194197
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Katarina",
-      "points": 512763
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   },
   {
     "name": "Lelouch",
