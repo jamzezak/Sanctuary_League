@@ -5,7 +5,7 @@
     "role": [
       "ADC"
     ],
-    "summonerLevel": 374,
+    "summonerLevel": 375,
     "profileIconId": 6883,
     "soloRank": {
       "tier": "Unranked",
@@ -16,7 +16,7 @@
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Vayne.png",
-        "points": 1252134
+        "points": 1252852
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1252134
+      "points": 1252852
     }
   },
   {
@@ -67,7 +67,7 @@
       {
         "name": "Renekton",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Renekton.png",
-        "points": 93480
+        "points": 94339
       },
       {
         "name": "Thresh",
@@ -816,7 +816,7 @@
       {
         "name": "Janna",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Janna.png",
-        "points": 299615
+        "points": 300415
       }
     ],
     "highestMasteryChamp": {
