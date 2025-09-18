@@ -337,7 +337,7 @@
       {
         "name": "Kayn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Kayn.png",
-        "points": 657439
+        "points": 657883
       },
       {
         "name": "Yasuo",
@@ -362,7 +362,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Kayn",
-      "points": 657439
+      "points": 657883
     }
   },
   {
@@ -427,7 +427,7 @@
       {
         "name": "Jinx",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Jinx.png",
-        "points": 189140
+        "points": 189544
       },
       {
         "name": "Miss Fortune",
@@ -437,7 +437,7 @@
       {
         "name": "Caitlyn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Caitlyn.png",
-        "points": 146054
+        "points": 147124
       },
       {
         "name": "Ashe",
@@ -452,7 +452,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Jinx",
-      "points": 189140
+      "points": 189544
     }
   },
   {
