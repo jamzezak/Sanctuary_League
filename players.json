@@ -67,7 +67,7 @@
       {
         "name": "Renekton",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Renekton.png",
-        "points": 94339
+        "points": 96380
       },
       {
         "name": "Thresh",
@@ -77,7 +77,7 @@
       {
         "name": "Rumble",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Rumble.png",
-        "points": 72912
+        "points": 74381
       },
       {
         "name": "Amumu",
@@ -175,7 +175,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Ashe.png",
-        "points": 194062
+        "points": 195635
       }
     ],
     "highestMasteryChamp": {
@@ -337,7 +337,7 @@
       {
         "name": "Kayn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Kayn.png",
-        "points": 660913
+        "points": 661740
       },
       {
         "name": "Yasuo",
@@ -362,7 +362,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Kayn",
-      "points": 660913
+      "points": 661740
     }
   },
   {
@@ -622,7 +622,7 @@
       {
         "name": "Azir",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Azir.png",
-        "points": 138982
+        "points": 140269
       },
       {
         "name": "Viktor",
