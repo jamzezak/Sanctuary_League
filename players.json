@@ -392,7 +392,7 @@
       {
         "name": "Vex",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Vex.png",
-        "points": 226395
+        "points": 228221
       },
       {
         "name": "Zoe",
@@ -402,7 +402,7 @@
       {
         "name": "Yone",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Yone.png",
-        "points": 130342
+        "points": 131699
       }
     ],
     "highestMasteryChamp": {
@@ -923,7 +923,7 @@
       "Support"
     ],
     "summonerLevel": 367,
-    "profileIconId": 5860,
+    "profileIconId": 6622,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
