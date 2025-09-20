@@ -34,9 +34,9 @@
         "points": 107436
       },
       {
-        "name": "Jinx",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Jinx.png",
-        "points": 77220
+        "name": "Draven",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Draven.png",
+        "points": 78510
       }
     ],
     "highestMasteryChamp": {
@@ -371,7 +371,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 718,
+    "summonerLevel": 719,
     "profileIconId": 6224,
     "soloRank": {
       "tier": "Unranked",
@@ -397,7 +397,7 @@
       {
         "name": "Zoe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Zoe.png",
-        "points": 188687
+        "points": 189948
       },
       {
         "name": "Yone",
