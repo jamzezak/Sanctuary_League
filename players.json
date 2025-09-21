@@ -785,7 +785,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 967,
+    "summonerLevel": 968,
     "profileIconId": 3840,
     "soloRank": {
       "tier": "Unranked",
@@ -801,7 +801,7 @@
       {
         "name": "Shen",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Shen.png",
-        "points": 644874
+        "points": 645290
       },
       {
         "name": "Milio",
