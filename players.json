@@ -236,7 +236,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 255,
+    "summonerLevel": 256,
     "profileIconId": 691,
     "soloRank": {
       "tier": "Unranked",
@@ -551,7 +551,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 622,
+    "summonerLevel": 623,
     "profileIconId": 5774,
     "soloRank": {
       "tier": "Unranked",
@@ -562,7 +562,7 @@
       {
         "name": "Morgana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Morgana.png",
-        "points": 652822
+        "points": 653645
       },
       {
         "name": "Kai'Sa",
@@ -587,7 +587,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Morgana",
-      "points": 652822
+      "points": 653645
     }
   },
   {
