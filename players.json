@@ -565,14 +565,14 @@
         "points": 653645
       },
       {
+        "name": "Brand",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Brand.png",
+        "points": 169017
+      },
+      {
         "name": "Kai'Sa",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Kaisa.png",
         "points": 168053
-      },
-      {
-        "name": "Brand",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Brand.png",
-        "points": 167125
       },
       {
         "name": "Nautilus",
@@ -596,7 +596,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 508,
+    "summonerLevel": 509,
     "profileIconId": 1636,
     "soloRank": {
       "tier": "Unranked",
@@ -607,7 +607,7 @@
       {
         "name": "Sylas",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Sylas.png",
-        "points": 186977
+        "points": 187704
       },
       {
         "name": "LeBlanc",
@@ -632,7 +632,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Sylas",
-      "points": 186977
+      "points": 187704
     }
   },
   {
