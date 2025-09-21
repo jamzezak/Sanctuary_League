@@ -562,7 +562,7 @@
       {
         "name": "Morgana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Morgana.png",
-        "points": 653645
+        "points": 654450
       },
       {
         "name": "Brand",
@@ -577,7 +577,7 @@
       {
         "name": "Nautilus",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Nautilus.png",
-        "points": 150117
+        "points": 150811
       },
       {
         "name": "Teemo",
@@ -587,7 +587,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Morgana",
-      "points": 653645
+      "points": 654450
     }
   },
   {
