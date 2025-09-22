@@ -97,7 +97,7 @@
       "Top",
       "Mid"
     ],
-    "summonerLevel": 977,
+    "summonerLevel": 978,
     "profileIconId": 6666,
     "soloRank": {
       "tier": "Unranked",
@@ -108,12 +108,12 @@
       {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Aurora.png",
-        "points": 398045
+        "points": 399513
       },
       {
         "name": "Sett",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Sett.png",
-        "points": 387928
+        "points": 389602
       },
       {
         "name": "Gangplank",
@@ -133,7 +133,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aurora",
-      "points": 398045
+      "points": 399513
     }
   },
   {
