@@ -67,7 +67,7 @@
       {
         "name": "Renekton",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Renekton.png",
-        "points": 96380
+        "points": 98103
       },
       {
         "name": "Thresh",
@@ -260,14 +260,14 @@
         "points": 77944
       },
       {
+        "name": "Rengar",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Rengar.png",
+        "points": 75693
+      },
+      {
         "name": "Amumu",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Amumu.png",
         "points": 75072
-      },
-      {
-        "name": "Rengar",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Rengar.png",
-        "points": 74792
       }
     ],
     "highestMasteryChamp": {
@@ -701,7 +701,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Ashe.png",
-        "points": 221116
+        "points": 222698
       },
       {
         "name": "Gnar",
@@ -726,7 +726,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Ashe",
-      "points": 221116
+      "points": 222698
     }
   },
   {
