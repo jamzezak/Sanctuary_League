@@ -51,7 +51,7 @@
       "Top",
       "Support"
     ],
-    "summonerLevel": 457,
+    "summonerLevel": 458,
     "profileIconId": 658,
     "soloRank": {
       "tier": "Unranked",
@@ -337,7 +337,7 @@
       {
         "name": "Kayn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Kayn.png",
-        "points": 664074
+        "points": 664478
       },
       {
         "name": "Yasuo",
@@ -347,7 +347,7 @@
       {
         "name": "Lee Sin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/LeeSin.png",
-        "points": 365261
+        "points": 365959
       },
       {
         "name": "Zed",
@@ -362,7 +362,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Kayn",
-      "points": 664074
+      "points": 664478
     }
   },
   {
@@ -786,7 +786,7 @@
       "Support"
     ],
     "summonerLevel": 968,
-    "profileIconId": 3840,
+    "profileIconId": 6052,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
