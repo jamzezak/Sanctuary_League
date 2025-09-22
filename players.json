@@ -701,7 +701,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Ashe.png",
-        "points": 224203
+        "points": 225041
       },
       {
         "name": "Gnar",
@@ -726,7 +726,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Ashe",
-      "points": 224203
+      "points": 225041
     }
   },
   {
