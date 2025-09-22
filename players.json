@@ -839,37 +839,8 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [
-      {
-        "name": "Yuumi",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Yuumi.png",
-        "points": 723870
-      },
-      {
-        "name": "Lucian",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Lucian.png",
-        "points": 223635
-      },
-      {
-        "name": "Rakan",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Rakan.png",
-        "points": 196275
-      },
-      {
-        "name": "Ziggs",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Ziggs.png",
-        "points": 149551
-      },
-      {
-        "name": "Jinx",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Jinx.png",
-        "points": 136899
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Yuumi",
-      "points": 723870
-    }
+    "topChamps": [],
+    "highestMasteryChamp": null
   },
   {
     "name": "TTV BroGodTV",
