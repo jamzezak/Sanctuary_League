@@ -337,7 +337,7 @@
       {
         "name": "Kayn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.18.1/img/champion/Kayn.png",
-        "points": 663248
+        "points": 664074
       },
       {
         "name": "Yasuo",
@@ -362,7 +362,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Kayn",
-      "points": 663248
+      "points": 664074
     }
   },
   {
@@ -736,7 +736,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 911,
+    "summonerLevel": 912,
     "profileIconId": 6864,
     "soloRank": {
       "tier": "Unranked",
