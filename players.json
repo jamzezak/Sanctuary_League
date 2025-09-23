@@ -558,8 +558,37 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [],
-    "highestMasteryChamp": null
+    "topChamps": [
+      {
+        "name": "Morgana",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Morgana.png",
+        "points": 654450
+      },
+      {
+        "name": "Brand",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Brand.png",
+        "points": 170214
+      },
+      {
+        "name": "Kai'Sa",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Kaisa.png",
+        "points": 168053
+      },
+      {
+        "name": "Nautilus",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Nautilus.png",
+        "points": 151946
+      },
+      {
+        "name": "Teemo",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Teemo.png",
+        "points": 126820
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Morgana",
+      "points": 654450
+    }
   },
   {
     "name": "thatloosecannon",
