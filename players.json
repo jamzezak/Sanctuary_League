@@ -701,7 +701,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Ashe.png",
-        "points": 232706
+        "points": 234998
       },
       {
         "name": "Gnar",
@@ -726,7 +726,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Ashe",
-      "points": 232706
+      "points": 234998
     }
   },
   {
@@ -877,7 +877,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 323,
+    "summonerLevel": 324,
     "profileIconId": 6378,
     "soloRank": {
       "tier": "Unranked",
