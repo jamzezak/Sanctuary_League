@@ -51,7 +51,7 @@
       "Top",
       "Support"
     ],
-    "summonerLevel": 458,
+    "summonerLevel": 459,
     "profileIconId": 6771,
     "soloRank": {
       "tier": "Unranked",
@@ -67,7 +67,7 @@
       {
         "name": "Renekton",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Renekton.png",
-        "points": 99636
+        "points": 100507
       },
       {
         "name": "Thresh",
@@ -701,7 +701,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Ashe.png",
-        "points": 236189
+        "points": 239096
       },
       {
         "name": "Gnar",
@@ -726,7 +726,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Ashe",
-      "points": 236189
+      "points": 239096
     }
   },
   {
