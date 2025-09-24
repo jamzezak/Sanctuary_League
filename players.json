@@ -690,7 +690,7 @@
       "Top",
       "ADC"
     ],
-    "summonerLevel": 369,
+    "summonerLevel": 370,
     "profileIconId": 6500,
     "soloRank": {
       "tier": "Unranked",
@@ -701,7 +701,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Ashe.png",
-        "points": 230007
+        "points": 231902
       },
       {
         "name": "Gnar",
@@ -726,7 +726,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Ashe",
-      "points": 230007
+      "points": 231902
     }
   },
   {
