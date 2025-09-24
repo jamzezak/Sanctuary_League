@@ -67,7 +67,7 @@
       {
         "name": "Renekton",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Renekton.png",
-        "points": 98912
+        "points": 99636
       },
       {
         "name": "Thresh",
@@ -701,7 +701,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Ashe.png",
-        "points": 234998
+        "points": 236189
       },
       {
         "name": "Gnar",
@@ -726,7 +726,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Ashe",
-      "points": 234998
+      "points": 236189
     }
   },
   {
