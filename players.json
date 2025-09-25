@@ -5,7 +5,7 @@
     "role": [
       "ADC"
     ],
-    "summonerLevel": 376,
+    "summonerLevel": 377,
     "profileIconId": 6883,
     "soloRank": {
       "tier": "Unranked",
@@ -36,7 +36,7 @@
       {
         "name": "Draven",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Draven.png",
-        "points": 80578
+        "points": 81430
       }
     ],
     "highestMasteryChamp": {
