@@ -16,7 +16,7 @@
       {
         "name": "Vayne",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Vayne.png",
-        "points": 1254531
+        "points": 1256000
       },
       {
         "name": "Twitch",
@@ -41,7 +41,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Vayne",
-      "points": 1254531
+      "points": 1256000
     }
   },
   {
@@ -205,14 +205,14 @@
         "points": 148185
       },
       {
+        "name": "Lee Sin",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/LeeSin.png",
+        "points": 144499
+      },
+      {
         "name": "Ezreal",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Ezreal.png",
         "points": 144272
-      },
-      {
-        "name": "Lee Sin",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/LeeSin.png",
-        "points": 143098
       },
       {
         "name": "Draven",
