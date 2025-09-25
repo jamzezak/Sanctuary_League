@@ -108,7 +108,7 @@
       {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Aurora.png",
-        "points": 406685
+        "points": 408492
       },
       {
         "name": "Sett",
@@ -133,7 +133,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aurora",
-      "points": 406685
+      "points": 408492
     }
   },
   {
@@ -567,7 +567,7 @@
       {
         "name": "Brand",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Brand.png",
-        "points": 170214
+        "points": 171183
       },
       {
         "name": "Kai'Sa",
