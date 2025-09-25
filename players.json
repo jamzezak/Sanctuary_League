@@ -97,7 +97,7 @@
       "Top",
       "Mid"
     ],
-    "summonerLevel": 980,
+    "summonerLevel": 981,
     "profileIconId": 6666,
     "soloRank": {
       "tier": "Unranked",
@@ -357,7 +357,7 @@
       {
         "name": "Graves",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Graves.png",
-        "points": 298056
+        "points": 299408
       }
     ],
     "highestMasteryChamp": {
