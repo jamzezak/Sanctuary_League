@@ -427,7 +427,7 @@
       {
         "name": "Jinx",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Jinx.png",
-        "points": 189544
+        "points": 190320
       },
       {
         "name": "Miss Fortune",
@@ -452,7 +452,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Jinx",
-      "points": 189544
+      "points": 190320
     }
   },
   {
@@ -931,14 +931,14 @@
     },
     "topChamps": [
       {
+        "name": "Lux",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Lux.png",
+        "points": 127609
+      },
+      {
         "name": "Nami",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Nami.png",
         "points": 125904
-      },
-      {
-        "name": "Lux",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Lux.png",
-        "points": 125402
       },
       {
         "name": "Senna",
@@ -957,8 +957,8 @@
       }
     ],
     "highestMasteryChamp": {
-      "name": "Nami",
-      "points": 125904
+      "name": "Lux",
+      "points": 127609
     }
   }
 ]
