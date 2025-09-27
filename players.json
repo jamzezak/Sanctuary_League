@@ -931,14 +931,14 @@
     },
     "topChamps": [
       {
+        "name": "Nami",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Nami.png",
+        "points": 125904
+      },
+      {
         "name": "Lux",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Lux.png",
         "points": 125402
-      },
-      {
-        "name": "Nami",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Nami.png",
-        "points": 124441
       },
       {
         "name": "Senna",
@@ -957,8 +957,8 @@
       }
     ],
     "highestMasteryChamp": {
-      "name": "Lux",
-      "points": 125402
+      "name": "Nami",
+      "points": 125904
     }
   }
 ]
