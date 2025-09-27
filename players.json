@@ -551,7 +551,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 624,
+    "summonerLevel": 625,
     "profileIconId": 5774,
     "soloRank": {
       "tier": "Unranked",
@@ -701,7 +701,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Ashe.png",
-        "points": 240394
+        "points": 241692
       },
       {
         "name": "Gnar",
@@ -726,7 +726,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Ashe",
-      "points": 240394
+      "points": 241692
     }
   },
   {
