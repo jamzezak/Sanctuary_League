@@ -236,7 +236,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 258,
+    "summonerLevel": 259,
     "profileIconId": 691,
     "soloRank": {
       "tier": "Unranked",
@@ -442,7 +442,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Ashe.png",
-        "points": 107502
+        "points": 109363
       },
       {
         "name": "Lucian",
@@ -933,7 +933,7 @@
       {
         "name": "Lux",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Lux.png",
-        "points": 127609
+        "points": 129136
       },
       {
         "name": "Nami",
@@ -958,7 +958,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Lux",
-      "points": 127609
+      "points": 129136
     }
   }
 ]
