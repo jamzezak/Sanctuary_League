@@ -144,7 +144,7 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 803,
+    "summonerLevel": 804,
     "profileIconId": 6212,
     "soloRank": {
       "tier": "Unranked",
@@ -165,17 +165,17 @@
       {
         "name": "Caitlyn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Caitlyn.png",
-        "points": 227198
+        "points": 228012
+      },
+      {
+        "name": "Ashe",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Ashe.png",
+        "points": 199193
       },
       {
         "name": "Ezreal",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Ezreal.png",
         "points": 198990
-      },
-      {
-        "name": "Ashe",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Ashe.png",
-        "points": 197129
       }
     ],
     "highestMasteryChamp": {
@@ -582,7 +582,7 @@
       {
         "name": "Teemo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Teemo.png",
-        "points": 129446
+        "points": 130129
       }
     ],
     "highestMasteryChamp": {
@@ -596,7 +596,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 510,
+    "summonerLevel": 511,
     "profileIconId": 1636,
     "soloRank": {
       "tier": "Unranked",
