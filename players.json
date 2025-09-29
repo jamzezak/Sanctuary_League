@@ -416,7 +416,7 @@
     "role": [
       "ADC"
     ],
-    "summonerLevel": 295,
+    "summonerLevel": 296,
     "profileIconId": 508,
     "soloRank": {
       "tier": "Unranked",
@@ -447,7 +447,7 @@
       {
         "name": "Lucian",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Lucian.png",
-        "points": 95148
+        "points": 95693
       }
     ],
     "highestMasteryChamp": {
@@ -607,7 +607,7 @@
       {
         "name": "Sylas",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Sylas.png",
-        "points": 187704
+        "points": 189452
       },
       {
         "name": "LeBlanc",
@@ -632,7 +632,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Sylas",
-      "points": 187704
+      "points": 189452
     }
   },
   {
@@ -701,7 +701,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Ashe.png",
-        "points": 242798
+        "points": 246035
       },
       {
         "name": "Gnar",
@@ -726,7 +726,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Ashe",
-      "points": 242798
+      "points": 246035
     }
   },
   {
@@ -922,7 +922,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 368,
+    "summonerLevel": 369,
     "profileIconId": 6622,
     "soloRank": {
       "tier": "Unranked",
@@ -938,7 +938,7 @@
       {
         "name": "Nami",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Nami.png",
-        "points": 125904
+        "points": 127634
       },
       {
         "name": "Senna",
