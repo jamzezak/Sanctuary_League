@@ -411,51 +411,6 @@
     }
   },
   {
-    "name": "LFO Snoopeeyy",
-    "tag": "Woof",
-    "role": [
-      "ADC"
-    ],
-    "summonerLevel": 296,
-    "profileIconId": 508,
-    "soloRank": {
-      "tier": "Unranked",
-      "rank": "",
-      "leaguePoints": 0
-    },
-    "topChamps": [
-      {
-        "name": "Jinx",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Jinx.png",
-        "points": 190320
-      },
-      {
-        "name": "Miss Fortune",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/MissFortune.png",
-        "points": 161061
-      },
-      {
-        "name": "Caitlyn",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Caitlyn.png",
-        "points": 147124
-      },
-      {
-        "name": "Ashe",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Ashe.png",
-        "points": 109363
-      },
-      {
-        "name": "Lucian",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Lucian.png",
-        "points": 95693
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Jinx",
-      "points": 190320
-    }
-  },
-  {
     "name": "HemoMgeWondrLand",
     "tag": "NA1",
     "role": [
