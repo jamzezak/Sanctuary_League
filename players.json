@@ -656,7 +656,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Ashe.png",
-        "points": 246035
+        "points": 246610
       },
       {
         "name": "Gnar",
@@ -681,7 +681,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Ashe",
-      "points": 246035
+      "points": 246610
     }
   },
   {
@@ -751,7 +751,7 @@
       {
         "name": "Soraka",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Soraka.png",
-        "points": 878941
+        "points": 880932
       },
       {
         "name": "Shen",
@@ -776,7 +776,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Soraka",
-      "points": 878941
+      "points": 880932
     }
   },
   {
