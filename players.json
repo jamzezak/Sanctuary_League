@@ -51,7 +51,7 @@
       "Top",
       "Support"
     ],
-    "summonerLevel": 459,
+    "summonerLevel": 460,
     "profileIconId": 6771,
     "soloRank": {
       "tier": "Unranked",
@@ -236,7 +236,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 259,
+    "summonerLevel": 260,
     "profileIconId": 691,
     "soloRank": {
       "tier": "Unranked",
@@ -645,7 +645,7 @@
       "Top",
       "ADC"
     ],
-    "summonerLevel": 371,
+    "summonerLevel": 372,
     "profileIconId": 6500,
     "soloRank": {
       "tier": "Unranked",
@@ -656,7 +656,7 @@
       {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Ashe.png",
-        "points": 246610
+        "points": 250788
       },
       {
         "name": "Gnar",
@@ -681,7 +681,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Ashe",
-      "points": 246610
+      "points": 250788
     }
   },
   {
