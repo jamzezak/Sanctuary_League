@@ -546,51 +546,6 @@
     }
   },
   {
-    "name": "thatloosecannon",
-    "tag": "noFF",
-    "role": [
-      "Mid"
-    ],
-    "summonerLevel": 511,
-    "profileIconId": 1636,
-    "soloRank": {
-      "tier": "Unranked",
-      "rank": "",
-      "leaguePoints": 0
-    },
-    "topChamps": [
-      {
-        "name": "Sylas",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Sylas.png",
-        "points": 189452
-      },
-      {
-        "name": "LeBlanc",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Leblanc.png",
-        "points": 184153
-      },
-      {
-        "name": "Ezreal",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Ezreal.png",
-        "points": 157269
-      },
-      {
-        "name": "Azir",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Azir.png",
-        "points": 142340
-      },
-      {
-        "name": "Viktor",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Viktor.png",
-        "points": 136534
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Sylas",
-      "points": 189452
-    }
-  },
-  {
     "name": "ZaberNinja",
     "tag": "77788",
     "role": [
