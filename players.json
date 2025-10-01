@@ -506,7 +506,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 625,
+    "summonerLevel": 626,
     "profileIconId": 5774,
     "soloRank": {
       "tier": "Unranked",
@@ -527,7 +527,7 @@
       {
         "name": "Kai'Sa",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Kaisa.png",
-        "points": 168481
+        "points": 169252
       },
       {
         "name": "Nautilus",
