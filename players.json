@@ -565,7 +565,7 @@
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Aatrox.png",
-        "points": 529672
+        "points": 531028
       },
       {
         "name": "Yasuo",
@@ -590,7 +590,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 529672
+      "points": 531028
     }
   },
   {
