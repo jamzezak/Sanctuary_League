@@ -51,7 +51,7 @@
       "Top",
       "Support"
     ],
-    "summonerLevel": 460,
+    "summonerLevel": 461,
     "profileIconId": 6771,
     "soloRank": {
       "tier": "Unranked",
@@ -60,14 +60,14 @@
     },
     "topChamps": [
       {
+        "name": "Renekton",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Renekton.png",
+        "points": 102491
+      },
+      {
         "name": "Tristana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Tristana.png",
         "points": 102432
-      },
-      {
-        "name": "Renekton",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Renekton.png",
-        "points": 100507
       },
       {
         "name": "Thresh",
@@ -86,8 +86,8 @@
       }
     ],
     "highestMasteryChamp": {
-      "name": "Tristana",
-      "points": 102432
+      "name": "Renekton",
+      "points": 102491
     }
   },
   {
@@ -108,7 +108,7 @@
       {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Aurora.png",
-        "points": 420268
+        "points": 422995
       },
       {
         "name": "Sett",
@@ -133,7 +133,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aurora",
-      "points": 420268
+      "points": 422995
     }
   },
   {
@@ -537,7 +537,7 @@
       {
         "name": "Teemo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Teemo.png",
-        "points": 131572
+        "points": 132130
       }
     ],
     "highestMasteryChamp": {
