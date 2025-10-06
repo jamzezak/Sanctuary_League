@@ -236,7 +236,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 261,
+    "summonerLevel": 262,
     "profileIconId": 29,
     "soloRank": {
       "tier": "Unranked",
@@ -517,7 +517,7 @@
       {
         "name": "Morgana",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.19.1/img/champion/Morgana.png",
-        "points": 657524
+        "points": 658843
       },
       {
         "name": "Brand",
@@ -542,7 +542,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Morgana",
-      "points": 657524
+      "points": 658843
     }
   },
   {
