@@ -357,7 +357,7 @@
       {
         "name": "Graves",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Graves.png",
-        "points": 301005
+        "points": 302894
       }
     ],
     "highestMasteryChamp": {
@@ -385,14 +385,14 @@
         "points": 568100
       },
       {
+        "name": "Vex",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Vex.png",
+        "points": 229634
+      },
+      {
         "name": "Akali",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Akali.png",
         "points": 229511
-      },
-      {
-        "name": "Vex",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Vex.png",
-        "points": 228221
       },
       {
         "name": "Zoe",
@@ -696,7 +696,7 @@
       "Support"
     ],
     "summonerLevel": 972,
-    "profileIconId": 5736,
+    "profileIconId": 5996,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
