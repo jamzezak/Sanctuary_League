@@ -686,55 +686,6 @@
     }
   },
   {
-    "name": "Lelouch",
-    "tag": "SHEN",
-    "role": [
-      "Top",
-      "Jungle",
-      "Mid",
-      "ADC",
-      "Support"
-    ],
-    "summonerLevel": 973,
-    "profileIconId": 6946,
-    "soloRank": {
-      "tier": "Unranked",
-      "rank": "",
-      "leaguePoints": 0
-    },
-    "topChamps": [
-      {
-        "name": "Soraka",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Soraka.png",
-        "points": 883519
-      },
-      {
-        "name": "Shen",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Shen.png",
-        "points": 645290
-      },
-      {
-        "name": "Milio",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Milio.png",
-        "points": 401447
-      },
-      {
-        "name": "Sona",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Sona.png",
-        "points": 315130
-      },
-      {
-        "name": "Janna",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Janna.png",
-        "points": 303581
-      }
-    ],
-    "highestMasteryChamp": {
-      "name": "Soraka",
-      "points": 883519
-    }
-  },
-  {
     "name": "Starblazzer",
     "tag": "NA1",
     "role": [
