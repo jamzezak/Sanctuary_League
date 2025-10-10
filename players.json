@@ -288,8 +288,37 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [],
-    "highestMasteryChamp": null
+    "topChamps": [
+      {
+        "name": "Lulu",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Lulu.png",
+        "points": 151536
+      },
+      {
+        "name": "Annie",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Annie.png",
+        "points": 140650
+      },
+      {
+        "name": "Sejuani",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Sejuani.png",
+        "points": 129786
+      },
+      {
+        "name": "Nautilus",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Nautilus.png",
+        "points": 119859
+      },
+      {
+        "name": "Leona",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Leona.png",
+        "points": 117100
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Lulu",
+      "points": 151536
+    }
   },
   {
     "name": "Drakar",
@@ -304,8 +333,37 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [],
-    "highestMasteryChamp": null
+    "topChamps": [
+      {
+        "name": "Kayn",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Kayn.png",
+        "points": 667056
+      },
+      {
+        "name": "Yasuo",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Yasuo.png",
+        "points": 385982
+      },
+      {
+        "name": "Lee Sin",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/LeeSin.png",
+        "points": 367918
+      },
+      {
+        "name": "Zed",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Zed.png",
+        "points": 309622
+      },
+      {
+        "name": "Graves",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Graves.png",
+        "points": 302894
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Kayn",
+      "points": 667056
+    }
   },
   {
     "name": "DargonOwO",
@@ -595,8 +653,37 @@
       "rank": "",
       "leaguePoints": 0
     },
-    "topChamps": [],
-    "highestMasteryChamp": null
+    "topChamps": [
+      {
+        "name": "Katarina",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Katarina.png",
+        "points": 512763
+      },
+      {
+        "name": "Rakan",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Rakan.png",
+        "points": 424091
+      },
+      {
+        "name": "Alistar",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Alistar.png",
+        "points": 214718
+      },
+      {
+        "name": "Thresh",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Thresh.png",
+        "points": 200882
+      },
+      {
+        "name": "Brand",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Brand.png",
+        "points": 194197
+      }
+    ],
+    "highestMasteryChamp": {
+      "name": "Katarina",
+      "points": 512763
+    }
   },
   {
     "name": "Lelouch",
