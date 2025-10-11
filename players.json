@@ -326,7 +326,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 896,
+    "summonerLevel": 897,
     "profileIconId": 3151,
     "soloRank": {
       "tier": "Unranked",
@@ -357,7 +357,7 @@
       {
         "name": "Graves",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Graves.png",
-        "points": 304910
+        "points": 305993
       }
     ],
     "highestMasteryChamp": {
