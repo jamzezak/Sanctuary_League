@@ -72,7 +72,7 @@
       {
         "name": "Thresh",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Thresh.png",
-        "points": 89668
+        "points": 91595
       },
       {
         "name": "Rumble",
@@ -506,7 +506,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 629,
+    "summonerLevel": 630,
     "profileIconId": 5774,
     "soloRank": {
       "tier": "Unranked",
