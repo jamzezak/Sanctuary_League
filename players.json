@@ -72,7 +72,7 @@
       {
         "name": "Thresh",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Thresh.png",
-        "points": 91595
+        "points": 93136
       },
       {
         "name": "Rumble",
@@ -108,7 +108,7 @@
       {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Aurora.png",
-        "points": 430317
+        "points": 431345
       },
       {
         "name": "Sett",
@@ -133,7 +133,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aurora",
-      "points": 430317
+      "points": 431345
     }
   },
   {
