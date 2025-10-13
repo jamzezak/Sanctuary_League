@@ -60,14 +60,14 @@
     },
     "topChamps": [
       {
+        "name": "Tristana",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Tristana.png",
+        "points": 102758
+      },
+      {
         "name": "Renekton",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Renekton.png",
         "points": 102491
-      },
-      {
-        "name": "Tristana",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Tristana.png",
-        "points": 102432
       },
       {
         "name": "Thresh",
@@ -86,8 +86,8 @@
       }
     ],
     "highestMasteryChamp": {
-      "name": "Renekton",
-      "points": 102491
+      "name": "Tristana",
+      "points": 102758
     }
   },
   {
@@ -799,7 +799,7 @@
       {
         "name": "Nami",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Nami.png",
-        "points": 127634
+        "points": 128239
       },
       {
         "name": "Senna",
