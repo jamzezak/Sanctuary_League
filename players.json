@@ -337,7 +337,7 @@
       {
         "name": "Kayn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Kayn.png",
-        "points": 667056
+        "points": 667760
       },
       {
         "name": "Yasuo",
@@ -362,7 +362,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Kayn",
-      "points": 667056
+      "points": 667760
     }
   },
   {
