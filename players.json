@@ -783,7 +783,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 370,
+    "summonerLevel": 371,
     "profileIconId": 6622,
     "soloRank": {
       "tier": "Unranked",
@@ -794,7 +794,7 @@
       {
         "name": "Lux",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Lux.png",
-        "points": 129136
+        "points": 130680
       },
       {
         "name": "Nami",
@@ -819,7 +819,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Lux",
-      "points": 129136
+      "points": 130680
     }
   }
 ]
