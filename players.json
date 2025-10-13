@@ -97,7 +97,7 @@
       "Top",
       "Mid"
     ],
-    "summonerLevel": 985,
+    "summonerLevel": 986,
     "profileIconId": 6666,
     "soloRank": {
       "tier": "Unranked",
@@ -128,7 +128,7 @@
       {
         "name": "Pantheon",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Pantheon.png",
-        "points": 194321
+        "points": 195830
       }
     ],
     "highestMasteryChamp": {
