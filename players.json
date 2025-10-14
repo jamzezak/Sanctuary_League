@@ -108,7 +108,7 @@
       {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Aurora.png",
-        "points": 431345
+        "points": 431684
       },
       {
         "name": "Sett",
@@ -133,7 +133,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aurora",
-      "points": 431345
+      "points": 431684
     }
   },
   {
@@ -337,7 +337,7 @@
       {
         "name": "Kayn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Kayn.png",
-        "points": 667760
+        "points": 668531
       },
       {
         "name": "Yasuo",
@@ -362,7 +362,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Kayn",
-      "points": 667760
+      "points": 668531
     }
   },
   {
