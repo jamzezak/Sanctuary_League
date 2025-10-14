@@ -52,7 +52,7 @@
       "Support"
     ],
     "summonerLevel": 463,
-    "profileIconId": 6771,
+    "profileIconId": 5917,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -357,7 +357,7 @@
       {
         "name": "Graves",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Graves.png",
-        "points": 306855
+        "points": 308272
       }
     ],
     "highestMasteryChamp": {
@@ -657,7 +657,7 @@
       {
         "name": "Katarina",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Katarina.png",
-        "points": 512763
+        "points": 513491
       },
       {
         "name": "Rakan",
@@ -682,7 +682,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Katarina",
-      "points": 512763
+      "points": 513491
     }
   },
   {
