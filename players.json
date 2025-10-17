@@ -382,7 +382,7 @@
       {
         "name": "Yasuo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Yasuo.png",
-        "points": 568100
+        "points": 569875
       },
       {
         "name": "Akali",
@@ -407,7 +407,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Yasuo",
-      "points": 568100
+      "points": 569875
     }
   },
   {
@@ -506,7 +506,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 630,
+    "summonerLevel": 631,
     "profileIconId": 5774,
     "soloRank": {
       "tier": "Unranked",
@@ -527,7 +527,7 @@
       {
         "name": "Kai'Sa",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Kaisa.png",
-        "points": 170363
+        "points": 170772
       },
       {
         "name": "Nautilus",
