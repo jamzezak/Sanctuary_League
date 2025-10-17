@@ -97,7 +97,7 @@
       "Top",
       "Mid"
     ],
-    "summonerLevel": 987,
+    "summonerLevel": 988,
     "profileIconId": 6666,
     "soloRank": {
       "tier": "Unranked",
@@ -326,7 +326,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 898,
+    "summonerLevel": 899,
     "profileIconId": 3151,
     "soloRank": {
       "tier": "Unranked",
@@ -416,7 +416,7 @@
     "role": [
       "Top"
     ],
-    "summonerLevel": 248,
+    "summonerLevel": 249,
     "profileIconId": 5408,
     "soloRank": {
       "tier": "Unranked",
@@ -437,7 +437,7 @@
       {
         "name": "Sylas",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Sylas.png",
-        "points": 106229
+        "points": 107220
       },
       {
         "name": "Malzahar",
