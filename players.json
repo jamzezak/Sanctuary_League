@@ -108,7 +108,7 @@
       {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Aurora.png",
-        "points": 440507
+        "points": 442081
       },
       {
         "name": "Sett",
@@ -133,7 +133,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aurora",
-      "points": 440507
+      "points": 442081
     }
   },
   {
@@ -337,7 +337,7 @@
       {
         "name": "Kayn",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Kayn.png",
-        "points": 668531
+        "points": 669792
       },
       {
         "name": "Yasuo",
@@ -362,7 +362,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Kayn",
-      "points": 668531
+      "points": 669792
     }
   },
   {
@@ -371,7 +371,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 721,
+    "summonerLevel": 722,
     "profileIconId": 6224,
     "soloRank": {
       "tier": "Unranked",
@@ -804,7 +804,7 @@
       {
         "name": "Senna",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Senna.png",
-        "points": 91283
+        "points": 92099
       },
       {
         "name": "Leona",
