@@ -113,7 +113,7 @@
       {
         "name": "Sett",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Sett.png",
-        "points": 392167
+        "points": 393549
       },
       {
         "name": "Gangplank",
@@ -155,7 +155,7 @@
       {
         "name": "Miss Fortune",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/MissFortune.png",
-        "points": 377174
+        "points": 378742
       },
       {
         "name": "Jhin",
@@ -180,7 +180,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Miss Fortune",
-      "points": 377174
+      "points": 378742
     }
   },
   {
@@ -326,7 +326,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 899,
+    "summonerLevel": 900,
     "profileIconId": 3151,
     "soloRank": {
       "tier": "Unranked",
