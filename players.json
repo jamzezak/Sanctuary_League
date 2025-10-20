@@ -108,12 +108,12 @@
       {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Aurora.png",
-        "points": 447037
+        "points": 447589
       },
       {
         "name": "Sett",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Sett.png",
-        "points": 390421
+        "points": 392167
       },
       {
         "name": "Gangplank",
@@ -133,7 +133,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aurora",
-      "points": 447037
+      "points": 447589
     }
   },
   {
