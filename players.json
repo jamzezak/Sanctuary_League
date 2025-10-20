@@ -97,7 +97,7 @@
       "Top",
       "Mid"
     ],
-    "summonerLevel": 989,
+    "summonerLevel": 990,
     "profileIconId": 6666,
     "soloRank": {
       "tier": "Unranked",
@@ -537,7 +537,7 @@
       {
         "name": "Teemo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Teemo.png",
-        "points": 134700
+        "points": 135763
       }
     ],
     "highestMasteryChamp": {
