@@ -350,14 +350,14 @@
         "points": 367918
       },
       {
+        "name": "Graves",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Graves.png",
+        "points": 309980
+      },
+      {
         "name": "Zed",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Zed.png",
         "points": 309622
-      },
-      {
-        "name": "Graves",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Graves.png",
-        "points": 308272
       }
     ],
     "highestMasteryChamp": {
@@ -537,7 +537,7 @@
       {
         "name": "Teemo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.20.1/img/champion/Teemo.png",
-        "points": 135763
+        "points": 136335
       }
     ],
     "highestMasteryChamp": {
