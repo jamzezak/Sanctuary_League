@@ -144,8 +144,8 @@
       "ADC",
       "Support"
     ],
-    "summonerLevel": 806,
-    "profileIconId": 6212,
+    "summonerLevel": 807,
+    "profileIconId": 3592,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -387,7 +387,7 @@
       {
         "name": "Akali",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/Akali.png",
-        "points": 230170
+        "points": 231858
       },
       {
         "name": "Vex",
