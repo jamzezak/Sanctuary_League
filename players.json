@@ -108,7 +108,7 @@
       {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/Aurora.png",
-        "points": 450973
+        "points": 452573
       },
       {
         "name": "Sett",
@@ -133,7 +133,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aurora",
-      "points": 450973
+      "points": 452573
     }
   },
   {
@@ -565,7 +565,7 @@
       {
         "name": "Aatrox",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/Aatrox.png",
-        "points": 532612
+        "points": 533435
       },
       {
         "name": "Yasuo",
@@ -590,7 +590,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aatrox",
-      "points": 532612
+      "points": 533435
     }
   },
   {
