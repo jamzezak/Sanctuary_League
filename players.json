@@ -326,7 +326,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 900,
+    "summonerLevel": 901,
     "profileIconId": 3151,
     "soloRank": {
       "tier": "Unranked",
@@ -537,7 +537,7 @@
       {
         "name": "Teemo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/Teemo.png",
-        "points": 136335
+        "points": 136794
       }
     ],
     "highestMasteryChamp": {
@@ -804,7 +804,7 @@
       {
         "name": "Senna",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/Senna.png",
-        "points": 92099
+        "points": 92833
       },
       {
         "name": "Leona",
