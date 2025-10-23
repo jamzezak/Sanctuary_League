@@ -442,7 +442,7 @@
       {
         "name": "Malzahar",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/Malzahar.png",
-        "points": 89107
+        "points": 89464
       },
       {
         "name": "Garen",
@@ -647,7 +647,7 @@
       "Support"
     ],
     "summonerLevel": 912,
-    "profileIconId": 6864,
+    "profileIconId": 5917,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -662,7 +662,7 @@
       {
         "name": "Rakan",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/Rakan.png",
-        "points": 424091
+        "points": 426032
       },
       {
         "name": "Alistar",
