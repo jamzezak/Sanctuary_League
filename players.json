@@ -97,7 +97,7 @@
       "Top",
       "Mid"
     ],
-    "summonerLevel": 992,
+    "summonerLevel": 993,
     "profileIconId": 6666,
     "soloRank": {
       "tier": "Unranked",
@@ -128,7 +128,7 @@
       {
         "name": "Pantheon",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/Pantheon.png",
-        "points": 195830
+        "points": 196701
       }
     ],
     "highestMasteryChamp": {
@@ -168,14 +168,14 @@
         "points": 229333
       },
       {
+        "name": "Ezreal",
+        "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/Ezreal.png",
+        "points": 199662
+      },
+      {
         "name": "Ashe",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/Ashe.png",
         "points": 199193
-      },
-      {
-        "name": "Ezreal",
-        "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/Ezreal.png",
-        "points": 198990
       }
     ],
     "highestMasteryChamp": {
@@ -506,7 +506,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 633,
+    "summonerLevel": 634,
     "profileIconId": 5774,
     "soloRank": {
       "tier": "Unranked",
