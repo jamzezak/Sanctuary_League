@@ -794,7 +794,7 @@
       {
         "name": "Lux",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/Lux.png",
-        "points": 131390
+        "points": 132038
       },
       {
         "name": "Nami",
@@ -819,7 +819,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Lux",
-      "points": 131390
+      "points": 132038
     }
   }
 ]
