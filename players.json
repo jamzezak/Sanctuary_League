@@ -326,7 +326,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 902,
+    "summonerLevel": 903,
     "profileIconId": 3151,
     "soloRank": {
       "tier": "Unranked",
@@ -522,7 +522,7 @@
       {
         "name": "Brand",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/Brand.png",
-        "points": 181759
+        "points": 182334
       },
       {
         "name": "Kai'Sa",
