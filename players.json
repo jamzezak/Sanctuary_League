@@ -326,7 +326,7 @@
     "role": [
       "Jungle"
     ],
-    "summonerLevel": 903,
+    "summonerLevel": 904,
     "profileIconId": 3151,
     "soloRank": {
       "tier": "Unranked",
@@ -357,7 +357,7 @@
       {
         "name": "Zed",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/Zed.png",
-        "points": 310183
+        "points": 311118
       }
     ],
     "highestMasteryChamp": {
@@ -506,7 +506,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 635,
+    "summonerLevel": 636,
     "profileIconId": 5774,
     "soloRank": {
       "tier": "Unranked",
@@ -809,7 +809,7 @@
       {
         "name": "Leona",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/Leona.png",
-        "points": 87845
+        "points": 88694
       },
       {
         "name": "Syndra",
