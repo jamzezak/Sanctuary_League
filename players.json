@@ -108,12 +108,12 @@
       {
         "name": "Aurora",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/Aurora.png",
-        "points": 457792
+        "points": 458378
       },
       {
         "name": "Sett",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/Sett.png",
-        "points": 395797
+        "points": 396579
       },
       {
         "name": "Gangplank",
@@ -133,7 +133,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Aurora",
-      "points": 457792
+      "points": 458378
     }
   },
   {
@@ -371,7 +371,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 723,
+    "summonerLevel": 724,
     "profileIconId": 6224,
     "soloRank": {
       "tier": "Unranked",
@@ -382,7 +382,7 @@
       {
         "name": "Yasuo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/Yasuo.png",
-        "points": 569875
+        "points": 571146
       },
       {
         "name": "Akali",
@@ -407,7 +407,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Yasuo",
-      "points": 569875
+      "points": 571146
     }
   },
   {
