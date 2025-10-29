@@ -327,7 +327,7 @@
       "Jungle"
     ],
     "summonerLevel": 904,
-    "profileIconId": 3151,
+    "profileIconId": 2088,
     "soloRank": {
       "tier": "Unranked",
       "rank": "",
@@ -347,12 +347,12 @@
       {
         "name": "Lee Sin",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/LeeSin.png",
-        "points": 367918
+        "points": 368774
       },
       {
         "name": "Graves",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/Graves.png",
-        "points": 311297
+        "points": 311727
       },
       {
         "name": "Zed",
@@ -749,7 +749,7 @@
       {
         "name": "Syndra",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/Syndra.png",
-        "points": 282404
+        "points": 284503
       },
       {
         "name": "Hwei",
@@ -774,7 +774,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Syndra",
-      "points": 282404
+      "points": 284503
     }
   },
   {
