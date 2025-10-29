@@ -754,7 +754,7 @@
       {
         "name": "Hwei",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/Hwei.png",
-        "points": 142977
+        "points": 143749
       },
       {
         "name": "Sylas",
@@ -783,7 +783,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 373,
+    "summonerLevel": 374,
     "profileIconId": 4895,
     "soloRank": {
       "tier": "Unranked",
