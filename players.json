@@ -155,7 +155,7 @@
       {
         "name": "Miss Fortune",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/MissFortune.png",
-        "points": 378742
+        "points": 379609
       },
       {
         "name": "Jhin",
@@ -180,7 +180,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Miss Fortune",
-      "points": 378742
+      "points": 379609
     }
   },
   {
@@ -371,7 +371,7 @@
     "role": [
       "Mid"
     ],
-    "summonerLevel": 724,
+    "summonerLevel": 725,
     "profileIconId": 6224,
     "soloRank": {
       "tier": "Unranked",
