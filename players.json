@@ -118,7 +118,7 @@
       {
         "name": "Gangplank",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/Gangplank.png",
-        "points": 361289
+        "points": 363283
       },
       {
         "name": "Darius",
@@ -382,7 +382,7 @@
       {
         "name": "Yasuo",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/Yasuo.png",
-        "points": 571146
+        "points": 572286
       },
       {
         "name": "Akali",
@@ -407,7 +407,7 @@
     ],
     "highestMasteryChamp": {
       "name": "Yasuo",
-      "points": 571146
+      "points": 572286
     }
   },
   {
