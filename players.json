@@ -82,7 +82,7 @@
       {
         "name": "Amumu",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/Amumu.png",
-        "points": 70277
+        "points": 70700
       }
     ],
     "highestMasteryChamp": {
@@ -97,7 +97,7 @@
       "Top",
       "Mid"
     ],
-    "summonerLevel": 995,
+    "summonerLevel": 996,
     "profileIconId": 6666,
     "soloRank": {
       "tier": "Unranked",
@@ -506,7 +506,7 @@
     "role": [
       "Support"
     ],
-    "summonerLevel": 636,
+    "summonerLevel": 637,
     "profileIconId": 5774,
     "soloRank": {
       "tier": "Unranked",
@@ -809,7 +809,7 @@
       {
         "name": "Leona",
         "img": "https://ddragon.leagueoflegends.com/cdn/15.21.1/img/champion/Leona.png",
-        "points": 88694
+        "points": 90037
       },
       {
         "name": "Syndra",
